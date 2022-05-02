@@ -7,7 +7,7 @@
 <a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/keybase/pgp/osint_intel?label=Keybase&logo=Keybase&logoColor=orange&style=for-the-badge"/></a>
 <a href="https://twitter.com/OSINT_Tactical"><img src="https://img.shields.io/twitter/follow/OSINT_Tactical?label=%40OSINT_Tactical&logo=Twitter&logoColor=blu&style=for-the-badge"/></a>
 <a href="https://github.com/C3n7ral051nt4g3ncy/"><img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy?label=C3n7ral051nt4g3ncy&logo=Github&style=for-the-badge"/></a> </p>
-<p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>KEYBASE PUB KEY</code></a> </p>
+<p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
 <br>
 
 <!-- Whois.COA -->
