@@ -1,5 +1,5 @@
 <p align="center"> <img width="133" height="142" src="https://user-images.githubusercontent.com/104733166/166289983-f754d266-231d-4e2f-ac44-b205c0f54631.gif"/>
-<h2 align="center">👋 <code>01101000 01101001</code>, I'm C3n7ral051nt4g3ncy/ sharing the love :purple_heart: on GitHub :octocat::rocket:</h2>
+<h2 align="center">👋 <code>01101000 01101001</code>, C3n7ral051nt4g3ncy/ sharing the love :purple_heart: on GitHub :octocat::rocket:</h2>
 
 <p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166234495-193759cd-1808-4fb9-ac4c-2cbad1d54517.gif"></p>
 
