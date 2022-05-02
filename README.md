@@ -42,7 +42,7 @@
       
       
 <!-- OSINT-PROJECT-LIST:START -->
-- [OSINT INCEPTION 🚀 - start.me of the best start.me OSINT work](https://start.me/p/Pwy0X4/osint-inception)
+- [OSINT INCEPTION 🚀 - start.me of the best start.meeez lol](https://start.me/p/Pwy0X4/osint-inception)
 - [GOOGLE CSE 🇬 - Google Custom Search Engine of the top start.me resources](https://start.me/p/Pwy0X4/osint-inception)
 - [FACIAL RECOGNITION 👤 - Tracking Military personnel with facial recognition](https://twitter.com/OSINT_Tactical/status/1498694266754899978)
 <!-- OSINT-PROJECT-LIST:END --></p>
