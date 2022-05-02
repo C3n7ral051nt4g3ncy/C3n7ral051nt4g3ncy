@@ -20,7 +20,7 @@
   
 <br><ul style="list-style-type:disc;">
 <li>:fire:Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY & NFT | PYTHON | OPSEC :lock: </li>
-<li>👨‍🏫 OSINT Trainer</li>
+<li>👨‍🏫 OSINT Trainer @Tactical Systems Academy</li>
 <li>🏴The OSINTion Black Badge</li>
 <li>🥈Trace Labs OSINT Search Party CTF 2022.03 Silver Badge</li>
 <li>Ⓗ Hacktoria Hall of Fame</li>
