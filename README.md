@@ -37,8 +37,8 @@
 <details>
 <summary><b>🕵️‍:computer::rocket::shipit:OSINT Projects </b></summary>
 <p>
-       
-<img align="right" width="233" height="142" src="https://user-images.githubusercontent.com/104733166/166296712-c4af8377-2437-4882-94c7-17c80f011d27.gif"/>
+<br>      
+<img align="right" width="233" height="142" src="https://user-images.githubusercontent.com/104733166/166296712-c4af8377-2437-4882-94c7-17c80f011d27.gif"/><br>
       
       
 <!-- OSINT-PROJECT-LIST:START -->
