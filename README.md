@@ -13,7 +13,7 @@
 <!-- Whois.COA -->
 <details>
 <summary><b> :mag:Whois.C3n7ral051nt4g3ncy</b></summary><p>
-<img align="right" width="233" height="233"  src="https://user-images.githubusercontent.com/104733166/166296936-0dd0d432-4d6a-42ab-9000-189cebfbceff.png" />
+<img align="right" width="133" height="133"  src="https://user-images.githubusercontent.com/104733166/166296936-0dd0d432-4d6a-42ab-9000-189cebfbceff.png" />
       
 <blockquote>
 ƚɘᴎɒ|q ɘʜƚ ƚᴎiꙅo
@@ -37,9 +37,8 @@
 <details>
 <summary><b>🕵️‍:computer::rocket::shipit:OSINT Projects </b></summary>
 <p>
-<br>      
-<img align="right" width="233" height="142" src="https://user-images.githubusercontent.com/104733166/166296712-c4af8377-2437-4882-94c7-17c80f011d27.gif"/><br>
-      
+ 
+<img align="right" width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166296712-c4af8377-2437-4882-94c7-17c80f011d27.gif"/> 
       
 <!-- OSINT-PROJECT-LIST:START -->
 - [OSINT INCEPTION 🚀 - start.me of the best start.meeez lol](https://start.me/p/Pwy0X4/osint-inception)
@@ -53,7 +52,7 @@
 <summary><b>📰 Media on my OSINT research </b></summary>
 <p>
             
-<img align='right' width='233' src="https://user-images.githubusercontent.com/104733166/166305603-6920f75a-94fd-45f5-9153-b0cfd4a9baca.gif"/>
+<img align='right' width='166' src="https://user-images.githubusercontent.com/104733166/166305603-6920f75a-94fd-45f5-9153-b0cfd4a9baca.gif"/>
 
 <!--MEDIA:START-->
      
