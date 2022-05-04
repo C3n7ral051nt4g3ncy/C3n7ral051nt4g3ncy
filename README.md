@@ -68,6 +68,34 @@
   
 <a href="https://news.sina.cn/gn/2022-03-28/detail-imcwiwss8541952.d.html"> Chinese article 🇨🇳 <a/>
 <!--MEDIA:END-->
+      
+</p>
+</details>
+      
+<br>
+<br>
+      
+
+<!-- Badges & CTF Events -->
+<details>
+<summary><b> 🔖 Badges </b></summary>
+<p>
+      
+<p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166777077-d96c51cb-4038-456f-8ff2-d5209596c655.png"/>
+      
+      The OSINTion Black Badge, issued by Joe Gray
+      
+<p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166788919-07ff450c-c35c-4171-88b1-de93b651fc32.png"/>
+
+   
+
+      Trace Labs - Silver Badge - Global OSINT Search Party CTF [Team #CageyBees 🐝🐝]
+      
+<img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166800308-cecafdfe-83ec-4101-a5e1-f6fd84aa7269.png">  <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166800565-74f58db9-f541-4540-8d42-d2db0feb6024.png"/> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166801175-5d7d5368-50a1-4913-8734-3e49977fe5a4.png"/> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166801768-226ea3d9-d91d-40e7-90f9-0ce23da99e31.png"/>
+      
+    
+
+      Hacktoria CTF Events completion Badges [Operations: Brutus/Warthog/Runner/ Galaxios]
 
 
 
