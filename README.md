@@ -91,13 +91,18 @@
 
       Trace Labs - Silver Badge - Global OSINT Search Party CTF [Team #CageyBees 🐝🐝]
       
-<img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166800308-cecafdfe-83ec-4101-a5e1-f6fd84aa7269.png">  <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166800565-74f58db9-f541-4540-8d42-d2db0feb6024.png"/> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166801175-5d7d5368-50a1-4913-8734-3e49977fe5a4.png"/> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166801768-226ea3d9-d91d-40e7-90f9-0ce23da99e31.png"/>
+<img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166800308-cecafdfe-83ec-4101-a5e1-f6fd84aa7269.png">  <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166800565-74f58db9-f541-4540-8d42-d2db0feb6024.png"/> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166801175-5d7d5368-50a1-4913-8734-3e49977fe5a4.png"/> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166801768-226ea3d9-d91d-40e7-90f9-0ce23da99e31.png"/> 
       
     
 
-      Hacktoria CTF Events completion Badges [Operations: Brutus/Warthog/Runner/ Galaxios]
+      Hacktoria CTF Events completion Badges [Operations: Brutus/Warthog/Runner/Galaxios]
 
+<p align="center"> <img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/166848280-3dca2418-dcb0-4bfe-9ff7-370d8e782d90.png"/>
 
+      
+      3rd Place in the MilOsintCTF- Military OSINT CTF
+      
+      
 
 <!---
 C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
