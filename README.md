@@ -78,7 +78,7 @@
 
 <!-- Badges & CTF Events -->
 <details>
-<summary><b> 🔖 Badges </b></summary>
+<summary><b> 🔖 Cyber/OSINT Badges & CTF Events </b></summary>
 <p>
       
 <p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166777077-d96c51cb-4038-456f-8ff2-d5209596c655.png"/>
