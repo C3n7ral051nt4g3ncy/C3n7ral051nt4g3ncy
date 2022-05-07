@@ -83,26 +83,38 @@
 <summary><b> 🔖 Cyber/OSINT Badges & CTF Events </b></summary>
 <p>
       
+<br>
+<br>    
+<p align="center"> <img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/167261528-39616f95-1ab9-40bb-90be-ce2f7a648696.png"/>
+   
+    🥇1st Place OSINT CTF Bleuet de France 🇫🇷 CTF organized by AEGE War School 
+      In partnership with French Gov Agency ONACVG [National Office of Veterans and War Victims] & Bleuet de France
+<br>
+<br>    
 <p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166777077-d96c51cb-4038-456f-8ff2-d5209596c655.png"/>
-      
-      The OSINTion Black Badge, issued by Joe Gray
-      
+
+     🏴The OSINTion Black Badge/ issued by Joe Gray
+<br>
+<br>      
 <p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166788919-07ff450c-c35c-4171-88b1-de93b651fc32.png"/>
 
-   
-
-      Trace Labs - Silver Badge - Global OSINT Search Party CTF [Team #CageyBees 🐝🐝]
-      
+     🥈2nd Place Trace Labs [Silver Badge] 
+      Global OSINT Search Party CTF 03-2022 [Team #CageyBees 🐝🐝]
+<br>
+<br>     
 <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166800308-cecafdfe-83ec-4101-a5e1-f6fd84aa7269.png">  <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166800565-74f58db9-f541-4540-8d42-d2db0feb6024.png"/> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166801175-5d7d5368-50a1-4913-8734-3e49977fe5a4.png"/> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166801768-226ea3d9-d91d-40e7-90f9-0ce23da99e31.png"/> 
       
-    
-
-      Hacktoria CTF Events completion Badges [Operations: Brutus/Warthog/Runner/Galaxios]
-
+<br>
+<br>
+      
+     🥈2nd Place Hacktoria CTF Operation Galaxios
+      CTF Events completion Badges [Operations: Brutus/Warthog/Runner/Galaxios]
+<br>
+<br>     
 <p align="center"> <img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/166848280-3dca2418-dcb0-4bfe-9ff7-370d8e782d90.png"/>
 
       
-      3rd Place in the MilOsintCTF- Military OSINT CTF
+      🥉3rd Place in the MilOsintCTF [Military Themed OSINT CTF]
       
       
 
