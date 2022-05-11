@@ -24,10 +24,11 @@
 <li>:fire:Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY & NFT | PYTHON | OPSEC :lock: </li>
 <li>👨‍🏫 OSINT Trainer @Tactical Systems Academy</li>
 <li>🏴The OSINTion Black Badge</li>
-<li>🥇CTF OSINT Bleuet de France 2022
+<li>🥇CTF OSINT Bleuet de France 2022 [AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense]
 <li>🥈Trace Labs OSINT Search Party CTF 2022.03 Silver Badge</li>
-<li> Ⓗ Hacktoria Hall of Fame/🥈2nd Place CTF OP Galaxios 2022</li>
+<li> Ⓗ Hacktoria Community Member/🥈2nd Place CTF OP Galaxios 2022</li>
 <li>🥉3rd Place MilOsint CTF
+<li> 6th place HEXA OSINT CTF 2021 Team OSINT-B33R [Sopra Steria and La Fabrique Défense, French Ministry of Defense]
 <li> :fr: OSINT-FR Hall of Fame
 </ul>  
 </blockquote>
@@ -100,17 +101,21 @@
 <br>      
 <p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166788919-07ff450c-c35c-4171-88b1-de93b651fc32.png"/>
 
-     🥈2nd Place Trace Labs [Silver Badge] 
+      🥈2nd Place Trace Labs [Silver Badge] 
       Global OSINT Search Party CTF 03-2022 [Team #CageyBees 🐝🐝]
 <br>
 <br>     
-<img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166800308-cecafdfe-83ec-4101-a5e1-f6fd84aa7269.png">  <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166800565-74f58db9-f541-4540-8d42-d2db0feb6024.png"/> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166801175-5d7d5368-50a1-4913-8734-3e49977fe5a4.png"/> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166801768-226ea3d9-d91d-40e7-90f9-0ce23da99e31.png"/> 
+<p align="center"> <img width="633" height="160" src="https://user-images.githubusercontent.com/104733166/167740046-0a1226e7-7da3-45bc-8154-1d64109796f2.png" />
+      
+
+
       
 <br>
 <br>
+
       
      🥈2nd Place Hacktoria CTF Operation Galaxios
-      CTF Events completion Badges [Operations: Brutus/Warthog/Runner/Galaxios]
+      CTF Events completion Badges [Operations: Warthog / Galaxios / Runner / Brutus]
 <br>
 <br>     
 <p align="center"> <img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/166848280-3dca2418-dcb0-4bfe-9ff7-370d8e782d90.png"/>
