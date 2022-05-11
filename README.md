@@ -26,10 +26,11 @@
 <li>🏴The OSINTion Black Badge</li>
 <li>🥇CTF OSINT Bleuet de France 2022 [AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense]
 <li>🥈Trace Labs OSINT Search Party CTF 2022.03 Silver Badge</li>
-<li> Ⓗ Hacktoria Community Member/🥈2nd Place CTF OP Galaxios 2022</li>
-<li>🥉3rd Place MilOsint CTF
-<li> 6th place HEXA OSINT CTF 2021 Team OSINT-B33R [Sopra Steria and La Fabrique Défense, French Ministry of Defense]
-<li> :fr: OSINT-FR Hall of Fame
+<li>🥈2nd Place CTF OP Galaxios 2022/ Ⓗ Hacktoria Community Member</li>
+<li>🥉3rd Place MilOsint CTF</li>
+<li> 6th place HEXA OSINT CTF 2021 Team OSINT-B33R [Sopra Steria and La Fabrique Défense, French Ministry of Defense]</li>
+<li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams</li>
+<li> :fr: OSINT-FR Hall of Fame</li>
 </ul>  
 </blockquote>
   
