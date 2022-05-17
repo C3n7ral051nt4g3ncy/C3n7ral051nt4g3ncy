@@ -24,10 +24,11 @@
 <li>:fire:Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY & NFT | PYTHON | OPSEC :lock: </li>
 <li>👨‍🏫 OSINT Trainer @Tactical Systems Academy</li>
 <li>🏴The OSINTion Black Badge</li>
-<li>🥇CTF OSINT Bleuet de France 2022 [AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense]
-<li>🥈Trace Labs OSINT Search Party CTF 2022.03 Silver Badge</li>
+<li>🥇1st Place in the CTF OSINT Bleuet de France 2022 [AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense]
+<li>🥈2nd place in the Trace Labs OSINT Search Party CTF 2022.03 Silver Badge</li>
 <li>🥈2nd Place CTF OP Galaxios 2022/ Ⓗ Hacktoria Community Member</li>
 <li>🥉3rd Place MilOsint CTF</li>
+<li>🥉3rd Place in the Stranger Case CTF organised by Esna Bretagne and Esn'Hack
 <li> 6th place HEXA OSINT CTF 2021 Team OSINT-B33R [Sopra Steria and La Fabrique Défense, French Ministry of Defense]</li>
 <li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams</li>
 <li> :fr: OSINT-FR Hall of Fame</li>
@@ -118,7 +119,18 @@
      🥈2nd Place Hacktoria CTF Operation Galaxios
       CTF Events completion Badges [Operations: Warthog / Galaxios / Runner / Brutus]
 <br>
-<br>     
+<br> 
+<p align="center"> <img width="333" height="233" src="https://user-images.githubusercontent.com/104733166/168922467-a52a28d7-b15e-4b3f-9587-24895df9adec.png" />
+     
+     🥉3rd Place in the Stranger Case OSINT CTF on the Team 呪術廻戦 (JuJutsu Kaisen).
+      CTF organised by Esna Bretagne & Esn'Hack, with parterships with the DGA (French Gov Defence procurement and technology agency), Airbus     
+      Cybersecurity, Apixit, Diateam.
+      
+      
+      
+<br>
+<br>    
+      
 <p align="center"> <img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/166848280-3dca2418-dcb0-4bfe-9ff7-370d8e782d90.png"/>
 
       
