@@ -24,7 +24,8 @@
 <li>:fire:Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY & NFT | PYTHON | OPSEC :lock: </li>
 <li>👨‍🏫 OSINT Trainer @Tactical Systems Academy</li>
 <li>🏴The OSINTion Black Badge</li>
-<li>🥇1st Place in the CTF OSINT Bleuet de France 2022 [AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense]
+<li>🥇1st place in the Hacktoria OSINT CTF/Downtown Murderer 2022
+<li>🥇1st place in the CTF OSINT Bleuet de France 2022 [AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense]
 <li>🥈2nd place in the Trace Labs OSINT Search Party CTF 2022.03 Silver Badge</li>
 <li>🥈2nd Place CTF OP Galaxios 2022/ Ⓗ Hacktoria Community Member</li>
 <li>🥉3rd Place MilOsint CTF</li>
@@ -89,6 +90,15 @@
 <p>
       
 <br>
+<br> 
+<p align="center"><img width="150" height="233" src="https://user-images.githubusercontent.com/104733166/170402488-db398a6c-11cd-43f6-8863-a139ce1fee9e.png">
+<img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/170401991-de18e6f1-840e-474c-8b3c-ae41c53e00a0.png"/>
+
+      
+  
+    🥇1st Place Hacktoria OSINT CTF (Downtown Murderer)
+      
+<br>
 <br>    
 <p align="center"> <img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/167261528-39616f95-1ab9-40bb-90be-ce2f7a648696.png"/>
    
@@ -106,27 +116,26 @@
       🥈2nd Place Trace Labs [Silver Badge] 
       Global OSINT Search Party CTF 03-2022 [Team #CageyBees 🐝🐝]
 <br>
-<br>     
-<p align="center"> <img width="633" height="160" src="https://user-images.githubusercontent.com/104733166/167740046-0a1226e7-7da3-45bc-8154-1d64109796f2.png" />
+<br>   
       
-
-
-      
+<p align="center"> <img width="633" height="160" src="https://user-images.githubusercontent.com/104733166/170407320-b437c34c-2ed3-445e-8b8b-8e57a646c918.png">
+        
 <br>
 <br>
 
-      
+     🥇1st Place Hacktoria OSINT CTF (Downtown Murderer)
      🥈2nd Place Hacktoria CTF Operation Galaxios
-      CTF Events completion Badges [Operations: Warthog / Galaxios / Runner / Brutus]
+      CTF Events completion Badges [Operations: Downtown Murderer/ Warthog / Galaxios / Runner / Brutus]
 <br>
 <br> 
-<p align="center"> <img width="333" height="233" src="https://user-images.githubusercontent.com/104733166/168922467-a52a28d7-b15e-4b3f-9587-24895df9adec.png" />
+<p align="center"> <img width="333" height="233" src="https://user-images.githubusercontent.com/104733166/168922467-a52a28d7-b15e-4b3f-9587-24895df9adec.png"/>
+
      
      🥉3rd Place in the Stranger Case OSINT CTF on the Team 呪術廻戦 (JuJutsu Kaisen).
       CTF organised by Esna Bretagne & Esn'Hack, with parterships with the DGA (French Gov Defence procurement and technology agency), Airbus     
       Cybersecurity, Apixit, Diateam.
       
-      
+
       
 <br>
 <br>    
