@@ -33,6 +33,7 @@
 <li> 6th place HEXA OSINT CTF 2021 Team OSINT-B33R [Sopra Steria and La Fabrique Défense, French Ministry of Defense]</li>
 <li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams</li>
 <li> :fr: OSINT-FR Hall of Fame: <a href=https://osintfr.com/en/our-osinters-are-talented>Our Osinters are talented</a></li>
+<li> Featured in an article by @MajorCorp on the top 15 OSINT Twitter accounts to follow. <a href=https://major.com/21221-top-15-comptes-twitter-osint> Top OSINT Influencers</a></li>
 </ul>  
 </blockquote>
   
