@@ -92,43 +92,65 @@
       
 <br>
 <br> 
-<p align="center"><img width="150" height="233" src="https://user-images.githubusercontent.com/104733166/170402488-db398a6c-11cd-43f6-8863-a139ce1fee9e.png">
-<img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/170401991-de18e6f1-840e-474c-8b3c-ae41c53e00a0.png"/>
+<p align="center"><img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/170401991-de18e6f1-840e-474c-8b3c-ae41c53e00a0.png"/><br>
+      
+[Verify CTF result: certificate.pdf](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/files/8792343/certificate-downtown-murderer-coa.pdf)
+
+
 
       
   
     🥇1st Place Hacktoria OSINT CTF (Downtown Murderer)
       
 <br>
-<br>    
+<br>
+<br>
+      
+<p align=center> <img width="133" src="https://user-images.githubusercontent.com/104733166/170846281-0d6df82a-da15-4340-8df9-d4ea1be34e8d.png">
 <p align="center"> <img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/167261528-39616f95-1ab9-40bb-90be-ce2f7a648696.png"/>
+      
+[Verify Bleuet de France OSINT CTF Gold Badge 2022 on Badgr](https://eu.badgr.com/public/assertions/NrU39miXR5qMoH7ydn5C6A)
+      
    
     🥇1st Place OSINT CTF Bleuet de France 🇫🇷 CTF organized by AEGE War School 
       In partnership with French Gov Agency ONACVG [National Office of Veterans and War Victims] & Bleuet de France
+      
+
 <br>
-<br>    
+<br> 
+<br> 
+      
 <p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166777077-d96c51cb-4038-456f-8ff2-d5209596c655.png"/>
 
-     🏴The OSINTion Black Badge/ issued by Joe Gray
+     🏴The OSINTion Black Badge/ issued by Joe Gray 
+      [Verifications can be made with The OSINTion https://www.theosintion.com]
 <br>
-<br>      
-<p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166788919-07ff450c-c35c-4171-88b1-de93b651fc32.png"/>
+<br>
+<br>
+      
+<p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166788919-07ff450c-c35c-4171-88b1-de93b651fc32.png"/><br>
+      
+ [Trace Labs Badge Verification on Badgr](https://ca.badgr.com/public/assertions/hF52Zd4aTRW-r-YUf03Qww)    
 
+      
       🥈2nd Place Trace Labs [Silver Badge] 
       Global OSINT Search Party CTF 03-2022 [Team #CageyBees 🐝🐝]
 <br>
-<br>   
+<br> 
+<br>
       
 <p align="center"> <img width="633" height="160" src="https://user-images.githubusercontent.com/104733166/170407320-b437c34c-2ed3-445e-8b8b-8e57a646c918.png">
         
 <br>
 <br>
-
+      
      🥇1st Place Hacktoria OSINT CTF (Downtown Murderer)
      🥈2nd Place Hacktoria CTF Operation Galaxios
       CTF Events completion Badges [Operations: Downtown Murderer/ Warthog / Galaxios / Runner / Brutus]
 <br>
 <br> 
+<br>
+      
 <p align="center"> <img width="333" height="233" src="https://user-images.githubusercontent.com/104733166/168922467-a52a28d7-b15e-4b3f-9587-24895df9adec.png"/>
 
      
@@ -140,6 +162,7 @@
       
 <br>
 <br>    
+<br>
       
 <p align="center"> <img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/166848280-3dca2418-dcb0-4bfe-9ff7-370d8e782d90.png"/>
 
