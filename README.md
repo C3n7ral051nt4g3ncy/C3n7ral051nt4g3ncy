@@ -109,7 +109,7 @@
 <p align=center> <img width="133" src="https://user-images.githubusercontent.com/104733166/170846281-0d6df82a-da15-4340-8df9-d4ea1be34e8d.png">
 <p align="center"> <img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/167261528-39616f95-1ab9-40bb-90be-ce2f7a648696.png"/>
       
-[Verify Bleuet de France OSINT CTF Gold Badge 2022 on Badgr](https://eu.badgr.com/public/assertions/NrU39miXR5qMoH7ydn5C6A)
+[Bleuet de France OSINT CTF Gold Badge 2022 Verification on Badgr](https://eu.badgr.com/public/assertions/NrU39miXR5qMoH7ydn5C6A)
       
    
     🥇1st Place OSINT CTF Bleuet de France 🇫🇷 CTF organized by AEGE War School 
