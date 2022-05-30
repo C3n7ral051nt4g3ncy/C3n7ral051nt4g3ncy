@@ -191,9 +191,6 @@
 |---|---|
 | <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/> | <img width=160 src="https://user-images.githubusercontent.com/104733166/171052611-1f76b07c-832f-4a4a-9a0a-2f94595c28c9.png"> | 
 
-
-
-      
       
 <!---
 C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
