@@ -1,6 +1,7 @@
 <p align="center"> <img width="133" height="142" src="https://user-images.githubusercontent.com/104733166/166289983-f754d266-231d-4e2f-ac44-b205c0f54631.gif"/>
 <h2 align="center">👋 <code>01101000 01101001</code>, C3n7ral051nt4g3ncy/ sharing the love :purple_heart: on GitHub :octocat::rocket:</h2>
 
+
 <p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166234495-193759cd-1808-4fb9-ac4c-2cbad1d54517.gif"></p>
 
 <p align="center">
@@ -10,7 +11,10 @@
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=C3n7ral051nt4g3ncy" alt="visitor badge"/>
 <p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
 
+
 <br>
+
+
 
 <!-- Whois.COA -->
 <details>
@@ -169,8 +173,28 @@
       
       🥉3rd Place in the MilOsintCTF [Military Themed OSINT CTF]
       
+   </p>
+</details>
+      
+<br>
+<br>
       
 
+<!-- Cryptocurrency  -->
+<details>
+<summary><b>💲Cryptocurrency Donations</b></summary>
+<p>
+         
+
+     
+|  Feel free to support my work with Crypto (BTC) ♡ 🙏 | Scan QR Code for BTC Address |
+|---|---|
+| <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/> | <img width=160 src="https://user-images.githubusercontent.com/104733166/171052611-1f76b07c-832f-4a4a-9a0a-2f94595c28c9.png"> | 
+
+
+
+      
+      
 <!---
 C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
