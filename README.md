@@ -54,7 +54,7 @@
 <img align="right" width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166296712-c4af8377-2437-4882-94c7-17c80f011d27.gif"/> 
       
 <!-- OSINT-PROJECT-LIST:START -->
-- [OSINT INCEPTION 🚀 - start.me of the best start.meeez lol](https://start.me/p/Pwy0X4/osint-inception)
+- [OSINT INCEPTION 🚀 - A start.me page of the best OSINT start.me projects](https://start.me/p/Pwy0X4/osint-inception)
 - [GOOGLE CSE 🇬 - Google Custom Search Engine of the top start.me resources](https://start.me/p/Pwy0X4/osint-inception)
 - [FACIAL RECOGNITION 👤 - Tracking Military personnel with facial recognition](https://twitter.com/OSINT_Tactical/status/1498694266754899978)
 - [OSINT BOOKMARKLETS 🏷️ - Semi-Automated Faster Searches](https://github.com/C3n7ral051nt4g3ncy/OSINT-Bookmarklets)
