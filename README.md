@@ -73,6 +73,8 @@
      
 <a href="https://www.wired.com/story/facial-recognition-identify-russian-soldiers"> WIRED: Online Sleuths Are Using Face Recognition to ID Russian Soldiers 🇺🇸</a>
       
+<a href="https://major.com/21221-top-15-comptes-twitter-osint"> French Article by Major on the Top OSINT Influencers 🇫🇷 </a>
+      
 <a href="https://www.washingtonexaminer.com/news/identities-of-russian-soldiers-revealed-through-facial-recognition-technology"> Washington Examiner Article 🇺🇸</a>
       
 <a href="https://www.nextinpact.com/article/68616/la-reconnaissance-faciale-pour-combattre-guerre-en-ukraine"> La Reconnaissance Faciale pour combattre la guerre en Ukraine/ French Article writen by @ManHack 🇫🇷 <a/>
