@@ -184,7 +184,7 @@
       
       🥉3rd Place in the MilOsintCTF [Military Themed OSINT CTF]
       
-   </p>
+</p>
 </details>
       
 <br>
