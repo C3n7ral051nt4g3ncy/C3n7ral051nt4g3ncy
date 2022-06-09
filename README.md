@@ -196,12 +196,26 @@
 <summary><b>💲Cryptocurrency Donations</b></summary>
 <p>
          
-
      
 |  Feel free to support my work with Crypto (BTC) ♡ 🙏 | Scan QR Code for BTC Address |
 |---|---|
 | <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/> | <img width=160 src="https://user-images.githubusercontent.com/104733166/171052611-1f76b07c-832f-4a4a-9a0a-2f94595c28c9.png"> | 
 
+</p>
+</details>
+      
+<br>
+<br>     
+      
+<!-- Stats  -->
+<details>
+<summary><b>GitHub Stats :octocat: </b></summary>
+<p>    
+<br>
+<img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&theme=blue-green">
+<br>
+<br>
+<img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy.svg?style=social&label=Follow&maxAge=2592000">
       
 <!---
 C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
