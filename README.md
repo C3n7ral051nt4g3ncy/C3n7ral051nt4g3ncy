@@ -209,7 +209,7 @@
       
 <!-- Stats  -->
 <details>
-<summary><b>GitHub Stats :octocat: </b></summary>
+<summary><b>:octocat:GitHub Stats </b></summary>
 <p>    
 <br>
 <img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&theme=blue-green">
