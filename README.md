@@ -215,7 +215,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&theme=blue-green">
 <br>
 <br>
-<img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy.svg?style=social&label=Follow&maxAge=2592000">
       
 <!---
 C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
