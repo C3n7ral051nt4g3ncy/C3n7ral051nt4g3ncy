@@ -28,6 +28,7 @@
 <li>:fire:Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY & NFT | PYTHON | OPSEC :lock: </li>
 <li>👨‍🏫 OSINT Trainer @Tactical Systems Academy</li>
 <li>🏴The OSINTion Black Badge</li>
+<li>🥇1st place in the OSINT GAMES CTF TENET: created by <a href=https://github.com/WebBreacher> @WebBreacher</a></li>
 <li>🥇1st place in the Hacktoria OSINT CTF/Downtown Murderer 2022
 <li>🥇1st place in the CTF OSINT Bleuet de France 2022 [AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense]
 <li>🥈2nd place in the Trace Labs OSINT Search Party CTF 2022.03 Silver Badge</li>
@@ -107,10 +108,23 @@
 <p>
       
 <br>
+<br>   
+<p align="center"><img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/177000301-2a92c2b8-f067-4280-a108-f885c2544a6e.png"/><br>
+      
+
+  
+    🥇1st Place OSINT GAMES CTF TENET (https://osintgames.ctfd.io)
+      
+      
+
+      
+<br>       
+<br>      
+<br>
 <br> 
 <p align="center"><img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/170401991-de18e6f1-840e-474c-8b3c-ae41c53e00a0.png"/><br>
       
-[Verify CTF result: certificate.pdf](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/files/8792343/certificate-downtown-murderer-coa.pdf)
+[Verify CTF result: certificate.pdf](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/files/8792343/certificate-downtown-murderer-coa.pdf) 
 
 
 
