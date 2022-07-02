@@ -27,7 +27,8 @@
 <br><ul style="list-style-type:disc;">
 <li>:fire:Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY & NFT | PYTHON | OPSEC :lock: </li>
 <li>👨‍🏫 OSINT Trainer @Tactical Systems Academy</li>
-<li>🏴The OSINTion Black Badge</li>
+<li>🏴The OSINTion Black Badge </li>
+<li>🪙Trace Labs Silver Badge</li>
 <li>🥇1st place in the OSINT GAMES CTF TENET: created by <a href=https://github.com/WebBreacher> @WebBreacher</a></li>
 <li>🥇1st place in the Hacktoria OSINT CTF/Downtown Murderer 2022
 <li>🥇1st place in the CTF OSINT Bleuet de France 2022 [AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense]
