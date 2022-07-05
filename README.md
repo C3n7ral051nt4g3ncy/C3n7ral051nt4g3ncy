@@ -61,7 +61,7 @@
 - [FACIAL RECOGNITION 👤 - Tracking Military personnel with facial recognition](https://twitter.com/OSINT_Tactical/status/1498694266754899978)
 - [OSINT BOOKMARKLETS 🏷️ - Semi-Automated Faster Searches](https://github.com/C3n7ral051nt4g3ncy/OSINT-Bookmarklets)
 - [Prot1ntelligence 🔍- Python Script (3 out of 7 modules forked from ProtOSINT)](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence)
-- GitHub Collaboration on [Obsidian](https://github.com/WebBreacher/obsidian-osint-templates) with [WebBreacher](https://github.com/WebBreacher)
+- GitHub contributor: [Obsidian OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates) with [WebBreacher](https://github.com/WebBreacher)
 <!-- OSINT-PROJECT-LIST:END --></p>
       
 </details>
