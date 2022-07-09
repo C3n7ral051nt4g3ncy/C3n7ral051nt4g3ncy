@@ -1,8 +1,22 @@
+<div align="center">
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+</div>
+
+
 <p align="center"> <img width="133" height="142" src="https://user-images.githubusercontent.com/104733166/166289983-f754d266-231d-4e2f-ac44-b205c0f54631.gif"/>
-<h2 align="center">👋 <code>01101000 01101001</code> and Welcome! C3n7ral051nt4g3ncy here! sharing some love + OSINT :purple_heart: on GitHub :octocat::rocket:</h2>
+<br>
+<br>
 
+<h2 align="center">👋 <code>01101000 01101001</code> and Welcome! I'm C3n7ral051nt4g3ncy, sharing some love and OSINT :purple_heart: on GitHub :octocat::rocket:</h2>
 
-<p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166234495-193759cd-1808-4fb9-ac4c-2cbad1d54517.gif"></p>
+<br>
+
 
 <p align="center">
 <a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/keybase/pgp/osint_intel?label=Keybase&logo=Keybase&logoColor=orange&style=for-the-badge"/></a>
@@ -10,6 +24,7 @@
 <a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy?label=C3n7ral051nt4g3ncy&logo=Github&style=for-the-badge"/></a> </p>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=C3n7ral051nt4g3ncy" alt="visitor badge"/>
 <p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
+
 
 
 <br>
@@ -232,8 +247,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&theme=blue-green">
 <br>
 <br>
+<p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166234495-193759cd-1808-4fb9-ac4c-2cbad1d54517.gif"></p>
+
       
 <!---
 C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
