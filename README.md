@@ -17,6 +17,8 @@
 <h2 align="center"><code>01101000 01101001</code> and Welcome! I'm C3n7ral051nt4g3ncy 😈, sharing some love and OSINT :purple_heart: on GitHub :octocat::rocket:</h2>
 
 <br>
+<br>
+<br>
 
 <p align="center"> <img width="333" height="233" src="https://user-images.githubusercontent.com/104733166/178127420-7df6827b-0bf9-437f-b2bc-a23a3b69a285.gif"/>
 
