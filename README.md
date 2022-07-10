@@ -18,8 +18,7 @@
 
 <br>
 
-<p align="center"> <img src="https://user-images.githubusercontent.com/104733166/178127384-3cd0e4a3-36e0-426a-a79c-e0b2ae971cd0.gif"/>
-
+<p align="center"> <img width="333" height="233" src="https://user-images.githubusercontent.com/104733166/178127420-7df6827b-0bf9-437f-b2bc-a23a3b69a285.gif"/>
 
 
 <p align="center">
