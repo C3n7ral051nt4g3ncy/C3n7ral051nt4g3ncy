@@ -1,11 +1,11 @@
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-%23123.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+![GitHub](https://img.shields.io/badge/github-purple.svg?style=for-the-badge&logo=github&logoColor=green)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-purple.svg?style=for-the-badge&logo=githubactions&logoColor=green)
+![Python](https://img.shields.io/badge/python-purple?style=for-the-badge&logo=python&logoColor=green)
+![PyCharm](https://img.shields.io/badge/pycharm-purple?style=for-the-badge&logo=pycharm&logoColor=green&color=purple&labelColor=purple)
+![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-purple.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
+![Codecademy](https://img.shields.io/badge/Codecademy-purple?style=for-the-badge&logo=codecademy&logoColor=green)
 </div>
 
 
@@ -19,8 +19,8 @@
 
 
 <p align="center">
-<a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/keybase/pgp/osint_intel?label=Keybase&logo=Keybase&logoColor=orange&style=for-the-badge"/></a>
-<a href="https://twitter.com/OSINT_Tactical"><img src="https://img.shields.io/twitter/follow/OSINT_Tactical?label=%40OSINT_Tactical&logo=Twitter&logoColor=blu&style=for-the-badge"/></a>
+<a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/keybase/pgp/osint_intel?label=Keybase&logo=Keybase&logoColor=white&style=for-the-badge"/></a>
+<a href="https://twitter.com/OSINT_Tactical"><img src="https://img.shields.io/twitter/follow/OSINT_Tactical?label=%40OSINT_Tactical&logo=Twitter&logoColor=blue&style=for-the-badge"/></a>
 <a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy?label=C3n7ral051nt4g3ncy&logo=Github&style=for-the-badge"/></a> </p>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=C3n7ral051nt4g3ncy" alt="visitor badge"/>
 <p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
