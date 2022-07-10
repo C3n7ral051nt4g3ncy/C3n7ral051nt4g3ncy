@@ -9,11 +9,12 @@
 </div>
 
 
-<p align="center"> <img width="133" height="142" src="https://user-images.githubusercontent.com/104733166/166289983-f754d266-231d-4e2f-ac44-b205c0f54631.gif"/>
+<p align="center"> <img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/178127285-0ef5d04b-d303-44ef-b858-40baaf36e78e.gif"/>
+
 <br>
 <br>
 
-<h2 align="center">👋 <code>01101000 01101001</code> and Welcome! I'm C3n7ral051nt4g3ncy, sharing some love and OSINT :purple_heart: on GitHub :octocat::rocket:</h2>
+<h2 align="center"><code>01101000 01101001</code> and Welcome! I'm C3n7ral051nt4g3ncy 😈, sharing some love and OSINT :purple_heart: on GitHub :octocat::rocket:</h2>
 
 <br>
 
