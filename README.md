@@ -9,9 +9,7 @@
 </div>
 
 
-<p align="center"> <img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/178148149-06002a24-3d5c-4640-936f-09a5f1649d16.gif"/>
-
-
+<p align="center"> <img width="266" height="233" src="https://user-images.githubusercontent.com/104733166/178179420-ceaba002-11fe-41f5-98e8-1942321903c6.gif"/>
 
 <br>
 <br>
