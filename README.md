@@ -31,9 +31,9 @@
 
 <br>
 
-<!-- Whois.COA [About Me]-->
+<!-- Whois.COA -->
 <details>
-<summary><b> :mag:&nbsp; &nbsp;  Whois.C3n7ral051nt4g3ncy &nbsp;&nbsp;&nbsp;[About Me]</b></summary><p>
+<summary><b> :mag:&nbsp; &nbsp;  Whois.C3n7ral051nt4g3ncy &nbsp;&nbsp;&nbsp;</b></summary><p>
 <img align="right" width="133" height="133"  src="https://user-images.githubusercontent.com/104733166/166296936-0dd0d432-4d6a-42ab-9000-189cebfbceff.png" />
       
 <blockquote>
@@ -65,7 +65,7 @@
 <br>
 <!-- OSINT Projects -->
 <details>
-<summary><b>:shipit: &nbsp; &nbsp; OSINT Projects &nbsp;&nbsp;&nbsp; [All my OSINT Projects] </b></summary>
+<summary><b>:shipit: &nbsp; &nbsp; OSINT Projects &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
  
 <img align="right" width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166296712-c4af8377-2437-4882-94c7-17c80f011d27.gif"/> 
@@ -89,7 +89,7 @@
 <br>
 <!-- Media --> <br>
 <details>
-<summary><b>📰 &nbsp; &nbsp;  Media on my OSINT research &nbsp;&nbsp;&nbsp; [Press Articles about Me] </b></summary>
+<summary><b>📰 &nbsp; &nbsp;  Media on my OSINT research &nbsp;&nbsp;&nbsp;  </b></summary>
 <p>
             
 <img align='right' width='166' src="https://user-images.githubusercontent.com/104733166/166305603-6920f75a-94fd-45f5-9153-b0cfd4a9baca.gif"/>
@@ -125,7 +125,7 @@
 
 <!-- Badges & CTF Events -->
 <details>
-<summary><b> 🔖 &nbsp; Cyber/OSINT Badges & CTF Events &nbsp;&nbsp;&nbsp; [Cyber/OSINT Competitions] </b></summary>
+<summary><b> 🔖 &nbsp; Cyber/OSINT Badges & CTF Events &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
       
 <br>
@@ -229,7 +229,7 @@
 
 <!-- Cryptocurrency  -->
 <details>
-<summary><b>💲 &nbsp;&nbsp;Cryptocurrency Donations  &nbsp;&nbsp;&nbsp; [Feel free to Donate here]</b></summary>
+<summary><b>💲 &nbsp;&nbsp;Cryptocurrency Donations  &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
 <br>
 <br>
@@ -247,7 +247,7 @@
       
 <!-- Stats  -->
 <details>
-<summary><b>:octocat: &nbsp;  GitHub Stats &nbsp;&nbsp;&nbsp; [Check out my GitHub Stats] </b></summary>
+<summary><b>:octocat: &nbsp;  GitHub Stats &nbsp;&nbsp;&nbsp; </b></summary>
 <p>    
 <br>
 <br>
