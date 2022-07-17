@@ -30,16 +30,10 @@
 <p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
 
 <br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&hide_border=true&theme=radical"/>
-</p>
-<br>
 
-
-
-<!-- Whois.COA -->
+<!-- Whois.COA [About Me]-->
 <details>
-<summary><b> :mag:Whois.C3n7ral051nt4g3ncy</b></summary><p>
+<summary><b> :mag:&nbsp; &nbsp;  Whois.C3n7ral051nt4g3ncy &nbsp;&nbsp;&nbsp;[About Me]</b></summary><p>
 <img align="right" width="133" height="133"  src="https://user-images.githubusercontent.com/104733166/166296936-0dd0d432-4d6a-42ab-9000-189cebfbceff.png" />
       
 <blockquote>
@@ -47,7 +41,7 @@
   
 <br><ul style="list-style-type:disc;">
 <li>:fire:Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY & NFT | PYTHON | OPSEC :lock: </li>
-<li>👨‍🏫 OSINT Trainer @Tactical Systems Academy</li>
+<li>👨‍🏫 OSINT Trainer @Tactical OSINT Academy</li>
 <li>🏴The OSINTion Black Badge </li>
 <li>🪙Trace Labs Silver Badge</li>
 <li>🥇1st place in the OSINT GAMES CTF TENET: created by <a href=https://github.com/WebBreacher> @WebBreacher</a></li>
@@ -71,7 +65,7 @@
 <br>
 <!-- OSINT Projects -->
 <details>
-<summary><b>🕵️‍:computer::rocket::shipit:OSINT Projects </b></summary>
+<summary><b>:shipit: &nbsp; &nbsp; OSINT Projects &nbsp;&nbsp;&nbsp; [All my OSINT Projects] </b></summary>
 <p>
  
 <img align="right" width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166296712-c4af8377-2437-4882-94c7-17c80f011d27.gif"/> 
@@ -81,14 +75,13 @@
 - [GOOGLE CSE 🇬 - Google Custom Search Engine of the top start.me resources](https://start.me/p/Pwy0X4/osint-inception)
 - [FACIAL RECOGNITION 👤 - Tracking Military personnel with facial recognition](https://twitter.com/OSINT_Tactical/status/1498694266754899978)
 - [OSINT BOOKMARKLETS 🏷️ - Semi-Automated Faster Searches](https://github.com/C3n7ral051nt4g3ncy/OSINT-Bookmarklets)
-- [Prot1ntelligence 🔍- Python Tool (3 out of 7 modules forked from ProtOSINT)](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence)
-- [W3b0s1nt (WebOSINT) 🌐- Python Tool](https://github.com/C3n7ral051nt4g3ncy/webosint)
+- [Prot1ntelligence 🐍- Python Tool (3 out of 7 modules forked from ProtOSINT)](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence)
+- [W3b0s1nt (WebOSINT) 🐍- Python Tool](https://github.com/C3n7ral051nt4g3ncy/webosint)
 <br>
 
 :octocat: **GitHub Code/Projects contributions:** 
 - [Obsidian OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates) in collaboration with [@WebBreacher](https://github.com/WebBreacher)
 - [https://whatsmyname.app OSINT Tool](https://github.com/WebBreacher/WhatsMyName) created by [@WebBreacher](https://github.com/WebBreacher)
-
 
 <!-- OSINT-PROJECT-LIST:END --></p>
       
@@ -96,31 +89,29 @@
 <br>
 <!-- Media --> <br>
 <details>
-<summary><b>📰 Media on my OSINT research </b></summary>
+<summary><b>📰 &nbsp; &nbsp;  Media on my OSINT research &nbsp;&nbsp;&nbsp; [Press Articles about Me] </b></summary>
 <p>
             
 <img align='right' width='166' src="https://user-images.githubusercontent.com/104733166/166305603-6920f75a-94fd-45f5-9153-b0cfd4a9baca.gif"/>
 
 <!--MEDIA:START-->
      
-<a href="https://www.wired.com/story/facial-recognition-identify-russian-soldiers"> WIRED: Online Sleuths Are Using Face Recognition to ID Russian Soldiers 🇺🇸</a>
+- <a href="https://www.wired.com/story/facial-recognition-identify-russian-soldiers"> WIRED: Online Sleuths Are Using Face Recognition to ID Russian Soldiers 🇺🇸</a>
       
-<a href="https://major.com/21221-top-15-comptes-twitter-osint"> French Article by Major on the Top OSINT Influencers 🇫🇷 </a>
+- <a href="https://major.com/21221-top-15-comptes-twitter-osint"> French Article by Major on the Top OSINT Influencers 🇫🇷 </a>
       
-<a href="https://www.washingtonexaminer.com/news/identities-of-russian-soldiers-revealed-through-facial-recognition-technology"> Washington Examiner Article 🇺🇸</a>
+- <a href="https://www.washingtonexaminer.com/news/identities-of-russian-soldiers-revealed-through-facial-recognition-technology"> Washington Examiner Article 🇺🇸</a>
       
-<a href="https://www.nextinpact.com/article/68616/la-reconnaissance-faciale-pour-combattre-guerre-en-ukraine"> La Reconnaissance Faciale pour combattre la guerre en Ukraine/ French Article writen by @ManHack 🇫🇷 <a/>
+- <a href="https://www.nextinpact.com/article/68616/la-reconnaissance-faciale-pour-combattre-guerre-en-ukraine"> La Reconnaissance Faciale pour combattre la guerre en Ukraine/ French Article writen by @ManHack 🇫🇷 <a/>
       
-<a href="https://as.com/diarioas/2022/03/06/actualidad/1646582802_197827.html"> Spanish Article 🇪🇸</a>
+- <a href="https://as.com/diarioas/2022/03/06/actualidad/1646582802_197827.html"> Spanish Article 🇪🇸</a>
       
-<a href="https://www.niusdiario.es/ciencia-y-tecnologia/tecnologia/inteligencia-militar-alcance-prolifera-invasion-osint_18_3291497041.html"> Spanish Article 🇪🇸</a>
+- <a href="https://www.niusdiario.es/ciencia-y-tecnologia/tecnologia/inteligencia-militar-alcance-prolifera-invasion-osint_18_3291497041.html"> Spanish Article 🇪🇸</a>
   
-<a href="https://news.sina.cn/gn/2022-03-28/detail-imcwiwss8541952.d.html"> Chinese article 🇨🇳 <a/>
+- <a href="https://news.sina.cn/gn/2022-03-28/detail-imcwiwss8541952.d.html"> Chinese article 🇨🇳 <a/>
 
- What **start.me**🇳🇱 said about my project: [OSINT INCEPTION](https://start.me/p/Pwy0X4/osint-inception)
-<br>
-<br>
-      
+- What **start.me**🇳🇱 said about my project: [OSINT INCEPTION](https://start.me/p/Pwy0X4/osint-inception)
+<br>  
 <img width="333" height="133" src="https://user-images.githubusercontent.com/104733166/172185332-1d02ccdb-07c3-418d-bf94-bfbd9ca1f3aa.png">
 
 <!--MEDIA:END-->
@@ -134,7 +125,7 @@
 
 <!-- Badges & CTF Events -->
 <details>
-<summary><b> 🔖 Cyber/OSINT Badges & CTF Events </b></summary>
+<summary><b> 🔖 &nbsp; Cyber/OSINT Badges & CTF Events &nbsp;&nbsp;&nbsp; [Cyber/OSINT Competitions] </b></summary>
 <p>
       
 <br>
@@ -238,8 +229,10 @@
 
 <!-- Cryptocurrency  -->
 <details>
-<summary><b>💲Cryptocurrency Donations</b></summary>
+<summary><b>💲 &nbsp;&nbsp;Cryptocurrency Donations  &nbsp;&nbsp;&nbsp; [Feel free to Donate here]</b></summary>
 <p>
+<br>
+<br>
          
      
 |  Feel free to support my work with Crypto (BTC) ♡ 🙏 | Scan QR Code for BTC Address |
@@ -254,10 +247,28 @@
       
 <!-- Stats  -->
 <details>
-<summary><b>:octocat:GitHub Stats </b></summary>
+<summary><b>:octocat: &nbsp;  GitHub Stats &nbsp;&nbsp;&nbsp; [Check out my GitHub Stats] </b></summary>
 <p>    
 <br>
-<img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&theme=blue-green">
+<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&theme=radical"/>
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=C3n7ral051nt4g3ncy&theme=radical"/>
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&theme=radical&include_all_commits=true&count_private=false&layout=compact"/>
+</p>
+
+
 <br>
 <br>
 <p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166234495-193759cd-1808-4fb9-ac4c-2cbad1d54517.gif"></p>
