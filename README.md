@@ -44,6 +44,7 @@
 <li>👨‍🏫 OSINT Trainer @Tactical OSINT Academy</li>
 <li>🏴The OSINTion Black Badge </li>
 <li>🪙Trace Labs Silver Badge</li>
+<li>✍️Mentionned on the whatsmyname tool website as one of the top contributors: https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)
 <li>🥇1st place in the OSINT GAMES CTF TENET: created by <a href=https://github.com/WebBreacher> @WebBreacher</a></li>
 <li>🥇1st place in the Hacktoria OSINT CTF/Downtown Murderer 2022
 <li>🥇1st place in the CTF OSINT Bleuet de France 2022 [AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense]
