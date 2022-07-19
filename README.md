@@ -191,7 +191,7 @@
 <br> 
 <br>
       
-<p align="center"> <img width="633" height="160" src="https://user-images.githubusercontent.com/104733166/170407320-b437c34c-2ed3-445e-8b8b-8e57a646c918.png">
+<p align="center"> <img width="333" height="80" src="https://user-images.githubusercontent.com/104733166/170407320-b437c34c-2ed3-445e-8b8b-8e57a646c918.png">
         
 <br>
 <br>
