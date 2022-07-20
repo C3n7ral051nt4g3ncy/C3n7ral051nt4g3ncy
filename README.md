@@ -113,7 +113,7 @@
 
 - What **start.me**🇳🇱 said about my project: [OSINT INCEPTION](https://start.me/p/Pwy0X4/osint-inception)
 <br>  
-<img width="333" height="133" src="https://user-images.githubusercontent.com/104733166/172185332-1d02ccdb-07c3-418d-bf94-bfbd9ca1f3aa.png">
+<img width="200" height="80" src="https://user-images.githubusercontent.com/104733166/172185332-1d02ccdb-07c3-418d-bf94-bfbd9ca1f3aa.png">
 
 <!--MEDIA:END-->
       
