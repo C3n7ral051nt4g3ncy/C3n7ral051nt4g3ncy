@@ -28,6 +28,10 @@
 <a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy?label=C3n7ral051nt4g3ncy&logo=Github&style=for-the-badge"/></a> </p>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=C3n7ral051nt4g3ncy" alt="visitor badge"/>
 <p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&theme=radical"/>
+</p>
+
 
 <br>
 
