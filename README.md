@@ -88,6 +88,7 @@
 :octocat: **GitHub Code/Projects contributions:** 
 - [Obsidian OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates) in collaboration with [@WebBreacher](https://github.com/WebBreacher)
 - [https://whatsmyname.app OSINT Tool](https://github.com/WebBreacher/WhatsMyName) created by [@WebBreacher](https://github.com/WebBreacher)
+- [OSINT Stuff Tool Collection](https://github.com/cipher387/osint_stuff_tool_collection) created by [@cipher387](https://github.com/cipher387)
 
 <!-- OSINT-PROJECT-LIST:END --></p>
       
