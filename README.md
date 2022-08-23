@@ -276,9 +276,6 @@
 
 <p align="center"><img src="https://wakatime.com/share/@de14e947-18ae-4619-8175-1510bf69f10b/eaa24624-304f-43ae-aead-76851a1fa76f.svg" width="433"></p>
 
-<br>
-
-<p align="center"><img src="https://wakatime.com/share/@de14e947-18ae-4619-8175-1510bf69f10b/67c3fc2b-c6f7-4f91-b048-4355e89a162d.svg" width="433"></p>
 
 
 <br>
