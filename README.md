@@ -260,25 +260,32 @@
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&theme=radical"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&theme=radical" width="433"></p>
 
 <br>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=C3n7ral051nt4g3ncy&theme=radical"/>
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=C3n7ral051nt4g3ncy&theme=radical" width="433"></p>
 
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&theme=radical&include_all_commits=true&count_private=false&layout=compact"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&theme=radical&include_all_commits=true&count_private=false&layout=compact" width="433"></p>
+
+<br>
+
+<p align="center"><img src="https://wakatime.com/share/@de14e947-18ae-4619-8175-1510bf69f10b/eaa24624-304f-43ae-aead-76851a1fa76f.svg" width="433"></p>
+
+<br>
+
+<p align="center"><img src="https://wakatime.com/share/@de14e947-18ae-4619-8175-1510bf69f10b/9e1624e0-0854-4539-88d7-33233c3fbf60.svg" width="433"></p>
 
 
+<br>
 <br>
 <br>
 <p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166234495-193759cd-1808-4fb9-ac4c-2cbad1d54517.gif"></p>
+
 
       
 <!---
