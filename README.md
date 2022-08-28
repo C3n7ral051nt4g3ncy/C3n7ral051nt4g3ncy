@@ -8,6 +8,7 @@
 ![Codecademy](https://img.shields.io/badge/Codecademy-purple?style=for-the-badge&logo=codecademy&logoColor=green)
 </div>
 
+<br>
 
 <p align="center"> <img width="233" height="199" src="https://user-images.githubusercontent.com/104733166/178179420-ceaba002-11fe-41f5-98e8-1942321903c6.gif"/>
 
