@@ -49,7 +49,7 @@
   
 <br><ul style="list-style-type:disc;">
 <li>:fire:Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY & NFT | PYTHON | OPSEC :lock: </li>
-<li>👨‍🏫 OSINT Trainer @Tactical OSINT Academy</li>
+<li>👨‍🏫 OSINT Trainer <a href=https://github.com/TacticalOsintAcademy>@Tactical OSINT Academy</a></li>
 <li>🏴The OSINTion Black Badge </li>
 <li>🪙Trace Labs Silver Badge</li>
 <li>✍️Mentionned on WhatsMyName OSINT tool as one of the top contributors: https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)
