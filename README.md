@@ -14,13 +14,14 @@
 <br>
 <br>
 
-<h2 align="center"><code>01101000 01101001</code> and Welcome! I'm C3n7ral051nt4g3ncy 😈, sharing some love and OSINT :purple_heart: on GitHub :octocat::rocket:</h2>
+<h2 align="center"><code>01101000 01101001</code> and Welcome!<br>I'm C3n7ral051nt4g3ncy, sharing OSINT, Tools, & Tutorials on GitHub :octocat::rocket:</h2>
 
 <br>
 <br>
 <br>
 
 <p align="center"> <img width="333" height="233" src="https://user-images.githubusercontent.com/104733166/178148358-dee7cf09-ecc1-4eb8-84b2-eb0ef4dc969a.gif"/>
+
 
 <p align="center">
 <a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/keybase/pgp/osint_intel?label=Keybase&logo=Keybase&logoColor=white&style=for-the-badge"/></a>
@@ -31,6 +32,8 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&theme=radical"/>
 </p>
+
+<p align="center"><img width="133" src="https://user-images.githubusercontent.com/104733166/187053502-4155cb3f-e633-4a9f-9461-c3de0f53760b.png"></p>
 
 
 <br>
@@ -291,4 +294,3 @@
 C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
