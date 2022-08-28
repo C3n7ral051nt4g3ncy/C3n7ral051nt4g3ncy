@@ -33,7 +33,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&theme=radical"/>
 </p>
 
-<p align="center"><img width="133" src="https://user-images.githubusercontent.com/104733166/187053502-4155cb3f-e633-4a9f-9461-c3de0f53760b.png"></p>
+<p align="center"><img width="99" src="https://user-images.githubusercontent.com/104733166/187053502-4155cb3f-e633-4a9f-9461-c3de0f53760b.png"></p>
 
 
 <br>
