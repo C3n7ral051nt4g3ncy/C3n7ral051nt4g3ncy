@@ -63,7 +63,9 @@
 <li> 6th place HEXA OSINT CTF 2021 Team OSINT-B33R [Sopra Steria and La Fabrique Défense, French Ministry of Defense]</li>
 <li> Participated in the 2022 DefCon https://defcon.org Trace Labs OSINT CTF, Las Vegas, USA (7th Place with The Osint Unit)
 <li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams</li>
-<li> :fr: OSINT-FR Hall of Fame: <a href=https://osintfr.com/en/our-osinters-are-talented>Our Osinters are talented</a></li>
+<li> Mentioned in the resources of <a href=https://github.com/WebBreacher> @WebBreacher</a> at the 2022 DEFCON30 | Recon Village: 
+ <a href=https://reconvillage.org/talks/#talk-1> The Future of Collecting Data from the Past: OSINT Now and Beyond</a> (Resource: OSINT Inception)</li>
+<li> OSINT-FR Hall of Fame: <a href=https://osintfr.com/en/our-osinters-are-talented>Talented OSINTers </a></li>
 <li> Featured in an article by @MajorCorp on the top 15 OSINT Twitter accounts to follow. <a href=https://major.com/21221-top-15-comptes-twitter-osint> Top OSINT Influencers</a></li>
 </ul>  
 </blockquote>
