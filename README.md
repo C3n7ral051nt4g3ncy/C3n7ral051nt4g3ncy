@@ -241,6 +241,26 @@
       
 <br>
 <br>
+
+<!-- Sponsorship  -->
+<details>
+<summary><b>🤝 &nbsp; Sponsorship Information &nbsp;&nbsp;&nbsp; </b></summary>
+
+<br>
+
+If you sponsor me for my work within the OSINT and Cyber Community, you will get:
+
+- A sponsorship badge displayed on your GitHub profile
+- A shoutout on Twitter (+10K Followers)
+- Your logo on the next OSINT Tool | Project,  with recognition for the sponsorship in writing with your company/website details
+
+To move forward with the sponsorship: click [here](https://github.com/sponsors/C3n7ral051nt4g3ncy)
+
+</p>
+</details>
+
+<br>
+<br>
       
 
 <!-- Cryptocurrency  -->
