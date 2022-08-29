@@ -248,7 +248,7 @@
 
 <br>
 
-If you sponsor me for my work within the OSINT and Cyber Community, you will get:
+If you sponsor me for my work for the OSINT and Cyber Community, you will get:
 
 - A sponsorship badge displayed on your GitHub profile
 - A shoutout on Twitter (+10K Followers)
