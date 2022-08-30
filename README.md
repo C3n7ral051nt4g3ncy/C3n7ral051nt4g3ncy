@@ -84,7 +84,6 @@
 <summary><b>:shipit: &nbsp; &nbsp; OSINT Projects &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
  
-<img align="right" width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166296712-c4af8377-2437-4882-94c7-17c80f011d27.gif"/> 
       
 <!-- OSINT-PROJECT-LIST:START -->
 - [OSINT INCEPTION 🚀 - A start.me page of the best OSINT start.me projects](https://start.me/p/Pwy0X4/osint-inception)
@@ -112,7 +111,6 @@
 <summary><b>📰 &nbsp; &nbsp;  Media on my OSINT research &nbsp;&nbsp;&nbsp;  </b></summary>
 <p>
             
-<img align='right' width='66' src="https://user-images.githubusercontent.com/104733166/166305603-6920f75a-94fd-45f5-9153-b0cfd4a9baca.gif"/>
 
 <!--MEDIA:START-->
      
