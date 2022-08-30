@@ -15,7 +15,9 @@
 <br>
 <br>
 
-<h2 align="center"><code>01101000 01101001</code> and Welcome!<br>I'm C3n7ral051nt4g3ncy ! sharing OSINT | Tools | & Tutorials on GitHub :octocat::rocket:</h2>
+<h3 align="center"><code>01101000 01101001</code> and Welcome!<br>I'm C3n7ral051nt4g3ncy  📡 | On GitHub to Build and Share OSINT Tools & Tutorials
+
+</h2>
 
 <br>
 <br>
@@ -36,7 +38,7 @@
       
 </p>
 
-<p align="center"><img width="99" src="https://user-images.githubusercontent.com/104733166/187053502-4155cb3f-e633-4a9f-9461-c3de0f53760b.png"></p>
+<p align="center"><img width="66" src="https://user-images.githubusercontent.com/104733166/187053502-4155cb3f-e633-4a9f-9461-c3de0f53760b.png"></p>
 
 
 <br>
