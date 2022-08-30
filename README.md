@@ -147,8 +147,12 @@
 <p>
       
 <br>
+ 
+      
+🖱️`click on images to enlarge` 
+      
 <br>   
-<p align="center"><img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/177000301-2a92c2b8-f067-4280-a108-f885c2544a6e.png"/><br>
+<p align="center"><img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/177000301-2a92c2b8-f067-4280-a108-f885c2544a6e.png"/><br>
       
 
   
@@ -161,7 +165,7 @@
 <br>      
 <br>
 <br> 
-<p align="center"><img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/170401991-de18e6f1-840e-474c-8b3c-ae41c53e00a0.png"/><br>
+<p align="center"><img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/170401991-de18e6f1-840e-474c-8b3c-ae41c53e00a0.png"/><br>
       
 [Verify CTF result: certificate.pdf](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/files/8792343/certificate-downtown-murderer-coa.pdf) 
 
@@ -175,8 +179,8 @@
 <br>
 <br>
       
-<p align=center> <img width="133" src="https://user-images.githubusercontent.com/104733166/170846281-0d6df82a-da15-4340-8df9-d4ea1be34e8d.png">
-<p align="center"> <img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/167261528-39616f95-1ab9-40bb-90be-ce2f7a648696.png"/>
+<p align=center> <img width="99" src="https://user-images.githubusercontent.com/104733166/170846281-0d6df82a-da15-4340-8df9-d4ea1be34e8d.png">
+<p align="center"> <img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/167261528-39616f95-1ab9-40bb-90be-ce2f7a648696.png"/>
       
 [Bleuet de France OSINT CTF Gold Badge 2022 Verification on Badgr](https://eu.badgr.com/public/assertions/NrU39miXR5qMoH7ydn5C6A)
       
@@ -189,7 +193,7 @@
 <br> 
 <br> 
       
-<p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166777077-d96c51cb-4038-456f-8ff2-d5209596c655.png"/>
+<p align="center"> <img width="99" height="99" src="https://user-images.githubusercontent.com/104733166/166777077-d96c51cb-4038-456f-8ff2-d5209596c655.png"/>
 
      🏴The OSINTion Black Badge/ issued by Joe Gray 
       [Verifications can be made with The OSINTion https://www.theosintion.com]
@@ -197,7 +201,7 @@
 <br>
 <br>
       
-<p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166788919-07ff450c-c35c-4171-88b1-de93b651fc32.png"/><br>
+<p align="center"> <img width="99" height="99" src="https://user-images.githubusercontent.com/104733166/166788919-07ff450c-c35c-4171-88b1-de93b651fc32.png"/><br>
       
  [Trace Labs Badge Verification on Badgr](https://ca.badgr.com/public/assertions/hF52Zd4aTRW-r-YUf03Qww)    
 
@@ -208,7 +212,7 @@
 <br> 
 <br>
       
-<p align="center"> <img width="333" height="80" src="https://user-images.githubusercontent.com/104733166/170407320-b437c34c-2ed3-445e-8b8b-8e57a646c918.png">
+<p align="center"> <img width="233" height="60" src="https://user-images.githubusercontent.com/104733166/170407320-b437c34c-2ed3-445e-8b8b-8e57a646c918.png">
         
 <br>
 <br>
@@ -220,7 +224,7 @@
 <br> 
 <br>
       
-<p align="center"> <img width="333" height="233" src="https://user-images.githubusercontent.com/104733166/168922467-a52a28d7-b15e-4b3f-9587-24895df9adec.png"/>
+<p align="center"> <img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/168922467-a52a28d7-b15e-4b3f-9587-24895df9adec.png"/>
 
      
      🥉3rd Place in the Stranger Case OSINT CTF on the Team 呪術廻戦 (JuJutsu Kaisen).
@@ -233,7 +237,7 @@
 <br>    
 <br>
       
-<p align="center"> <img width="433" height="233" src="https://user-images.githubusercontent.com/104733166/166848280-3dca2418-dcb0-4bfe-9ff7-370d8e782d90.png"/>
+<p align="center"> <img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/166848280-3dca2418-dcb0-4bfe-9ff7-370d8e782d90.png"/>
 
       
       🥉3rd Place in the MilOsintCTF [Military Themed OSINT CTF]
