@@ -46,7 +46,7 @@
 <!-- Whois.COA -->
 <details>
 <summary><b> :mag:&nbsp; &nbsp;  Whois.C3n7ral051nt4g3ncy &nbsp;&nbsp;&nbsp;</b></summary><p>
-<img align="right" width="133" height="133"  src="https://user-images.githubusercontent.com/104733166/166296936-0dd0d432-4d6a-42ab-9000-189cebfbceff.png" />
+<img align="right" width="99" height="99"  src="https://user-images.githubusercontent.com/104733166/166296936-0dd0d432-4d6a-42ab-9000-189cebfbceff.png" />
       
 <blockquote>
 ƚɘᴎɒ|q ɘʜƚ ƚᴎiꙅo
