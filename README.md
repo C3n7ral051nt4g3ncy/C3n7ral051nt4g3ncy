@@ -128,9 +128,9 @@
   
 - <a href="https://news.sina.cn/gn/2022-03-28/detail-imcwiwss8541952.d.html"> Chinese article 🇨🇳 <a/>
 
-- What **start.me**🇳🇱 said about my project: [OSINT INCEPTION](https://start.me/p/Pwy0X4/osint-inception)
+- [Comments](https://user-images.githubusercontent.com/104733166/172185332-1d02ccdb-07c3-418d-bf94-bfbd9ca1f3aa.png) about my project: [OSINT INCEPTION](https://start.me/p/Pwy0X4/osint-inception) by [**start.me**](https://start.me).
+      
 <br>  
-<img width="200" height="80" src="https://user-images.githubusercontent.com/104733166/172185332-1d02ccdb-07c3-418d-bf94-bfbd9ca1f3aa.png">
 
 <!--MEDIA:END-->
       
