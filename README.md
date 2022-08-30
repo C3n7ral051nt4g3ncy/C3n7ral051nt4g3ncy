@@ -15,7 +15,7 @@
 <br>
 <br>
 
-<h2 align="center"><code>01101000 01101001</code> and Welcome!<br>I'm C3n7ral051nt4g3ncy, sharing OSINT, Tools, & Tutorials on GitHub :octocat::rocket:</h2>
+<h2 align="center"><code>01101000 01101001</code> and Welcome!<br>I'm C3n7ral051nt4g3ncy ! sharing OSINT | Tools | & Tutorials on GitHub :octocat::rocket:</h2>
 
 <br>
 <br>
