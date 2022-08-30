@@ -112,7 +112,7 @@
 <summary><b>📰 &nbsp; &nbsp;  Media on my OSINT research &nbsp;&nbsp;&nbsp;  </b></summary>
 <p>
             
-<img align='right' width='166' src="https://user-images.githubusercontent.com/104733166/166305603-6920f75a-94fd-45f5-9153-b0cfd4a9baca.gif"/>
+<img align='right' width='66' src="https://user-images.githubusercontent.com/104733166/166305603-6920f75a-94fd-45f5-9153-b0cfd4a9baca.gif"/>
 
 <!--MEDIA:START-->
      
