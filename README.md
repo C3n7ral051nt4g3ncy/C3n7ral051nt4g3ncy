@@ -15,7 +15,7 @@
 <br>
 <br>
 
-<h3 align="center"><code>01101000 01101001</code> and Welcome!<br>I'm C3n7ral051nt4g3ncy  📡 | On GitHub to Build and Share OSINT Tools & Tutorials
+<h3 align="center"><code>01101000 01101001</code> and Welcome!<br>I'm C3n7ral051nt4g3ncy  📡 | On GitHub to Build and Share OSINT Tools & Tutorials, as well as to learn!
 
 </h2>
 
