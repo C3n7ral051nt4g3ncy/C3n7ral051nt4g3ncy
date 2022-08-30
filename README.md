@@ -25,13 +25,14 @@
 
 
 <p align="center">
-<a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/keybase/pgp/osint_intel?label=Keybase&logo=Keybase&logoColor=white&style=for-the-badge"/></a>
-<a href="https://twitter.com/OSINT_Tactical"><img src="https://img.shields.io/twitter/follow/OSINT_Tactical?label=%40OSINT_Tactical&logo=Twitter&logoColor=blue&style=for-the-badge"/></a>
-<a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy?label=C3n7ral051nt4g3ncy&logo=Github&style=for-the-badge"/></a> </p>
-<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=C3n7ral051nt4g3ncy" alt="visitor badge"/>
+<a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/keybase/pgp/osint_intel?label=Keybase&logo=Keybase&logoColor=black&style=for-the-badge&color=purple"/></a>
+<a href="https://twitter.com/OSINT_Tactical"><img src="https://img.shields.io/twitter/follow/OSINT_Tactical?label=%40OSINT_Tactical&logo=Twitter&logoColor=black&style=for-the-badge&color=purple"/></a>
+<a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy?label=C3n7ral051nt4g3ncy&logo=Github&style=for-the-badge&color=purple&logoColor=black"/></a> </p>
+
 <p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&theme=radical"/>
+<p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=C3n7ral051nt4g3ncy&left_color=blue&right_color=purple" alt="visitor badge"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&theme=radical"/>
+      
 </p>
 
 <p align="center"><img width="99" src="https://user-images.githubusercontent.com/104733166/187053502-4155cb3f-e633-4a9f-9461-c3de0f53760b.png"></p>
