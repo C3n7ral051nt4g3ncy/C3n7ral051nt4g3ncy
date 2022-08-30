@@ -17,15 +17,15 @@
 
 ## <p align="center"> <code>01101000 01101001</code> and Welcome! I'm <code>C3n7ral051nt4g3ncy</code>, AKA OSINT Tactical  📡 </p>
 ####  <p align="center"> *I am here on GitHub to Build & Share OSINT Tools and Tutorials, and to learn new things.* </p>    
+
+<br>
+
+<p align="center"> <img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/187543867-773fe7a1-093c-4dd9-9029-a84fae9ddc99.gif"/>
+
+<br>
       
-
 <br>
-<br>
-<br>
-
-<p align="center"> <img width="233" height="199" src="https://user-images.githubusercontent.com/104733166/178148358-dee7cf09-ecc1-4eb8-84b2-eb0ef4dc969a.gif"/>
-
-
+      
 <p align="center">
 <a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/keybase/pgp/osint_intel?label=Keybase&logo=Keybase&logoColor=black&style=for-the-badge&color=purple"/></a>
 <a href="https://twitter.com/OSINT_Tactical"><img src="https://img.shields.io/twitter/follow/OSINT_Tactical?label=%40OSINT_Tactical&logo=Twitter&logoColor=black&style=for-the-badge&color=purple"/></a>
@@ -38,7 +38,7 @@
       
 </p>
 
-<p align="center"><img width="66" src="https://user-images.githubusercontent.com/104733166/187053502-4155cb3f-e633-4a9f-9461-c3de0f53760b.png"></p>
+
 
 
 <br>
@@ -291,6 +291,7 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 <p>    
 <br>
 <br>
+<p align="center"><img width="66" src="https://user-images.githubusercontent.com/104733166/187053502-4155cb3f-e633-4a9f-9461-c3de0f53760b.png"></p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&theme=radical" width="433"></p>
@@ -313,7 +314,7 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 <br>
 <br>
 <br>
-<p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/166234495-193759cd-1808-4fb9-ac4c-2cbad1d54517.gif"></p>
+
 
 
       
