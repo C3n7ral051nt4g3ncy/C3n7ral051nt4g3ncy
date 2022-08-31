@@ -302,7 +302,7 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 <br>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=C3n7ral051nt4g3ncy&theme=radical" width="433"></p>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=C3n7ral051nt4g3ncy&theme=material-palenight" width="433"></p>
 
 <br>
 
