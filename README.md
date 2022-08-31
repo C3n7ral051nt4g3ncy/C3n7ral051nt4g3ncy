@@ -41,8 +41,6 @@
 </p>
 
 
-
-
 <br>
 
 <!-- Whois.COA -->
@@ -315,6 +313,11 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 
 <p align="center"><img src="https://wakatime.com/share/@de14e947-18ae-4619-8175-1510bf69f10b/3b08fb86-1c2a-4fa4-b937-e1ab9217126a.svg" width="433"></p>
 
+<br>
+
+<br>
+
+<p align="center"> <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> </p>
 
 <br>
 <br>
