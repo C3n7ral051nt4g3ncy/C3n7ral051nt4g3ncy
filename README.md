@@ -297,7 +297,7 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 <p align="center"><img width="66" src="https://user-images.githubusercontent.com/104733166/187053502-4155cb3f-e633-4a9f-9461-c3de0f53760b.png"></p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&theme=radical" width="433"></p>
+<img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&theme=ocean_dark" width="433"></p>
 
 <br>
 
@@ -307,7 +307,7 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 <br>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&theme=radical&include_all_commits=true&count_private=false&layout=compact" width="433"></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&theme=ocean_dark&include_all_commits=true&count_private=false&layout=compact" width="433"></p>
 
 <br>
 
