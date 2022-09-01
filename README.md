@@ -311,7 +311,7 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 
 <br>
 
-<p align="center"><img src="https://wakatime.com/share/@de14e947-18ae-4619-8175-1510bf69f10b/3b08fb86-1c2a-4fa4-b937-e1ab9217126a.svg" width="433"></p>
+<p align="center"><img src="https://wakatime.com/share/@de14e947-18ae-4619-8175-1510bf69f10b/25aefdf9-5bd9-4237-a4d5-39901ecddcaf.svg" width="433"></p>
 
 <br>
 
