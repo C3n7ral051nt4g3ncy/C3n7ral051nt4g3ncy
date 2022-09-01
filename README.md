@@ -40,6 +40,7 @@
       
 </p>
 
+<br>
 
 <br>
 
@@ -77,6 +78,8 @@
 </p>
 </details>
   
+<br>  
+  
 <br>
 
 <!-- OSINT Projects -->
@@ -101,14 +104,22 @@
 - [https://whatsmyname.app OSINT Tool](https://github.com/WebBreacher/WhatsMyName) created by [@WebBreacher](https://github.com/WebBreacher)
 - [OSINT Stuff Tool Collection](https://github.com/cipher387/osint_stuff_tool_collection) created by [@cipher387](https://github.com/cipher387)
 - [Twayback Python OSINT Tool](https://github.com/Mennaruuk/twayback)
+      
 <!-- OSINT-PROJECT-LIST:END --></p> 
+      
 </details>
+
+<br>
+
 <!-- Media --> <br>
 <details>
 <summary><b>📰 &nbsp; &nbsp;  Media on my OSINT research &nbsp;&nbsp;&nbsp;  </b></summary>
 <p>
-            
 
+<br>
+      
+<br>
+      
 <!--MEDIA:START-->
      
 - <a href="https://www.wired.com/story/facial-recognition-identify-russian-soldiers"> WIRED: Online Sleuths Are Using Face Recognition to ID Russian Soldiers 🇺🇸</a>
@@ -133,6 +144,8 @@
       
 </p>
 </details>
+      
+<br>
       
 <br>
       
@@ -242,6 +255,8 @@
 </details>
       
 <br>
+      
+<br>
 
 <!-- Sponsorship  -->
 <details>
@@ -259,6 +274,8 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 
 </p>
 </details>
+
+<br>
 
 <br>
       
@@ -279,6 +296,8 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 </details>
       
 <br>  
+
+<br>
       
 <!-- Stats  -->
 <details>
