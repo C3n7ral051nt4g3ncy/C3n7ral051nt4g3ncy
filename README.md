@@ -78,12 +78,11 @@
 </details>
   
 <br>
-<br>
+
 <!-- OSINT Projects -->
 <details>
 <summary><b>:shipit: &nbsp; &nbsp; OSINT Projects | Tutorials &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
- 
       
 <!-- OSINT-PROJECT-LIST:START -->
 - [OSINT INCEPTION 🚀 - A start.me page of the best OSINT start.me projects](https://start.me/p/Pwy0X4/osint-inception)
@@ -94,6 +93,7 @@
 - [Prot1ntelligence 🐍 Python Tool (3 out of 7 modules forked from ProtOSINT)](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence)
 - [W3b0s1nt (WebOSINT) 🐍  Python Tool](https://github.com/C3n7ral051nt4g3ncy/webosint)
 - [Tutorial] [cURL for OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT)
+
 <br>
 
 :octocat: **GitHub Code/Projects contributions:** 
@@ -101,12 +101,8 @@
 - [https://whatsmyname.app OSINT Tool](https://github.com/WebBreacher/WhatsMyName) created by [@WebBreacher](https://github.com/WebBreacher)
 - [OSINT Stuff Tool Collection](https://github.com/cipher387/osint_stuff_tool_collection) created by [@cipher387](https://github.com/cipher387)
 - [Twayback Python OSINT Tool](https://github.com/Mennaruuk/twayback)
-
-
-<!-- OSINT-PROJECT-LIST:END --></p>
-      
+<!-- OSINT-PROJECT-LIST:END --></p> 
 </details>
-<br>
 <!-- Media --> <br>
 <details>
 <summary><b>📰 &nbsp; &nbsp;  Media on my OSINT research &nbsp;&nbsp;&nbsp;  </b></summary>
@@ -138,7 +134,6 @@
 </p>
 </details>
       
-<br>
 <br>
       
 
@@ -247,7 +242,6 @@
 </details>
       
 <br>
-<br>
 
 <!-- Sponsorship  -->
 <details>
@@ -267,7 +261,6 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 </details>
 
 <br>
-<br>
       
 
 <!-- Cryptocurrency  -->
@@ -285,8 +278,7 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 </p>
 </details>
       
-<br>
-<br>     
+<br>  
       
 <!-- Stats  -->
 <details>
