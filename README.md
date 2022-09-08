@@ -250,7 +250,7 @@
 <img width="133" src="https://user-images.githubusercontent.com/104733166/188336246-27e78bd9-5e0c-4aac-a6a1-4d6bed8822e6.png"/>
 <img width="133" src="https://user-images.githubusercontent.com/104733166/188336262-66682e67-6849-43f7-9e50-5346b34b75f0.png"/>
 <img width="133" src="https://user-images.githubusercontent.com/104733166/188336276-eb2c68d5-4eff-4dcd-9fc5-7a0ff7a597c1.png"/> 
-<img width="133" src="https://user-images.githubusercontent.com/104733166/189050790-92ff9f36-59cf-4ab3-b778-252eef1a18a5.png"/><p/>
+<img width="133" src="https://user-images.githubusercontent.com/104733166/189050790-92ff9f36-59cf-4ab3-b778-252eef1a18a5.png"/></p>
 
       Tiberian Order Contract Cards for solved CTF events
       
