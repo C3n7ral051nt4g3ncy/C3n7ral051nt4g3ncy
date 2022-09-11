@@ -97,6 +97,7 @@
 - [Prot1ntelligence 🐍 Python Tool (3 out of 7 modules forked from ProtOSINT)](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence)
 - [W3b0s1nt (WebOSINT) 🐍  Python Tool](https://github.com/C3n7ral051nt4g3ncy/webosint)
 - [Tutorial] [cURL for OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT)
+- [Tutorial] [Obsidian | Made 2 templates](https://github.com/C3n7ral051nt4g3ncy/Obsidian)
 
 <br>
 
