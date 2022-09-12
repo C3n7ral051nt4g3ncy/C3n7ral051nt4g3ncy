@@ -72,6 +72,7 @@
 <li> Mentioned in the resources of <a href=https://github.com/WebBreacher> @WebBreacher</a> at the 2022 DEFCON30 | Recon Village: 
  <a href=https://reconvillage.org/talks/#talk-1> The Future of Collecting Data from the Past: OSINT Now and Beyond</a> (Resource: OSINT Inception)</li>
 <li> OSINT-FR Hall of Fame: <a href=https://osintfr.com/en/our-osinters-are-talented>Talented OSINTers </a></li>
+<li> Featured in the <a href=https://www.osint-jobs.com>@OSINTjobs Newsletter - This Week's OSINT Tips and Tricks</a>
 <li> Featured in an article by @MajorCorp on the top 15 OSINT Twitter accounts to follow. <a href=https://major.com/21221-top-15-comptes-twitter-osint> Top OSINT Influencers</a></li>
 </ul>  
 </blockquote>
