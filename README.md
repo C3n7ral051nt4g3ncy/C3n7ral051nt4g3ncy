@@ -91,14 +91,15 @@
       
 <!-- OSINT-PROJECT-LIST:START -->
 - [OSINT INCEPTION 🚀 - A start.me page of the best OSINT start.me projects](https://start.me/p/Pwy0X4/osint-inception)
+- [OSINT INCEPTION GITHUB 🏢 - Project Links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links)
 - [GOOGLE CSE 🇬 - Google Custom Search Engine of the top start.me resources](https://start.me/p/Pwy0X4/osint-inception)
 - [FACIAL RECOGNITION 👤 - Tracking Military personnel with facial recognition](https://twitter.com/OSINT_Tactical/status/1498694266754899978)
 - [OSINT BOOKMARKLETS 🏷️ - Semi-Automated Faster Searches](https://github.com/C3n7ral051nt4g3ncy/OSINT-Bookmarklets)
-- [Tutorial][Using a Virtual Environment for OSINT Python tools](https://github.com/C3n7ral051nt4g3ncy/python_virtual_environment)
-- [Prot1ntelligence 🐍 Python Tool (3 out of 7 modules forked from ProtOSINT)](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence)
-- [W3b0s1nt (WebOSINT) 🐍  Python Tool](https://github.com/C3n7ral051nt4g3ncy/webosint)
-- [Tutorial] [cURL for OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT)
-- [Tutorial] [Obsidian | Made 2 templates](https://github.com/C3n7ral051nt4g3ncy/Obsidian)
+- [Prot1ntelligence 🐍 - Python Tool (3 out of 7 modules forked from ProtOSINT)](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence)
+- [W3b0s1nt (WebOSINT) 🐍  - Python Tool](https://github.com/C3n7ral051nt4g3ncy/webosint)
+- [Tutorial 📚] [- cURL for OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT)
+- [Tutorial 📚] [- Obsidian | Made 2 templates](https://github.com/C3n7ral051nt4g3ncy/Obsidian)
+- [Tutorial 📚] [- Using a Virtual Environment for OSINT Python tools](https://github.com/C3n7ral051nt4g3ncy/python_virtual_environment)
 
 <br>
 
