@@ -20,6 +20,7 @@
 
 <p align="center"> 𝙾𝚂𝙸𝙽𝚃 | 𝚂𝙾𝙲𝙼𝙸𝙽𝚃 | 𝙶𝙴𝙾𝙸𝙽𝚃 | 𝙸𝙼𝙸𝙽𝚃 | 𝙲𝚛𝚢𝚙𝚝𝚘 | 𝙿𝚢𝚝𝚑𝚘𝚗 | 𝙳𝚊𝚛𝚔 𝚆𝚎𝚋 | 𝙼𝚎𝚝𝚊𝚟𝚎𝚛𝚜𝚎 </p>
 <p align="center">ᄃYBΣЯ</p>
+<p align="center">ƚɘᴎɒ|q ɘʜƚ ƚᴎiꙅo</p>
 <br>
 
 <p align="center"> <img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/187543867-773fe7a1-093c-4dd9-9029-a84fae9ddc99.gif"/>
@@ -50,7 +51,8 @@
 <img align="right" width="99" height="99"  src="https://user-images.githubusercontent.com/104733166/166296936-0dd0d432-4d6a-42ab-9000-189cebfbceff.png" />
       
 <blockquote>
-ƚɘᴎɒ|q ɘʜƚ ƚᴎiꙅo
+      
+🆆🅷🅾🅰🅼🅸
   
 <br><ul style="list-style-type:disc;">
 <li>:fire:Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY & NFT | PYTHON | OPSEC :lock: </li>
@@ -299,7 +301,7 @@
 
 <br>
 
-If you sponsor me for my work for the OSINT and Cyber Community, you will get:
+If you sponsor me for my work that is done to help the OSINT and Cyber Community, you will get:
 
 - A sponsorship badge displayed on your GitHub profile
 - A shoutout on Twitter (+10K Followers)
