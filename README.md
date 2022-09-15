@@ -158,7 +158,7 @@
 
 <!-- Badges & CTF Events -->
 <details>
-<summary><b> 🔖 &nbsp; Cyber/OSINT Badges & CTF Events &nbsp;&nbsp;&nbsp; </b></summary>
+<summary><b> 🔖 &nbsp; CYBER | OSINT Badges & CTF Events &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
       
 <br>
