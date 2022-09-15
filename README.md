@@ -257,7 +257,7 @@
 <img width="133" src="https://user-images.githubusercontent.com/104733166/189050790-92ff9f36-59cf-4ab3-b778-252eef1a18a5.png"/>
 <img width="133" src="https://user-images.githubusercontent.com/104733166/190496775-7e940804-9285-44d2-9008-e90aa3002567.png"/></p>
 
-      Tiberian Order Contract Cards for solved CTF events
+      Tiberian Order and HACKTORIA Contract Cards for solved CTF events
       
 
 
