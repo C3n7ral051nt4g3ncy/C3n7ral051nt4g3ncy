@@ -144,6 +144,8 @@
   
 - <a href="https://news.sina.cn/gn/2022-03-28/detail-imcwiwss8541952.d.html"> Chinese article 🇨🇳 <a/>
 
+- <a href="https://technews.tw/2022/03/21/ai-in-war/"> Featured in Tech News: Taiwan 🇹🇼 <a/>
+
 - [Comments](https://user-images.githubusercontent.com/104733166/172185332-1d02ccdb-07c3-418d-bf94-bfbd9ca1f3aa.png) about my project: [OSINT INCEPTION](https://start.me/p/Pwy0X4/osint-inception) by [**start.me**](https://start.me) 🇳🇱
       
 <br>  
