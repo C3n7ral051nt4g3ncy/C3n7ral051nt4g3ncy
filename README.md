@@ -344,6 +344,11 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 <p>    
 <br>
 <br>
+
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=C3n7ral051nt4g3ncy&theme=dracula">
+
+<br>
+
 <p align="center"><img width="66" src="https://user-images.githubusercontent.com/104733166/187053502-4155cb3f-e633-4a9f-9461-c3de0f53760b.png"></p>
 
 <p align="center">
