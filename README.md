@@ -67,6 +67,7 @@
 <li>🥈2nd Place CTF OP Galaxios 2022 | Ⓗ Hacktoria Community Member</li>
 <li>🥉3rd Place MilOsint CTF</li>
 <li>🥉3rd Place in the Stranger Case OSINT CTF organised by Esna Bretagne and Esn'Hack ./CTF partnership with DGA (French Government Defense procurement and technology agency), Airbus Cybersecurity, Diateam & Apixit</li>
+<li> One of 9 out of +700 to fully complete the <a href=https://samplectf.com> SampleCTF</a>
 <li> 6th place HEXA OSINT CTF 2021 Team OSINT-B33R [Sopra Steria and La Fabrique Défense, French Ministry of Defense]</li>
 <li> Participated in the 2022 DefCon https://defcon.org Trace Labs OSINT CTF, Las Vegas, USA (7th Place with The Osint Unit)
 <li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams</li>
