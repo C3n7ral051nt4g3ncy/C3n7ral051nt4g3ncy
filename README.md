@@ -9,7 +9,6 @@
 </div>
 
 <br>
-
 <p align="center"> <img width="233" height="199" src="https://user-images.githubusercontent.com/104733166/178179420-ceaba002-11fe-41f5-98e8-1942321903c6.gif"/>
 
 <br>
@@ -37,6 +36,9 @@
 
 <p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=C3n7ral051nt4g3ncy&left_color=blue&right_color=purple" alt="visitor badge"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&theme=ocean_dark" width="433"></p>
+
+
       
 </p>
 
