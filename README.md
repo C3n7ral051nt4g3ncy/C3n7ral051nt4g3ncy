@@ -293,6 +293,17 @@
       
       🥉3rd Place in the MilOsintCTF [Military Themed OSINT CTF]
       
+<br>
+<br>   
+
+<br>
+
+<p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/194293248-549d365f-1801-469b-adc5-f8ac2ad1c121.png"/>
+
+[SAMPLECTF Completion October 2022 Verification on Badgr](https://au.badgr.com/public/assertions/kogBwaq7TTKXVojoeengJQ)
+      
+      1 of 9 competitors out of +700 people to fully complete the SAMPLECTF made by @WebNoser
+      
 </p>
 </details>
       
