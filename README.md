@@ -298,7 +298,7 @@
 
 <br>
 
-<p align="center"> <img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/194293248-549d365f-1801-469b-adc5-f8ac2ad1c121.png"/>
+<p align="center"> <img width="99" height="99" src="https://user-images.githubusercontent.com/104733166/194293248-549d365f-1801-469b-adc5-f8ac2ad1c121.png"/>
 
 [SAMPLECTF Completion October 2022 Verification on Badgr](https://au.badgr.com/public/assertions/kogBwaq7TTKXVojoeengJQ)
       
