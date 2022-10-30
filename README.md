@@ -60,7 +60,7 @@
 <li>👨‍🏫 OSINT Trainer <a href=https://github.com/TacticalOsintAcademy>@Tactical OSINT Academy</a></li>
 <li>🏴The OSINTion Black Badge </li>
 <li>🪙 x2 times Trace Labs Silver Badge Award</li>
-<li>👾 Hacktoria CTF Team Leader
+<li>👾 Hacktoria CTF Team Captain
 <li>✍️Mentionned on WhatsMyName OSINT tool as one of the top contributors: https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)
 <br>
 <br>
