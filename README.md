@@ -56,7 +56,7 @@
 🆆🅷🅾🅰🅼🅸
   
 <br><ul style="list-style-type:disc;">
-<li>:fire:Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY & NFT | PYTHON | OPSEC :lock: </li>
+<li>:fire:Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY | PYTHON | OPSEC :lock: </li>
 <li>👨‍🏫 OSINT Trainer <a href=https://github.com/TacticalOsintAcademy>@Tactical OSINT Academy</a></li>
 <li>🏴The OSINTion Black Badge </li>
 <li>🪙 x2 Trace Labs Silver Badge</li>
