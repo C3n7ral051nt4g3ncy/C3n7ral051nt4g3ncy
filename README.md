@@ -61,6 +61,7 @@
 <li>🏴The OSINTion Black Badge </li>
 <li>🪙 x2 times Trace Labs Silver Badge Award</li>
 <li>👾 Hacktoria CTF Team Captain
+<li>🗃️ Archiver at <a href=https://archive.org/>The Internet Archive</a> (Wayback Machine)
 <li>✍️Mentionned on WhatsMyName OSINT tool as one of the top contributors: https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)
 <br>
 <br>
@@ -81,7 +82,7 @@
  <a href=https://reconvillage.org/talks/#talk-1> The Future of Collecting Data from the Past: OSINT Now and Beyond</a> (Resource: OSINT Inception)</li>
 <li> OSINT-FR Hall of Fame: <a href=https://osintfr.com/en/our-osinters-are-talented>Talented OSINTers </a></li>
 <li> Featured in the <a href=https://www.osint-jobs.com>@OSINTjobs Newsletter - This Week's OSINT Tips and Tricks</a>
-<li> Featured in an article by @MajorCorp on the top 15 OSINT Twitter accounts to follow. <a href=https://major.com/21221-top-15-comptes-twitter-osint> Top OSINT Influencers</a></li>
+
 </ul>  
 </blockquote>
   
