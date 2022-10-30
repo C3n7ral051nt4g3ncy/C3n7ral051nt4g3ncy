@@ -59,7 +59,8 @@
 <li>:fire:Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY & NFT | PYTHON | OPSEC :lock: </li>
 <li>👨‍🏫 OSINT Trainer <a href=https://github.com/TacticalOsintAcademy>@Tactical OSINT Academy</a></li>
 <li>🏴The OSINTion Black Badge </li>
-<li>🪙Trace Labs Silver Badge</li>
+<li>🪙 x2 Trace Labs Silver Badge</li>
+<li>👾 Hacktoria CTF Team Leader
 <li>✍️Mentionned on WhatsMyName OSINT tool as one of the top contributors: https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)
 <li>🥇1st place in the OSINT GAMES CTF TENET: created by <a href=https://github.com/WebBreacher> @WebBreacher</a></li>
 <li>🥇1st place in the Hacktoria OSINT CTF | Downtown Murderer 2022
@@ -231,10 +232,19 @@
 
       
       🥈2nd Place Trace Labs [Silver Badge] 
-      Global OSINT Search Party CTF 03-2022 [Team #CageyBees 🐝🐝]
+      Global OSINT Search Party CTF 2022-03 [Team CageyBees 🐝🐝]
 <br>
 <br> 
+      
+<p align="center"> <img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/198859824-8f715ef1-d9a1-465e-b8cb-41e1997a53d8.png">
 
+      
+      🥈2nd Place Trace Labs [Silver Badge] 
+      Global OSINT Search Party CTF 2022-11 [Team Hacktoria]
+      
+<br>
+<br>
+      
 <br>
 
       
