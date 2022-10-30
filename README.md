@@ -136,7 +136,7 @@
 <br>
       
 <!--MEDIA:START-->
-*`The articles below have been archived, so, in case one of the articles below is not accessible, just grab the link and put it through The Internet Archive (WayBack Machine)`
+*`The articles below have been archived, in case one of the articles below is not accessible, just grab the link and put it through The Internet Archive (WayBack Machine)`
      
 - <a href="https://www.wired.com/story/facial-recognition-identify-russian-soldiers"> WIRED: Online Sleuths Are Using Face Recognition to ID Russian Soldiers 🇺🇸</a>
       
