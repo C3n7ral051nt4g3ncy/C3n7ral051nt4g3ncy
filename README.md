@@ -77,9 +77,9 @@
 <li> 6th place HEXA OSINT CTF 2021 Team OSINT-B33R [Sopra Steria and La Fabrique Défense, French Ministry of Defense]</li>
 <li> Participated in the 2022 DefCon https://defcon.org Trace Labs OSINT CTF, Las Vegas, USA (7th Place with The Osint Unit)
 <li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams | 2021</li>
-<li> Featured in <a href=https://sector035.nl/articles/2022-35>Week in OSINT</a> by <a href=https://twitter.com/Sector035>@Sector035</a></li>
+<li> Featured in <a href=https://sector035.nl/articles/2022-35>Week in OSINT</a> by <a href=https://twitter.com/Sector035>@Sector035</a> [Archived on WayBack Machine] <a/></li>
 <li> Mentioned in the resources of <a href=https://github.com/WebBreacher> @WebBreacher</a> at the 2022 DEFCON30 | Recon Village: 
- <a href=https://reconvillage.org/talks/#talk-1> The Future of Collecting Data from the Past: OSINT Now and Beyond</a> (Resource: OSINT Inception)</li>
+ <a href=https://reconvillage.org/talks/#talk-1> The Future of Collecting Data from the Past: OSINT Now and Beyond</a> (Resource: OSINT Inception)[Archived on WayBack Machine] <a/></li>
 <li> OSINT-FR Hall of Fame: <a href=https://osintfr.com/en/our-osinters-are-talented>Talented OSINTers</a> [Archived on WayBack Machine] </a></li>
 <li> Featured in the <a href=https://www.osint-jobs.com>@OSINTjobs Newsletter - This Week's OSINT Tips and Tricks</a>
 
