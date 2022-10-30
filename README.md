@@ -144,7 +144,7 @@
       
 - <a href="https://www.nextinpact.com/article/68616/la-reconnaissance-faciale-pour-combattre-guerre-en-ukraine"> La Reconnaissance Faciale pour combattre la guerre en Ukraine/ French Article writen by @ManHack 🇫🇷 <a/>
       
-- - <a href="https://www.abc.es/economia/abci-inteligencia-artificial-tambien-entra-combate-guerra-ucrania-202203140205_noticia.html"> Spanish Article 🇪🇸</a>
+- <a href="https://www.abc.es/economia/abci-inteligencia-artificial-tambien-entra-combate-guerra-ucrania-202203140205_noticia.html"> Spanish Article 🇪🇸</a>
       
 - <a href="https://as.com/diarioas/2022/03/06/actualidad/1646582802_197827.html"> Spanish Article 🇪🇸</a>
       
