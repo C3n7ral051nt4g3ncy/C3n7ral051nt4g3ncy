@@ -231,7 +231,7 @@
  [Trace Labs Badge Verification on Badgr](https://ca.badgr.com/public/assertions/hF52Zd4aTRW-r-YUf03Qww)    
 
       
-      🥈2nd Place Trace Labs [Silver Badge] 
+     🥈2nd Place Trace Labs [Silver Badge] 
       Global OSINT Search Party CTF 2022-03 [Team CageyBees 🐝🐝]
 <br>
 <br> 
@@ -239,8 +239,8 @@
 <p align="center"> <img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/198859824-8f715ef1-d9a1-465e-b8cb-41e1997a53d8.png">
 
       
-      🥈2nd Place Trace Labs [Silver Badge] 
-      Global OSINT Search Party CTF 2022-11 [Team Hacktoria]
+     🥈2nd Place Trace Labs [Silver Badge] 
+      Global OSINT Search Party CTF 2022-11 | OSE: Operation Safe Escape [Team Hacktoria]
       
 <br>
 <br>
