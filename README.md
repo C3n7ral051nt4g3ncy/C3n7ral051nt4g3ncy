@@ -67,7 +67,7 @@
 <br>
 <li>🥇1st place in the OSINT GAMES CTF TENET | 2022: created by <a href=https://github.com/WebBreacher> @WebBreacher</a></li>
 <li>🥇1st place in the Hacktoria OSINT CTF | Downtown Murderer 2022
-<li>🥇1st place in the CTF OSINT Bleuet de France 2022 [AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense]
+<li>🥇1st place in the CTF OSINT Bleuet de France 2022 (AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense)
 <li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.11 | OSE (Operation Safe Escape)</li>
 <li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.03</li>
 <li>🥈2nd Place Hacktoria CTF OP Galaxios 2022</li>
