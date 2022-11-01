@@ -56,13 +56,13 @@
 🆆🅷🅾🅰🅼🅸
   
 <br><ul style="list-style-type:disc;">
-<li>:fire:Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY | PYTHON | OPSEC :lock: </li>
+<li>:fire: Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY | PYTHON | OPSEC :lock: </li>
 <li>👨‍🏫 OSINT Trainer <a href=https://github.com/TacticalOsintAcademy>@Tactical OSINT Academy</a></li>
-<li>🏴The OSINTion Black Badge </li>
+<li>🏴 The OSINTion Black Badge </li>
 <li>🪙 x2 times Trace Labs Silver Badge Award</li>
-<li>Ⓗ Hacktoria Community Member | 👾 Hacktoria CTF Team Captain
+<li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain
 <li>🗃️ Archiver at <a href=https://archive.org/>The Internet Archive</a> (Wayback Machine)
-<li>✍️Mentionned on WhatsMyName OSINT tool as one of the top contributors: https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)
+<li>✍️ Project WhatsMyName 2nd top contributor (WMN is an OSINT Tool for username enumeration ): https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)
 <br>
 <br>
 <li>🥇1st place in the OSINT GAMES CTF TENET | 2022: created by <a href=https://github.com/WebBreacher> @WebBreacher</a></li>
