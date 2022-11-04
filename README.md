@@ -367,6 +367,7 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
      
 |  Feel free to support my work with Crypto (BTC) ♡ 🙏 | Scan QR Code for BTC Address |
 |---|---|
+| You can scan the QR online with https://webqr.com |bc1q66awg48m2hvdsrf62pvev78z3vkamav******
 | <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/> | <img width=160 src="https://user-images.githubusercontent.com/104733166/171052611-1f76b07c-832f-4a4a-9a0a-2f94595c28c9.png"> | 
 
 </p>
