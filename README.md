@@ -32,7 +32,8 @@
 <a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/keybase/pgp/osint_intel?label=Keybase&logo=Keybase&logoColor=black&style=for-the-badge&color=purple"/></a>
 <a href="https://twitter.com/OSINT_Tactical"><img src="https://img.shields.io/twitter/follow/OSINT_Tactical?label=%40OSINT_Tactical&logo=Twitter&logoColor=black&style=for-the-badge&color=purple"/></a>
 <a href="https://www.reddit.com/user/OSINT_Tactical"><img src="https://img.shields.io/reddit/user-karma/combined/OSINT_Tactical?style=for-the-badge&color=purple&logoColor=purple"/></a>
-<a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy?label=C3n7ral051nt4g3ncy&logo=Github&style=for-the-badge&color=purple&logoColor=black"/></a> </p>
+<a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy?label=C3n7ral051nt4g3ncy&logo=Github&style=for-the-badge&color=purple&logoColor=black"/></a> 
+<a rel="me" href="https://masto.ai/@OSINT_Tactical">Mastodon</a></p>
 
 <p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=C3n7ral051nt4g3ncy&left_color=blue&right_color=purple" alt="visitor badge"/>
@@ -427,3 +428,4 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+      
