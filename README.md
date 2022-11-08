@@ -108,6 +108,7 @@
 - [Prot1ntelligence 🐍 - Python Tool (3 out of 7 modules forked from ProtOSINT)](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence)
 - [W3b0s1nt (WebOSINT) 🐍  - Python Tool](https://github.com/C3n7ral051nt4g3ncy/webosint)
 - [WhatsMyName-Python 🐍 - Unofficial WMN Python Script I made for myself](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python)
+- [Masto OSINT Tool 🐍 - Python tool to gather information on Mastodon users and instances](https://github.com/C3n7ral051nt4g3ncy/Masto)
 - [Tutorial 📚] [- cURL for OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT)
 - [Tutorial 📚] [- Obsidian | Made 2 templates](https://github.com/C3n7ral051nt4g3ncy/Obsidian)
 - [Tutorial 📚] [- Using a Virtual Environment for OSINT Python tools](https://github.com/C3n7ral051nt4g3ncy/python_virtual_environment)
