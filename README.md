@@ -34,7 +34,7 @@
 <a href="https://www.reddit.com/user/OSINT_Tactical"><img src="https://img.shields.io/reddit/user-karma/combined/OSINT_Tactical?style=for-the-badge&color=purple&logoColor=purple"/></a>
 <a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy?label=C3n7ral051nt4g3ncy&logo=Github&style=for-the-badge&color=purple&logoColor=black"/></a>
 <br>
-<a rel="me" href="https://masto.ai/@OSINT_Tactical">Mastodon</a></p>
+<a rel="me" href="https://masto.ai/@OSINT_Tactical">Masto.ai</a></p>
 
 <p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=C3n7ral051nt4g3ncy&left_color=blue&right_color=purple" alt="visitor badge"/>
