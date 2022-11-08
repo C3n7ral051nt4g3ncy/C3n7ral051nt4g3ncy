@@ -36,9 +36,12 @@
 
 <div align="center">
 
-Masto.ai                   | infosec exchange |
-:-------------------------:|------------------|
-[<p align="center"> <img width="77" src="https://user-images.githubusercontent.com/104733166/200668583-fc6d6d9f-e7ea-4ee7-8cfe-e1c5c6280d27.png">](https://masto.ai/@OSINT_Tactical)|[<p align="center"> <img width="42" src="https://user-images.githubusercontent.com/104733166/200673816-bc746ec0-3ff4-4b32-8f47-b150ea436d6c.png">](https://infosec.exchange/@C3n7ral051nt4g3ncy)|
+[Masto.ai](https://masto.ai/@OSINT_Tactical)| [infosec Exchange](https://infosec.exchange/web/@C3n7ral051nt4g3ncy)| 
+:------------------------------------------:|:-------------------------------------------------------------------:|
+
+
+
+</div>
             
 </div>
 
