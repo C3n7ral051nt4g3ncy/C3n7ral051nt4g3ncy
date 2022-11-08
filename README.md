@@ -32,9 +32,20 @@
 <a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/keybase/pgp/osint_intel?label=Keybase&logo=Keybase&logoColor=black&style=for-the-badge&color=purple"/></a>
 <a href="https://twitter.com/OSINT_Tactical"><img src="https://img.shields.io/twitter/follow/OSINT_Tactical?label=%40OSINT_Tactical&logo=Twitter&logoColor=black&style=for-the-badge&color=purple"/></a>
 <a href="https://www.reddit.com/user/OSINT_Tactical"><img src="https://img.shields.io/reddit/user-karma/combined/OSINT_Tactical?style=for-the-badge&color=purple&logoColor=purple"/></a>
-<a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy?label=C3n7ral051nt4g3ncy&logo=Github&style=for-the-badge&color=purple&logoColor=black"/></a>
-<br>
-<a rel="me" href="https://masto.ai/@OSINT_Tactical">Masto.ai</a> | <a rel="me" href="https://infosec.exchange/@C3n7ral051nt4g3ncy">infosec.exchange</a></p>
+<a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy?label=C3n7ral051nt4g3ncy&logo=Github&style=for-the-badge&color=purple&logoColor=black"/></a></p>
+
+<div align="center">
+
+Masto.ai                   | infosec exchange |
+:-------------------------:|------------------|
+[<p align="center"> <img width="77" src="https://user-images.githubusercontent.com/104733166/200668583-fc6d6d9f-e7ea-4ee7-8cfe-e1c5c6280d27.png">](https://masto.ai/@OSINT_Tactical)|[<p align="center"> <img width="42" src="https://user-images.githubusercontent.com/104733166/200673816-bc746ec0-3ff4-4b32-8f47-b150ea436d6c.png">](https://infosec.exchange/@C3n7ral051nt4g3ncy)|
+            
+</div>
+
+
+
+
+</div>
 
 <p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=C3n7ral051nt4g3ncy&left_color=blue&right_color=purple" alt="visitor badge"/>
