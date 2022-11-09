@@ -77,7 +77,7 @@
 <li>🏴 The OSINTion Black Badge </li>
 <li>🪙 x2 times Trace Labs Silver Badge Award</li>
 <li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain
-<li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto OSINT tool 🐘
+<li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto<a> 🐘
 <li>🗃️ Archiver at <a href=https://archive.org/>The Internet Archive</a> (Wayback Machine)
 <li>✍️ Project WhatsMyName 2nd top contributor (WMN is an OSINT Tool for username enumeration ): https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)
 <br>
