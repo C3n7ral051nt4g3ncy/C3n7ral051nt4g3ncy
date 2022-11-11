@@ -199,6 +199,21 @@
       
 <br>
 <br>
+
+<div align="center">
+
+![tryhackme stats](https://raw.githubusercontent.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/master/assets/thm_propic.png)
+
+</div>
+
+<p align="center"><img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/201360247-94ac6931-59e0-423d-af24-bacef3987a70.svg"<p/><br>
+
+
+    🖥️ 🏴‍☠ TryHackMe compleleted Rooms: OhSINT
+
+
+<br>
+<br>
       
 <p align="center"><img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/199259981-dde8bb01-3c14-426b-ade0-ed783f23d5e1.png"/><br>
       
@@ -345,6 +360,8 @@
 [SAMPLECTF Completion October 2022 Verification on Badgr](https://au.badgr.com/public/assertions/kogBwaq7TTKXVojoeengJQ)
       
       1 of 9 competitors out of +700 people to fully complete the SAMPLECTF made by @WebNoser
+      
+<br>
       
 </p>
 </details>
