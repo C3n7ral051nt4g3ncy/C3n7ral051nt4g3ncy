@@ -209,7 +209,7 @@
 <p align="center"><img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/201360247-94ac6931-59e0-423d-af24-bacef3987a70.svg"<p/><br>
 
 
-    🖥️ 🏴‍☠ TryHackMe compleleted Rooms: OhSINT
+    🖥️ 🏴‍☠ TryHackMe compleleted Rooms: OhSINT | Sakura
 
 
 <br>
