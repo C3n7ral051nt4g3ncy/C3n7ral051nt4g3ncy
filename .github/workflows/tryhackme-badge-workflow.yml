@@ -14,6 +14,6 @@ jobs:
       - uses: p4p1/tryhackme-badge-workflow@main
         with:
           
-          username: "5uch4N00>"
+          username: "5uch4N00"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
           # A big thanks to p4p1 for this nice workflow :-)
