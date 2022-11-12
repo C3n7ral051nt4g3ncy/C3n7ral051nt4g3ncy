@@ -64,7 +64,7 @@
 
 <!-- Whois.COA -->
 <details>
-<summary><b> :mag:&nbsp; &nbsp;  Whois.C3n7ral051nt4g3ncy &nbsp;&nbsp;&nbsp;</b></summary><p>
+<summary><b> :mag:&nbsp; &nbsp; ᴡʜᴏɪꜱ.ᴄ3ɴ7ʀᴀʟ051ɴᴛ4ɢ3ɴᴄʏ &nbsp;&nbsp;&nbsp;</b></summary><p>
 <img align="right" width="99" height="99"  src="https://user-images.githubusercontent.com/104733166/166296936-0dd0d432-4d6a-42ab-9000-189cebfbceff.png" />
       
 <blockquote>
@@ -113,7 +113,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <!-- OSINT Projects -->
 <details>
-<summary><b>:shipit: &nbsp; &nbsp; OSINT Projects | Tutorials &nbsp;&nbsp;&nbsp; </b></summary>
+<summary><b>:shipit: &nbsp; &nbsp; ᴏꜱɪɴᴛ ᴘʀᴏᴊᴇᴄᴛꜱ | ᴛᴜᴛᴏʀɪᴀʟꜱ &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
       
 <!-- OSINT-PROJECT-LIST:START -->
@@ -147,7 +147,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <!-- Media --> <br>
 <details>
-<summary><b>📰 &nbsp; &nbsp;  Media on my OSINT research &nbsp;&nbsp;&nbsp;  </b></summary>
+<summary><b>📰 &nbsp; &nbsp; ᴍᴇᴅɪᴀ ᴏɴ ᴍʏ ᴏꜱɪɴᴛ ʀᴇꜱᴇᴀʀᴄʜ &nbsp;&nbsp;&nbsp;  </b></summary>
 <p>
 
 <br>
@@ -189,7 +189,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <!-- Badges & CTF Events -->
 <details>
-<summary><b> 🔖 &nbsp; Cyber | OSINT Badges & CTF Events &nbsp;&nbsp;&nbsp; </b></summary>
+<summary><b> 🔖 &nbsp; ᴄʏʙᴇʀ | ᴏꜱɪɴᴛ | ᴄᴛꜰ ʙᴀᴅɢᴇꜱ &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
       
 <br>
@@ -379,7 +379,7 @@ OhSINT Room                |  Sakura Room
 
 <!-- Sponsorship  -->
 <details>
-<summary><b>🤝 &nbsp; Sponsorship Information &nbsp;&nbsp;&nbsp; </b></summary>
+<summary><b>🤝 &nbsp; ꜱᴘᴏɴꜱᴏʀꜱʜɪᴘ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ &nbsp;&nbsp;&nbsp; </b></summary>
 
 <br>
 
@@ -401,7 +401,7 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 
 <!-- Cryptocurrency  -->
 <details>
-<summary><b>💲 &nbsp;&nbsp;Cryptocurrency Donations  &nbsp;&nbsp;&nbsp; </b></summary>
+<summary><b>💲 &nbsp;&nbsp; ᴄʀʏᴘᴛᴏ ᴅᴏɴᴀᴛɪᴏɴꜱ  &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
 <br>
 <br>
@@ -423,7 +423,7 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
       
 <!-- Stats  -->
 <details>
-<summary><b>:octocat: &nbsp;  GitHub Stats &nbsp;&nbsp;&nbsp; </b></summary>
+<summary><b>:octocat: &nbsp; ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ &nbsp;&nbsp;&nbsp; </b></summary>
 <p>    
 <br>
 <br>
