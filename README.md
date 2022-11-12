@@ -69,7 +69,7 @@
       
 <blockquote>
       
-🆆🅷🅾🅰🅼🅸
+$ 𝚠𝚑𝚘𝚊𝚖𝚒
   
 <br><ul style="list-style-type:disc;">
 <li>:fire: Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY | PYTHON | OPSEC :lock: </li>
