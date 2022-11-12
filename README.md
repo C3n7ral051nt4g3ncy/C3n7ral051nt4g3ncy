@@ -10,7 +10,6 @@
 
 <br>
 <p align="center"> <img width="233" height="199" src="https://user-images.githubusercontent.com/104733166/178179420-ceaba002-11fe-41f5-98e8-1942321903c6.gif"/>
-
 <br>
 <br>
 
@@ -155,7 +154,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <br>
       
 <!--MEDIA:START-->
-*`The articles below have been archived, in case one of the articles below is not accessible, just grab the link and put it through The Internet Archive (WayBack Machine)`
+      
+*`The articles below have been archived, in case one of them is not accessible, grab the link and put it through The Internet Archive (WayBack Machine)` 
      
 - <a href="https://www.wired.com/story/facial-recognition-identify-russian-soldiers"> WIRED: Online Sleuths Are Using Face Recognition to ID Russian Soldiers 🇺🇸</a>
       
