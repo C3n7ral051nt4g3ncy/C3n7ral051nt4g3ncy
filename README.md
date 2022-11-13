@@ -217,7 +217,7 @@ OhSINT Room                |  Sakura Room
 </div>
 
 
-     🏴‍☠ TryHackMe compleleted Rooms: OhSINT | Sakura | Searchlight - IMINT | Googe Dorking
+     🏴‍☠ TryHackMe compleleted Rooms: OhSINT | Sakura | Searchlight - IMINT | Googe Dorking | Geolocating Images
 
 
 <br>
