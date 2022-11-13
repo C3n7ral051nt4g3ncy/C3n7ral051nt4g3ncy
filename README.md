@@ -36,8 +36,8 @@
 
 <div align="center">
 
-[Masto.ai](https://masto.ai/@OSINT_Tactical)| [infosec Exchange](https://infosec.exchange/web/@C3n7ral051nt4g3ncy)|[0sint.social](https://0sint.social/@OSINT_Tactical)|
-:------------------------------------------:|:-------------------------------------------------------------------:|:------------------------------|
+[infosec Exchange](https://infosec.exchange/web/@C3n7ral051nt4g3ncy)
+:------------------------------------------:|
 
 
 
