@@ -2,7 +2,7 @@ name: TryHackMe Update Badge
 
 on:
   schedule:
-    # Every 24 hours
+    # Will update every 24 hours
     - cron: '0 0 * * *'
   workflow_dispatch:
 jobs:
