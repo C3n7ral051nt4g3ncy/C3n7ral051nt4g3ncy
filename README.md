@@ -23,6 +23,7 @@
 <br>
 
 <p align="center"> <img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/187543867-773fe7a1-093c-4dd9-9029-a84fae9ddc99.gif"/>
+      
 
 <br>
       
@@ -461,6 +462,11 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 <p align="center"> <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> </p>
 
 <br>
+      
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line_height=33&count_private=true&theme=merko" alt="C3n7ral051nt4g3ncy's GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&&hide=cmake,javascript,html,css&langs_count=4&line_height=35&theme=merko" alt="C3n7ral051nt4g3ncy's Most Used Languages" /> </p>
+      
+      
 <br>
 <br>
 
