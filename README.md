@@ -205,8 +205,8 @@ TryHackMe Stats | Badges | Completed Rooms:
       
 <br>
       
-<img src="https://tryhackme-badges.s3.amazonaws.com/5uch4N00b.png" alt="TryHackMe">
-
+<img src ="https://tryhackme-badges.s3.amazonaws.com/5uch4N00b.png">
+      
 </div>
 
 <div align="center">
