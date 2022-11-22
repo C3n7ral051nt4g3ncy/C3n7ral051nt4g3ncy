@@ -119,6 +119,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
       
 <!-- OSINT-PROJECT-LIST:START -->
 - [OSINT INCEPTION 🚀 - A start.me page of the best OSINT start.me projects](https://start.me/p/Pwy0X4/osint-inception)
+- Project OSINT inception is used by [SMART - Start Me Aggregated Resource Tool](https://smart.myosint.training)
 - [OSINT INCEPTION GITHUB 🏢 - Project Links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links)
 - [GOOGLE CSE 🇬 - Google Custom Search Engine of the top start.me resources](https://start.me/p/Pwy0X4/osint-inception)
 - [FACIAL RECOGNITION 👤 - Tracking Military personnel with facial recognition](https://twitter.com/OSINT_Tactical/status/1498694266754899978)
