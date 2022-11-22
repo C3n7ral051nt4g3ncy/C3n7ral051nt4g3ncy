@@ -101,6 +101,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
  <a href=https://reconvillage.org/talks/#talk-1> The Future of Collecting Data from the Past: OSINT Now and Beyond</a> (Resource: OSINT Inception)[Archived on WayBack Machine] <a/></li>
 <li> OSINT-FR Hall of Fame: <a href=https://osintfr.com/en/our-osinters-are-talented>Talented OSINTers</a> [Archived on WayBack Machine] </a></li>
 <li> Featured in the <a href=https://www.osint-jobs.com>OSINT Jobs newsletter - This Week's OSINT Tips and Tricks</a>
+<li> Facial Recognition work was presented at the <a href=https://user-images.githubusercontent.com/104733166/203194889-b04994b2-1357-4a2a-9f73-e2ba0c87b238.png> RootedCON 2022 in Madrid</a>
 
 </ul>  
 </blockquote>
