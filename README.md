@@ -206,12 +206,15 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <div align="center">
 TryHackMe Stats | Badges | Completed Rooms:
-      
+
 <br>
       
-<img src="https://tryhackme-badges.s3.amazonaws.com/5uch4N00b.png" alt="TryHackMe">
-      
+![C3n7ral051nt4g3ncy's tryhackme stats](https://raw.githubusercontent.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/master/assets/thm_propic.png)<br>
+
 </div>
+
+<br>
+      
 
 <div align="center">
 
