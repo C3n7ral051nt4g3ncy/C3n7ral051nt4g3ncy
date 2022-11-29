@@ -299,9 +299,14 @@ OhSINT Room                |  Sakura Room
       Global OSINT Search Party CTF 2022-03 [Team CageyBees 🐝🐝]
 <br>
 <br> 
-      
-<p align="center"> <img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/198859824-8f715ef1-d9a1-465e-b8cb-41e1997a53d8.png">
+ 
 
+      
+<p align="center"> <img width="99" height="99"src="https://user-images.githubusercontent.com/104733166/204590452-8abe8db6-8bee-45df-909c-ed8d16341dd0.png"> 
+  
+<img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/198859824-8f715ef1-d9a1-465e-b8cb-41e1997a53d8.png"> 
+
+ [Trace Labs Badge Verification on Badgr](https://ca.badgr.com/public/assertions/Tf-Am6MnQ4SQ15aoxykX2A)  
       
      🥈2nd Place Trace Labs [Silver Badge] 
       Global OSINT Search Party CTF 2022-11 | OSE: Operation Safe Escape [Team Hacktoria]
