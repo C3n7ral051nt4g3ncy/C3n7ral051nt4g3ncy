@@ -226,9 +226,6 @@ OhSINT Room                |  Sakura Room
 </div>
 
 
-     🏴‍☠ TryHackMe compleleted Rooms: OhSINT | Sakura | Searchlight - IMINT | Googe Dorking | Geolocating Images | KaffeeSec - SoMeSINT |
-
-
 <br>
 <br>
       
