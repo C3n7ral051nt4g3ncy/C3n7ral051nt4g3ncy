@@ -222,7 +222,7 @@ OhSINT                     |  Sakura
 :-------------------------:|:-------------------------:
 <img width="90" height="90" src="https://user-images.githubusercontent.com/104733166/201360247-94ac6931-59e0-423d-af24-bacef3987a70.svg"/>  |  <img width="77" height="77" src="https://user-images.githubusercontent.com/104733166/201470172-f0b5be6b-041b-4d42-99d4-aa4dd551638b.png"/>
 
-   
+[OSINT DOJO Sakura Badge Verification](https://badgr.com/public/assertions/4y0D2SVEQrywIW8rkQUaYQ)
 
 </div>
 
