@@ -53,8 +53,7 @@
 
 <p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
 <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=C3n7ral051nt4g3ncy&left_color=blue&right_color=purple" alt="visitor badge"/>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&theme=ocean_dark" width="433"></p>
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line_height=33&count_private=true&theme=merko" alt="C3n7ral051nt4g3ncy's GitHub Stats"/>
       
 </p>
 
@@ -478,7 +477,7 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line_height=33&count_private=true&theme=merko" alt="C3n7ral051nt4g3ncy's GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&&hide=cmake,javascript,html,css&langs_count=4&line_height=35&theme=merko" alt="C3n7ral051nt4g3ncy's Most Used Languages" /> </p>
       
-      
+<br>
 <br>
 <br>
 
