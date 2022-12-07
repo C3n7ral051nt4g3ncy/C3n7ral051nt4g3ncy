@@ -225,7 +225,7 @@ OhSINT                     |  Sakura
 
 <p align="center">
 
-     🏴‍☠️ TryHackMe Top 7% | Username: 5uch4N00b 
+     🏴‍☠️ TryHackMe Top 6% | Username: 5uch4N00b 
    
 <br>
 <br>
