@@ -301,7 +301,8 @@ OhSINT                     |  Sakura                  | 7-day Streak            
  
 
       
-<p align="center"> <img width="99" height="99"src="https://user-images.githubusercontent.com/104733166/204590452-8abe8db6-8bee-45df-909c-ed8d16341dd0.png"> 
+<p align="center"> <img width="99" height="99"src="https://user-images.githubusercontent.com/104733166/204590452-8abe8db6-8bee-45df-909c-ed8d16341dd0.png"> <br>
+      
   
 <img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/198859824-8f715ef1-d9a1-465e-b8cb-41e1997a53d8.png"> 
 
@@ -316,7 +317,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <br>
 
       
-<p align="center"> <img width="233" height="60" src="https://user-images.githubusercontent.com/104733166/170407320-b437c34c-2ed3-445e-8b8b-8e57a646c918.png">
+<p align="center"> <img width="399" height="99" src="https://user-images.githubusercontent.com/104733166/170407320-b437c34c-2ed3-445e-8b8b-8e57a646c918.png">
         
 <br>
 <br>
