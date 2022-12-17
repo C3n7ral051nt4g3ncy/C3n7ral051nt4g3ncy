@@ -6,6 +6,7 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-purple?style=for-the-badge&logo=pycharm&logoColor=green&color=purple&labelColor=purple)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-purple.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Codecademy](https://img.shields.io/badge/Codecademy-purple?style=for-the-badge&logo=codecademy&logoColor=green)
+
 </div>
 
 <br>
@@ -28,6 +29,9 @@
 <br>
       
 <br>
+
+<br>
+<a href='https://ko-fi.com/tacticalintelanalyst' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
       
 <p align="center">
 <a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/keybase/pgp/osint_intel?label=Keybase&logo=Keybase&logoColor=black&style=for-the-badge&color=purple"/></a>
