@@ -175,6 +175,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 - <a href="https://www.niusdiario.es/ciencia-y-tecnologia/tecnologia/inteligencia-militar-alcance-prolifera-invasion-osint_18_3291497041.html"> Spanish Article 🇪🇸</a>
   
 - <a href="https://news.sina.cn/gn/2022-03-28/detail-imcwiwss8541952.d.html"> Chinese article 🇨🇳 <a/>
+  
+- <a href="https://m.thepaper.cn/baijiahao_17188086"> Chinese article 🇨🇳 <a/>
 
 - <a href="https://technews.tw/2022/03/21/ai-in-war/"> Featured in Tech News: Taiwan 🇹🇼 <a/>
 
