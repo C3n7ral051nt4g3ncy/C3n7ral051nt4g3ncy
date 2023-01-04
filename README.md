@@ -349,7 +349,8 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <img width="133" src="https://user-images.githubusercontent.com/104733166/189050790-92ff9f36-59cf-4ab3-b778-252eef1a18a5.png"/>
 <img width="133" src="https://user-images.githubusercontent.com/104733166/190496775-7e940804-9285-44d2-9008-e90aa3002567.png"/>
 <img width="133" src="https://user-images.githubusercontent.com/104733166/191045000-1e28fff5-f3ba-42d6-88d3-8697230d5f95.png"/>
-<img width="133" src="https://user-images.githubusercontent.com/104733166/210511320-77294db0-d890-417a-bab7-3bad1beccfc6.png"/></p>
+<img width="133" src="https://user-images.githubusercontent.com/104733166/210511320-77294db0-d890-417a-bab7-3bad1beccfc6.png"/>
+<img width="133" src="https://user-images.githubusercontent.com/104733166/210512009-fc6f1b77-058c-48d0-b885-3a515b7ac8cb.png"/></p>
 
       Tiberian Order and HACKTORIA Contract Cards for solved CTF events
       
