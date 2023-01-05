@@ -316,7 +316,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
  [Trace Labs Badge Verification on Badgr](https://ca.badgr.com/public/assertions/Tf-Am6MnQ4SQ15aoxykX2A)  
       
      🥈2nd Place Trace Labs [Silver Badge] 
-      Global OSINT Search Party CTF 2022-11 | OSE: Operation Safe Escape [Team Hacktoria]
+      Global OSINT Search Party CTF 2022-11 | OSE: Operation Safe Escape [Team Hacktoria ⓗ]
       
 <br>
 <br>
