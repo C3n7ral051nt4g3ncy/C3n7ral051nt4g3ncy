@@ -493,7 +493,7 @@ To move forward with the sponsorship: click [here](https://github.com/sponsors/C
 <br>
       
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line_height=33&count_private=true&theme=merko" alt="C3n7ral051nt4g3ncy's GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&&hide=cmake,javascript,html,css&langs_count=4&line_height=35&theme=merko" alt="C3n7ral051nt4g3ncy's Most Used Languages" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line&count_private=true&theme=merko" alt="C3n7ral051nt4g3ncy's GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&&hide=cmake,javascript,html,css&langs_count=4&line&theme=merko" alt="C3n7ral051nt4g3ncy's Most Used Languages" /> </p>
       
 <br>
 <br>
