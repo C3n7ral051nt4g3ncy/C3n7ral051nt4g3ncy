@@ -94,6 +94,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <br>
 <li> One of 9 out of +700 to fully complete the <a href=https://samplectf.com> SampleCTF</a>
 <li> 6th place HEXA OSINT CTF 2021 Team OSINT-B33R [Sopra Steria and La Fabrique Défense, French Ministry of Defense]</li>
+<li> 8th place HEXA OSINT CTF V2 2023 Team CogitOSINT Ergo Sum [Sopra Steria]- 116 Teams participated.
 <li> Participated in the 2022 DefCon https://defcon.org Trace Labs OSINT CTF, Las Vegas, USA (7th Place with The Osint Unit)
 <li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams</li>
 <li> Featured in <a href=https://sector035.nl/articles/2022-35>Week in OSINT 2022-35</a> by <a href=https://twitter.com/Sector035>@Sector035</a> [Archived on WayBack Machine] <a/></li>
