@@ -335,6 +335,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
       
      🥇1st Place Hacktoria OSINT CTF (Downtown Murderer)
+     🥈2nd Place Hacktoria CTF Operation Manhunt
      🥈2nd Place Hacktoria CTF Operation Galaxios
       CTF Events completion Badges [Operations: Downtown Murderer/ Warthog / Galaxios / Runner / Brutus]
       
