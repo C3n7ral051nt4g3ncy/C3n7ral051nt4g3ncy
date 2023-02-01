@@ -88,6 +88,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🥇1st place in the CTF OSINT Bleuet de France 2022 (AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense)
 <li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.11 | OSE (Operation Safe Escape)</li>
 <li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.03</li>
+<li>🥈2nd place Hacktoria CTF Operation Manhunt 2023 </li>
 <li>🥈2nd Place Hacktoria CTF OP Galaxios 2022</li>
 <li>🥉3rd Place MilOsint CTF | 2021 </li>
 <li>🥉3rd Place in the Stranger Case OSINT CTF organised by Esna Bretagne and Esn'Hack ./CTF partnership with DGA (French Government Defense procurement and technology agency), Airbus Cybersecurity, Diateam & Apixit | 2022</li>
