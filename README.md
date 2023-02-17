@@ -77,13 +77,16 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>:fire: Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY | PYTHON | OPSEC :lock: </li>
 <li>👨‍🏫 OSINT Trainer <a href=https://github.com/TacticalOsintAcademy>@Tactical OSINT Academy</a></li>
 <li>🏴 The OSINTion Black Badge </li>
-<li>🪙 x2 times Trace Labs Silver Badge Award</li>
+<li>🥇 1x Trace Labs Black Badge (Gold) award </li> 
+<li>🪙 2x Trace Labs Silver Badge Award</li>
 <li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain
 <li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto<a> 🐘
+<li>✒️ Volunteer report writer for the <a href=https://www.tracelabs.org>Trace Labs<a> organization after Trace Labs CTF events.
 <li>🗃️ Archiver at <a href=https://archive.org/>The Internet Archive</a> (Wayback Machine)
-<li>✍️ Project WhatsMyName 2nd top contributor (WMN is an OSINT Tool for username enumeration ): https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)
+<li>✍️ Project WhatsMyName 2nd top contributor behind @WebBreacher (WMN is an OSINT Tool for username enumeration ): https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)
 <br>
 <br>
+<li>🥇1st place - Black Badge (Gold) Award in the Trace Labs OSINT Search Party CTF 2023.02 </li>    
 <li>🥇1st place in the OSINT GAMES CTF TENET | 2022: created by <a href=https://github.com/WebBreacher> @WebBreacher</a></li>
 <li>🥇1st place in the Hacktoria OSINT CTF | Downtown Murderer 2022
 <li>🥇1st place in the CTF OSINT Bleuet de France 2022 (AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense)
