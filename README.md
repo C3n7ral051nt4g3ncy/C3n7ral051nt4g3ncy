@@ -42,7 +42,7 @@
 
 <div align="center">
 
-[infosec Exchange](https://infosec.exchange/web/@C3n7ral051nt4g3ncy)
+[infosec Exchange](https://infosec.exchange/@C3n7ral051nt4g3ncy)
 :------------------------------------------:|
 
 
