@@ -436,7 +436,12 @@ If you sponsor me for my work that is done to help the OSINT and Cyber Community
 
 To move forward with the sponsorship: click [here](https://github.com/sponsors/C3n7ral051nt4g3ncy)
       
-If you are looking for speakers or workshops for your OSINT/Cyber event or conference, feel free to contact me.    
+If you are looking for speakers/workshops (such as below at OSINT Punk 23) for your OSINT/Cyber event/conference, feel free to contact me.
+ 
+<img width=633 src="https://user-images.githubusercontent.com/104733166/223172129-6825fb73-2328-47bc-a9b2-a0cbe48e1916.png">
+<br>
+
+https://user-images.githubusercontent.com/104733166/223172071-aed3efdc-f9b2-4639-96b9-9f4167617a5b.mp4
 
 </p>
 </details>
