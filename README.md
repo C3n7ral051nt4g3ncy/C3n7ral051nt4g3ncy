@@ -428,15 +428,15 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <br>
 
-If you sponsor me for my work that is done to help the OSINT and Cyber Community, you will get:
+If you sponsor me for my work, which is done to help the OSINT and Cyber Community, you will get:
 
 - A sponsorship badge displayed on your GitHub profile
-- A shoutout on Twitter (+11K Followers)
-- Your logo on the next OSINT Tool | Project,  with recognition for the sponsorship in writing with your company/website details
+- A shoutout on Twitter (+11.3K Followers)
+- Your logo on the next OSINT Tool | Project,  with recognition for the sponsorship in writing, as well as your company/website details
 
 To move forward with the sponsorship: click [here](https://github.com/sponsors/C3n7ral051nt4g3ncy)
       
-If you are looking for speakers/workshops (such as below at OSINT Punk 23) for your OSINT/Cyber event/conference, feel free to contact me.
+If you are looking for speakers/workshops (such as I did below for #OSINTPunk23) for your OSINT or Cyber event/conference, feel free to contact me.
  
 <img width=633 src="https://user-images.githubusercontent.com/104733166/223172129-6825fb73-2328-47bc-a9b2-a0cbe48e1916.png">
 <br>
