@@ -435,6 +435,8 @@ If you sponsor me for my work that is done to help the OSINT and Cyber Community
 - Your logo on the next OSINT Tool | Project,  with recognition for the sponsorship in writing with your company/website details
 
 To move forward with the sponsorship: click [here](https://github.com/sponsors/C3n7ral051nt4g3ncy)
+      
+If you are looking for speakers or workshops for your OSINT/Cyber event or conference, feel free to contact me.    
 
 </p>
 </details>
