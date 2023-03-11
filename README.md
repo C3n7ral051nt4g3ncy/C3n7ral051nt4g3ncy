@@ -182,6 +182,9 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
   
 - <a href="https://www.rfi.fr/fr/technologies/20220316-la-reconnaissance-faciale-en-temps-de-guerre-selon-clearview"> La reconnaissance faciale en temps de guerre selon Clearview 🇫🇷 <a/>
       
+- Mentionned in MAG'OSINT (Osint Magazine of the French Economic War School) 🇫🇷 [MAGOSINT.pdf](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/files/10948348/2023113354_mag-osint-13-aege-2.pdf)
+      
+      
 - <a href="https://www.abc.es/economia/abci-inteligencia-artificial-tambien-entra-combate-guerra-ucrania-202203140205_noticia.html"> Spanish Article 🇪🇸</a>
       
 - <a href="https://as.com/diarioas/2022/03/06/actualidad/1646582802_197827.html"> Spanish Article 🇪🇸</a>
@@ -520,4 +523,6 @@ https://user-images.githubusercontent.com/104733166/223172071-aed3efdc-f9b2-4639
 C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+      
+      
       
