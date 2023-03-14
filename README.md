@@ -141,9 +141,10 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 - [W3b0s1nt (WebOSINT) 🐍  - Python Tool](https://github.com/C3n7ral051nt4g3ncy/webosint)
 - [WhatsMyName-Python 🐍 - Unofficial WMN Python Script I made for myself](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python)
 - [Masto OSINT Tool 🐍 - Python tool to gather information on Mastodon users and instances](https://github.com/C3n7ral051nt4g3ncy/Masto)
-- [Tutorial 📚] [- cURL for OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT)
-- [Tutorial 📚] [- Obsidian | Made 2 templates](https://github.com/C3n7ral051nt4g3ncy/Obsidian)
-- [Tutorial 📚] [- Using a Virtual Environment for OSINT Python tools](https://github.com/C3n7ral051nt4g3ncy/python_virtual_environment)
+- Tutorial 📚 [- cURL for OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT)
+- Tutorial 📚 [- Obsidian | Made 2 templates](https://github.com/C3n7ral051nt4g3ncy/Obsidian)
+- Tutorial 📚 [- Using a Virtual Environment for OSINT Python tools](https://github.com/C3n7ral051nt4g3ncy/python_virtual_environment)
+- Google Chat Technique 🕵️‍♂️ [- First to find and mention the Google Chat Technique to check if a Gmail address or Google Group exists, with the ability to also get the photo of the user](https://twitter.com/OSINT_Tactical/status/1635386804441600001?s=20)
 
 <br>
 
