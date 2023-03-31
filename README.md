@@ -180,6 +180,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 - <a href="https://www.wired.com/story/facial-recognition-identify-russian-soldiers"> WIRED: Online Sleuths Are Using Face Recognition to ID Russian Soldiers 🇺🇸</a>
       
 - <a href="https://www.washingtonexaminer.com/news/identities-of-russian-soldiers-revealed-through-facial-recognition-technology"> Washington Examiner Article 🇺🇸</a>
+ 
+- <a href="https://www.latribune.fr/opinions/tribunes/renseignement-de-source-ouverte-osint-l-excellence-francaise-peut-elle-encore-etre-renforcee-956805.html"> Renseignement de source ouverte (OSINT) : l'excellence française peut-elle encore être renforcée ? 🇫🇷 <a/>
       
 - <a href="https://www.nextinpact.com/article/68616/la-reconnaissance-faciale-pour-combattre-guerre-en-ukraine"> La Reconnaissance Faciale pour combattre la guerre en Ukraine/ French Article writen by @ManHack 🇫🇷 <a/>
   
