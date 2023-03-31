@@ -85,6 +85,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🪙 2x Trace Labs Silver Badge Award</li>
 <li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain
 <li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto<a> 🐘
+<li>🎤 Invited as a speaker at <a href=https://web.archive.org/save/https://europe.forum-fic.com/en/associated-event-osint-day> International CyberSecurity Forum OSINT day<a>
 <li>🎤 Invited as a speaker at <a href=https://www.youtube.com/watch?v=Yk8JNM2Snno>  OSINT Punk 23 </a> #OSINTPunk23
 <li>✒️ Volunteer report writer for the <a href=https://www.tracelabs.org>Trace Labs<a> organization after Trace Labs CTF events.
 <li>🗃️ Archiver at <a href=https://archive.org/>The Internet Archive</a> (Wayback Machine)
@@ -438,7 +439,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 If you sponsor me for my work, which is done to help the OSINT and Cyber Community, you will get:
 
 - A sponsorship badge displayed on your GitHub profile
-- A shoutout on Twitter (+11.3K Followers)
+- A shoutout on Twitter (+11.7K Followers)
 - Your logo on the next OSINT Tool | Project,  with recognition for the sponsorship in writing, as well as your company/website details
 
 To move forward with the sponsorship: click [here](https://github.com/sponsors/C3n7ral051nt4g3ncy)
