@@ -85,7 +85,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🪙 2x Trace Labs Silver Badge Award</li>
 <li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain
 <li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto<a> 🐘
-<li>🎤 Invited as a speaker at <a href=https://web.archive.org/save/https://europe.forum-fic.com/en/associated-event-osint-day> International CyberSecurity Forum OSINT day<a>
+<li>🎤 Invited as a speaker at <a href=https://web.archive.org/save/https://europe.forum-fic.com/en/associated-event-osint-day> FIC (International CyberSecurity Forum)<a>
 <li>🎤 Invited as a speaker at <a href=https://www.youtube.com/watch?v=Yk8JNM2Snno>  OSINT Punk 23 </a> #OSINTPunk23
 <li>✒️ Volunteer report writer for the <a href=https://www.tracelabs.org>Trace Labs<a> organization after Trace Labs CTF events.
 <li>🗃️ Archiver at <a href=https://archive.org/>The Internet Archive</a> (Wayback Machine)
