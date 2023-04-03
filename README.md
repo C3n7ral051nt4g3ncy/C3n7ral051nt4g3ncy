@@ -85,7 +85,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🪙 2x Trace Labs Silver Badge Award</li>
 <li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain
 <li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto<a> 🐘
-<li>🎤 Invited as a speaker at <a href=https://web.archive.org/save/https://europe.forum-fic.com/en/associated-event-osint-day> FIC (International CyberSecurity Forum)<a>
+<li>🎤 Invited as a speaker at <a href=https://web.archive.org/save/https://europe.forum-fic.com/en/associated-event-osint-day> FIC 2023 (International CyberSecurity Forum | OSINT Day)<a>
 <li>🎤 Invited as a speaker at <a href=https://www.youtube.com/watch?v=Yk8JNM2Snno>  OSINT Punk 23 </a> #OSINTPunk23
 <li>✒️ Volunteer report writer for the <a href=https://www.tracelabs.org>Trace Labs<a> organization after Trace Labs CTF events.
 <li>🗃️ Archiver at <a href=https://archive.org/>The Internet Archive</a> (Wayback Machine)
@@ -116,6 +116,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> OSINT-FR Hall of Fame: <a href=https://osintfr.com/en/our-osinters-are-talented>Talented OSINTers</a> [Archived on WayBack Machine] </a></li>
 <li> Featured in the <a href=https://www.osint-jobs.com>OSINT Jobs newsletter - This Week's OSINT Tips and Tricks</a>
 <li> Facial Recognition work was presented at the <a href=https://user-images.githubusercontent.com/104733166/203194889-b04994b2-1357-4a2a-9f73-e2ba0c87b238.png> RootedCON 2022 in Madrid</a>
+<li> Beta-Tester for <a href=https://app.osintracker.com>OSINTracker</a> and OSINT Rooms on <a href=https://tryhackme.com> TryHackMe</a>   
 
 </ul>  
 </blockquote>
