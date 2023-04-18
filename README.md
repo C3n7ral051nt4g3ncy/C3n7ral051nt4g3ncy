@@ -188,6 +188,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
   
 - <a href="https://www.rfi.fr/fr/technologies/20220316-la-reconnaissance-faciale-en-temps-de-guerre-selon-clearview"> La reconnaissance faciale en temps de guerre selon Clearview 🇫🇷 <a/>
       
+- <a href="https://fr.news.yahoo.com/société-française-identifie-soldats-russes-135210413.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHYcbidHeQvwNF89cFqzPqUoIrVfduflgQ57WzTkKhkXHPohouH-4JUJBrEsDO7ooxxzjtC1xHtp4T3RipXLVmKks82Xaozw3AxMPA9YmDWLeO__5Aqaz4K5xvQTqEs3_OJyyNi_2ODxmX7O21-Lyrdw4ckO8eimNh9Zf7OI9AZJ"> Une société française identifie les soldats russes en Ukraine par reconnaissance faciale 🇫🇷 <a/>
+      
 - Mentionned in MAG'OSINT (Osint Magazine of the French Economic War School) 🇫🇷 [MAGOSINT.pdf](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/files/10948348/2023113354_mag-osint-13-aege-2.pdf)
       
       
