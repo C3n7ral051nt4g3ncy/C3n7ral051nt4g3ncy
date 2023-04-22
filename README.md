@@ -206,6 +206,13 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 - <a href="https://technews.tw/2022/03/21/ai-in-war/"> Featured in Tech News: Taiwan 🇹🇼 <a/>
 
 - [Comments](https://user-images.githubusercontent.com/104733166/172185332-1d02ccdb-07c3-418d-bf94-bfbd9ca1f3aa.png) about my project: [OSINT INCEPTION](https://start.me/p/Pwy0X4/osint-inception) by [**start.me**](https://start.me) 🇳🇱
+  
+- Helped French Factchecking unit "Les Vérificateurs" from Groupe TF1/LCI regarding the Putin Body Double. (See video below)
+
+https://user-images.githubusercontent.com/104733166/233765799-dbfc612f-c8cc-4dd8-93b8-6103dd6d5aba.mp4
+
+
+      
       
 <br>  
 
