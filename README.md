@@ -163,6 +163,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 - [OSINT Stuff Tool Collection](https://github.com/cipher387/osint_stuff_tool_collection) created by [@cipher387](https://github.com/cipher387)
 - [Twayback Python OSINT Tool](https://github.com/Mennaruuk/twayback) by [@Mennaruuk](https://github.com/Mennaruuk)
 - [Maigret OSINT Tool](https://github.com/soxoj/maigret) by [@Soxoj](https://github.com/soxoj)
+- [Mailcat email OSINT Tool](https://github.com/sharsil/mailcat) by [@sharsil](https://github.com/sharsil)
       
 <!-- OSINT-PROJECT-LIST:END --></p> 
       
