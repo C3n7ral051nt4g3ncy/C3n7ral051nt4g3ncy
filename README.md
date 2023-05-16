@@ -345,6 +345,16 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <br>
 <br>
 
+<p align="center"> <img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/e4f4bc70-465f-43f5-9f9b-d4ec4451e231"/><br>
+      
+ [Trace Labs Gold Badge Verification on Badgr](https://ca.badgr.com/public/assertions/aD4CeF4bRRybkdw6e-dM5A)    
+
+      
+     🥇1st Place Trace Labs [Gold Badge (ex black badge)] 
+      Global OSINT Search Party CTF 2023-02 [Team Wizards of OZINT 🧙‍♂️]
+      Competed under the username: Pentagon
+       
+<br>
 <br>
       
 <p align="center"> <img width="99" height="99" src="https://user-images.githubusercontent.com/104733166/166788919-07ff450c-c35c-4171-88b1-de93b651fc32.png"/><br>
