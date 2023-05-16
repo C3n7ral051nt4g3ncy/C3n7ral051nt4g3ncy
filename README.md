@@ -85,6 +85,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🏴 The OSINTion Black Badge </li>
 <li>🥇 1x Trace Labs Black Badge (Gold) award </li> 
 <li>🪙 2x Trace Labs Silver Badge Award</li>
+<li>⚖️ Trace Labs Judge (OSINTomatico Conference 2023, Madrid, Spain)
 <li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain
 <li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto<a> 🐘
 <li>🤓 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/PCT>People Count Tool<a> 🧑‍🤝‍🧑
