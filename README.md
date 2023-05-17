@@ -279,9 +279,17 @@ OhSINT                     |  Sakura                  | 7-day Streak            
       
 <p align="center"><img width="133" height="133" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/12590a7a-98b1-4965-8416-4f7c38bc3a15"/><br>
       
-    ⚖️ TraceLabs Judge
-    ✍️ TraceLabs report writer 
-[Verify Badge Authenticity](https://ca.badgr.com/public/assertions/khHawYHIT5SeUJ-LOykamA)
+    ✍️ TraceLabs Report Writer 
+[Verify Report Writer Badge Authenticity](https://ca.badgr.com/public/assertions/khHawYHIT5SeUJ-LOykamA)
+      
+<br>
+<br>
+   
+<p align="center"><img width="133" height="133" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/7eff03b3-c235-469b-83ee-6aec0724f674"/><br>
+        
+    ⚖️ TraceLabs CTF Judge 
+[Verify Judge Badge Authenticity](https://ca.badgr.com/public/assertions/MJLNzYbcQwK8kNnaceVHxQ)
+    
             
 <br>   
 <p align="center"><img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/177000301-2a92c2b8-f067-4280-a108-f885c2544a6e.png"/><br>
