@@ -61,9 +61,10 @@
 
 <p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=C3n7ral051nt4g3ncy&label=Profile%20views&color=blueviolet&style=flat" alt="C3n7ral051nt4g3ncy" /> </p>
-<p align="center"><img src="https://github-readme-stats-lake-omega.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line&theme=ocean_dark" alt="C3n7ral051nt4g3ncy's GitHub Stats"/>
-      
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=C3n7ral051nt4g3ncy&label=Profile%20views&color=blueviolet&style=flat" alt="C3n7ral051nt4g3ncy"/></p>
+<p align="center"><img src="https://github-readme-stats-lake-omega.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="C3n7ral051nt4g3ncy's GitHub Stats"/>
+<img src="https://github-readme-stats-lake-omega.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&&hide=cmake,javascript,html,css&langs_count=4&line&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="C3n7ral051nt4g3ncy's Most Used Languages" />
+
 </p>
 
 <br>
@@ -578,12 +579,6 @@ https://user-images.githubusercontent.com/104733166/225994689-9e6a2459-8091-4523
 
 <br>
       
-<p align="center">
-<img src="https://github-readme-stats-lake-omega.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line&count_private=true&theme=merko" alt="C3n7ral051nt4g3ncy's GitHub Stats"/> <img src="https://github-readme-stats-lake-omega.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&&hide=cmake,javascript,html,css&langs_count=4&line&theme=merko" alt="C3n7ral051nt4g3ncy's Most Used Languages" /> </p>
-      
-      
-<br>
-<br>
 <br>
 
 
