@@ -158,6 +158,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 - Tutorial 📚 [- Using a Virtual Environment for OSINT Python tools](https://github.com/C3n7ral051nt4g3ncy/python_virtual_environment)
 - Google Chat Technique 🕵️‍♂️ [- First to find and mention the Google Chat Technique to check if a Gmail address or Google Group exists, with the ability to also get the photo of the user, and GAIA ID](https://twitter.com/OSINT_Tactical/status/1635386804441600001?s=20)
 - Facial Recognition Trick and Tip 👤 [- Found that 2 different Facial Recognition tools don't work with black and white photos of faces, a simple trick solves this issue](https://twitter.com/OSINT_Tactical/status/1661055926424551439)
+- Protonmail Custom Domain ⚛️ [- Found that the API shows the main email address for any custom domain that uses a catch-all, no matter what the input in front of {%@domain.com} is](https://twitter.com/OSINT_Tactical/status/1666505637780398101?s=20)
 
 <br>
 
