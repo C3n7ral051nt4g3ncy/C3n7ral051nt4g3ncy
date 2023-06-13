@@ -61,8 +61,10 @@
 
 <p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=C3n7ral051nt4g3ncy&label=Profile%20views&color=blueviolet&style=flat" alt="C3n7ral051nt4g3ncy"/></p>
-<p align="center"> <imgsrc="https://github-readme-stats-lake-omega.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="C3n7ral051nt4g3ncy's GitHub Stats"/>
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=C3n7ral051nt4g3ncy&label=Profile%20views&color=blueviolet&style=flat" alt="C3n7ral051nt4g3ncy"/></p>
+<p align="center"> 
+<img width="533" src="https://github-readme-stats-lake-omega.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="C3n7ral051nt4g3ncy's GitHub Stats"/>
       
 <br>
       
