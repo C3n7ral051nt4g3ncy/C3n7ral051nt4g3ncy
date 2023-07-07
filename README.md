@@ -142,7 +142,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <!-- OSINT Projects -->
 <details>
-<summary><b>:shipit: &nbsp; &nbsp; ᴏꜱɪɴᴛ ᴘʀᴏᴊᴇᴄᴛꜱ | ᴛᴜᴛᴏʀɪᴀʟꜱ &nbsp;&nbsp;&nbsp; </b></summary>
+<summary><b>:shipit: &nbsp; &nbsp; ᴍʏ ᴏꜱɪɴᴛ ᴘʀᴏᴊᴇᴄᴛꜱ | ᴛᴜᴛᴏʀɪᴀʟꜱ &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
       
 <!-- OSINT-PROJECT-LIST:START -->
