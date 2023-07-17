@@ -93,6 +93,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🪙 2x Trace Labs Silver Badge Award</li>
 <li>⚖️ Trace Labs Judge (OSINTomatico Conference 2023, Madrid, Spain)
 <li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain
+<li>🧠 Regular contributor to the OSINT world, first to find and bring to light various OSINT techniques</li> 
 <li>🤖 Creator of the Discord Bot called <a href=https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot>GitOSINT<a> 🦾
 <li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto<a> 🐘
 <li>🤓 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/PCT>People Count Tool<a> 🧑‍🤝‍🧑
