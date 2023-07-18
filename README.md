@@ -93,7 +93,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🪙 2x Trace Labs Silver Badge Award</li>
 <li>⚖️ Trace Labs Judge (OSINTomatico Conference 2023, Madrid, Spain)</li> 
 <li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain</li> 
-<li>🧠 Regular contributor to the OSINT world, first to find and bring to light various OSINT techniques</li> 
+<li>🧠 Regular contributor to the OSINT community, first to find and bring to light various OSINT techniques. </li> 
 <li>🤖 Creator of the Discord Bot called <a href=https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot>GitOSINT<a> 🦾</li> 
 <li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto<a> 🐘</li> 
 <li>🤓 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/PCT>People Count Tool<a> 🧑‍🤝‍🧑</li> 
@@ -102,7 +102,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🎤 Invited as a speaker at <a href=https://www.youtube.com/watch?v=Yk8JNM2Snno>  OSINT Punk 23 </a> #OSINTPunk23</li> 
 <li>✒️ Volunteer report writer for the <a href=https://www.tracelabs.org>Trace Labs<a> organization after Trace Labs CTF events.</li> 
 <li>🗃️ Archiver at <a href=https://archive.org/>The Internet Archive</a> (Wayback Machine)</li> 
-<li>✍️ Project WhatsMyName 2nd top contributor behind <a href=https://github.com/WebBreacher> @WebBreacher</a> (WMN is an OSINT Tool for username enumeration ): https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)</li> 
+<li>✍️ Project WhatsMyName 2nd top contributor behind <a href=https://github.com/WebBreacher> @WebBreacher</a> WMN is one of the top OSINT Tools for username enumeration: https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)</li> 
 <br>
 <br>
 <li>🥇1st place - Black Badge (Gold) Award in the Trace Labs OSINT Search Party CTF 2023.02 </li>    
@@ -123,8 +123,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams</li>
 <li> Featured in the <a href=https://osintnewsletter.com/p/the-osint-newsletter-july-2023> Jake Creps July 2023 OSINT Newsletter</a> regarding the Google Calendar OSINT Technique to check if an email is valid that was found.[Archived on WayBack Machine]</li> 
 <li> Featured in the <a href=https://644w7.r.a.d.sendibm1.com/mk/mr/sh/1f8JAEjGcfF85v6RgNXbSXMreF/Lizgp5au4XQp> Intelfe July 2023 Newsletter</a> regarding the Google Calendar OSINT Technique found.</li> 
-<li> Featured in the July 2023 <a href=https://preview.mailerlite.com/d5n9d8q0s0/2260397387069529087/o2t5/> OSINT Jobs Newsletter</a> regarding the new Google Calendar OSINT Technique that was found.[Archived on WayBack Machine]</li> 
-<li> Featured in the <a href=https://osintnewsletter.com/p/march-2023> Jake Creps March 2023 OSINT Newsletter</a> in relation to a new Google Chat Technique found. [Archived on WayBack Machine]</li> 
+<li> Featured in the July 2023 <a href=https://preview.mailerlite.com/d5n9d8q0s0/2260397387069529087/o2t5/> OSINT Jobs Newsletter</a> regarding the new Google Calendar OSINT Technique that I found.[Archived on WayBack Machine]</li> 
+<li> Featured in the <a href=https://osintnewsletter.com/p/march-2023> Jake Creps March 2023 OSINT Newsletter</a> in relation to a new Google Chat Technique I found. [Archived on WayBack Machine]</li> 
 <li> Featured in <a href=https://sector035.nl/articles/2022-35>Week in OSINT 2022-35</a> by <a href=https://twitter.com/Sector035>@Sector035</a> [Archived on WayBack Machine] <a/></li>
 <li> Featured again in relation to Masto OSINT tool in <a href=https://sector035.nl/articles/2022-45>Week in OSINT 2022-45</a>  <a/></li>
 <li> Mentioned in the resources of <a href=https://github.com/WebBreacher> @WebBreacher</a> at the 2022 DEFCON30 | Recon Village: 
