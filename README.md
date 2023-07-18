@@ -91,24 +91,24 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🏴 The OSINTion Black Badge </li>
 <li>🥇 1x Trace Labs Black Badge (Gold) award </li> 
 <li>🪙 2x Trace Labs Silver Badge Award</li>
-<li>⚖️ Trace Labs Judge (OSINTomatico Conference 2023, Madrid, Spain)
-<li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain
+<li>⚖️ Trace Labs Judge (OSINTomatico Conference 2023, Madrid, Spain)</li> 
+<li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain</li> 
 <li>🧠 Regular contributor to the OSINT world, first to find and bring to light various OSINT techniques</li> 
-<li>🤖 Creator of the Discord Bot called <a href=https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot>GitOSINT<a> 🦾
-<li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto<a> 🐘
-<li>🤓 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/PCT>People Count Tool<a> 🧑‍🤝‍🧑
-<li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/FB2MKTP>FB2MKTP - Facebook to Marketplace<a> 🇫🇧 ==> 🇲 🇰 🇹 🇵
-<li>🎤 Invited as a speaker at <a href=https://web.archive.org/save/https://europe.forum-fic.com/en/associated-event-osint-day> FIC 2023 (International CyberSecurity Forum | OSINT Day)<a>
-<li>🎤 Invited as a speaker at <a href=https://www.youtube.com/watch?v=Yk8JNM2Snno>  OSINT Punk 23 </a> #OSINTPunk23
-<li>✒️ Volunteer report writer for the <a href=https://www.tracelabs.org>Trace Labs<a> organization after Trace Labs CTF events.
-<li>🗃️ Archiver at <a href=https://archive.org/>The Internet Archive</a> (Wayback Machine)
-<li>✍️ Project WhatsMyName 2nd top contributor behind <a href=https://github.com/WebBreacher> @WebBreacher</a> (WMN is an OSINT Tool for username enumeration ): https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)
+<li>🤖 Creator of the Discord Bot called <a href=https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot>GitOSINT<a> 🦾</li> 
+<li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto<a> 🐘</li> 
+<li>🤓 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/PCT>People Count Tool<a> 🧑‍🤝‍🧑</li> 
+<li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/FB2MKTP>FB2MKTP - Facebook to Marketplace<a> 🇫🇧 ==> 🇲 🇰 🇹 🇵</li> 
+<li>🎤 Invited as a speaker at <a href=https://web.archive.org/save/https://europe.forum-fic.com/en/associated-event-osint-day> FIC 2023 (International CyberSecurity Forum | OSINT Day)<a></li> 
+<li>🎤 Invited as a speaker at <a href=https://www.youtube.com/watch?v=Yk8JNM2Snno>  OSINT Punk 23 </a> #OSINTPunk23</li> 
+<li>✒️ Volunteer report writer for the <a href=https://www.tracelabs.org>Trace Labs<a> organization after Trace Labs CTF events.</li> 
+<li>🗃️ Archiver at <a href=https://archive.org/>The Internet Archive</a> (Wayback Machine)</li> 
+<li>✍️ Project WhatsMyName 2nd top contributor behind <a href=https://github.com/WebBreacher> @WebBreacher</a> (WMN is an OSINT Tool for username enumeration ): https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)</li> 
 <br>
 <br>
 <li>🥇1st place - Black Badge (Gold) Award in the Trace Labs OSINT Search Party CTF 2023.02 </li>    
 <li>🥇1st place in the OSINT GAMES CTF TENET | 2022: created by <a href=https://github.com/WebBreacher> @WebBreacher</a></li>
-<li>🥇1st place in the Hacktoria OSINT CTF | Downtown Murderer 2022
-<li>🥇1st place in the CTF OSINT Bleuet de France 2022 (AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense)
+<li>🥇1st place in the Hacktoria OSINT CTF | Downtown Murderer 2022</li> 
+<li>🥇1st place in the CTF OSINT Bleuet de France 2022 (AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense)</li> 
 <li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.11 | OSE (Operation Safe Escape)</li>
 <li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.03</li>
 <li>🥈2nd place Hacktoria CTF Operation Manhunt 2023 </li>
@@ -116,23 +116,23 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🥉3rd Place MilOsint CTF | 2021 </li>
 <li>🥉3rd Place in the Stranger Case OSINT CTF organised by Esna Bretagne and Esn'Hack ./CTF partnership with DGA (French Government Defense procurement and technology agency), Airbus Cybersecurity, Diateam & Apixit | 2022</li>
 <br>
-<li> One of 9 out of +700 to fully complete the <a href=https://samplectf.com> SampleCTF</a>
+<li> One of 9 out of +700 to fully complete the <a href=https://samplectf.com> SampleCTF</a></li> 
 <li> 6th place HEXA OSINT CTF 2021 Team OSINT-B33R [Sopra Steria and La Fabrique Défense, French Ministry of Defense]</li>
-<li> 8th place HEXA OSINT CTF V2 2023 Team CogitOSINT Ergo Sum [Sopra Steria]- 116 Teams participated.
-<li> Participated in the 2022 DefCon https://defcon.org Trace Labs OSINT CTF, Las Vegas, USA (7th Place with The Osint Unit)
+<li> 8th place HEXA OSINT CTF V2 2023 Team CogitOSINT Ergo Sum [Sopra Steria]- 116 Teams participated.</li> 
+<li> Participated in the 2022 DefCon https://defcon.org Trace Labs OSINT CTF, Las Vegas, USA (7th Place with The Osint Unit)</li> 
 <li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams</li>
-<li> Featured in the <a href=https://osintnewsletter.com/p/the-osint-newsletter-july-2023> Jake Creps July 2023 OSINT Newsletter</a> regarding the Google Calendar OSINT Technique to check if an email is valid that was found.
-<li> Featured in the <a href=https://644w7.r.a.d.sendibm1.com/mk/mr/sh/1f8JAEjGcfF85v6RgNXbSXMreF/Lizgp5au4XQp> Intelfe July 2023 Newsletter</a> regarding the Google Calendar OSINT Technique found.
-<li> Featured in the July 2023 <a href=https://preview.mailerlite.com/d5n9d8q0s0/2260397387069529087/o2t5/> OSINT Jobs Newsletter</a> regarding the new Google Calendar OSINT Technique that was found.
-<li> Featured in the <a href=https://github.com/jakecreps> Jake Creps</a> OSINT Newsletter in relation to a new Google Chat Technique found
+<li> Featured in the <a href=https://osintnewsletter.com/p/the-osint-newsletter-july-2023> Jake Creps July 2023 OSINT Newsletter</a> regarding the Google Calendar OSINT Technique to check if an email is valid that was found.[Archived on WayBack Machine]</li> 
+<li> Featured in the <a href=https://644w7.r.a.d.sendibm1.com/mk/mr/sh/1f8JAEjGcfF85v6RgNXbSXMreF/Lizgp5au4XQp> Intelfe July 2023 Newsletter</a> regarding the Google Calendar OSINT Technique found.</li> 
+<li> Featured in the July 2023 <a href=https://preview.mailerlite.com/d5n9d8q0s0/2260397387069529087/o2t5/> OSINT Jobs Newsletter</a> regarding the new Google Calendar OSINT Technique that was found.[Archived on WayBack Machine]</li> 
+<li> Featured in the <a href=https://osintnewsletter.com/p/march-2023> Jake Creps March 2023 OSINT Newsletter</a> in relation to a new Google Chat Technique found. [Archived on WayBack Machine]</li> 
 <li> Featured in <a href=https://sector035.nl/articles/2022-35>Week in OSINT 2022-35</a> by <a href=https://twitter.com/Sector035>@Sector035</a> [Archived on WayBack Machine] <a/></li>
-<li> Featured again in relation to Masto OSINT tool in <a href=https://sector035.nl/articles/2022-45>Week in OSINT 2022-45</a> [Archived on WayBack Machine] <a/></li>
+<li> Featured again in relation to Masto OSINT tool in <a href=https://sector035.nl/articles/2022-45>Week in OSINT 2022-45</a>  <a/></li>
 <li> Mentioned in the resources of <a href=https://github.com/WebBreacher> @WebBreacher</a> at the 2022 DEFCON30 | Recon Village: 
  <a href=https://reconvillage.org/talks/#talk-1> The Future of Collecting Data from the Past: OSINT Now and Beyond</a> (Resource: OSINT Inception)[Archived on WayBack Machine] <a/></li>
 <li> OSINT-FR Hall of Fame: <a href=https://osintfr.com/en/our-osinters-are-talented>Talented OSINTers</a> [Archived on WayBack Machine] </a></li>
-<li> Featured in the <a href=https://www.osint-jobs.com>OSINT Jobs newsletter - This Week's OSINT Tips and Tricks</a>
-<li> Facial Recognition work was presented at the <a href=https://user-images.githubusercontent.com/104733166/203194889-b04994b2-1357-4a2a-9f73-e2ba0c87b238.png> RootedCON 2022 in Madrid</a>
-<li> Beta-Tester for <a href=https://app.osintracker.com>OSINTracker</a> and OSINT Rooms on <a href=https://tryhackme.com> TryHackMe</a>   
+<li> Featured in the <a href=https://preview.mailerlite.com/c7j8u4n9s2/2037099115355053047/o5z0/>OSINT Jobs September 2022 newsletter - This Week's OSINT Tips and Tricks</a>[Archived on WayBack Machine]</li>
+<li> Facial Recognition work was presented at the <a href=https://user-images.githubusercontent.com/104733166/203194889-b04994b2-1357-4a2a-9f73-e2ba0c87b238.png> RootedCON 2022 in Madrid</a></li>
+<li> Beta-Tester for <a href=https://app.osintracker.com>OSINTracker</a> and OSINT Rooms on <a href=https://tryhackme.com> TryHackMe</a></li>   
 
 </ul>  
 </blockquote>
