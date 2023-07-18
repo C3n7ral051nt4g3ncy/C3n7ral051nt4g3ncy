@@ -126,7 +126,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> Featured in the July 2023 <a href=https://preview.mailerlite.com/d5n9d8q0s0/2260397387069529087/o2t5/> OSINT Jobs Newsletter</a> regarding the new Google Calendar OSINT Technique that I found. [Archived on WayBack Machine]</li> 
 <li> Featured in the <a href=https://osintnewsletter.com/p/march-2023> Jake Creps March 2023 OSINT Newsletter</a> in relation to a new Google Chat Technique I brought to light. [Archived on WayBack Machine]</li> 
 <li> Featured in <a href=https://sector035.nl/articles/2022-35>Week in OSINT 2022-35</a> by <a href=https://twitter.com/Sector035>@Sector035. </a> [Archived on WayBack Machine] <a/></li>
-<li> Featured again in relation to Masto OSINT tool in <a href=https://sector035.nl/articles/2022-45>Week in OSINT 2022-45</a>  <a/></li>
+<li> Featured again in <a href=https://sector035.nl>sector035's newsletter</a> in relation to Masto OSINT tool in <a href=https://sector035.nl/articles/2022-45>Week in OSINT 2022-45<a/></li>
 <li> Mentioned in the resources of <a href=https://github.com/WebBreacher> @WebBreacher</a> at the 2022 DEFCON30 | Recon Village: 
  <a href=https://reconvillage.org/talks/#talk-1> The Future of Collecting Data from the Past: OSINT Now and Beyond</a> (Resource: OSINT Inception). [Archived on WayBack Machine] <a/></li>
 <li> OSINT-FR Hall of Fame: <a href=https://osintfr.com/en/our-osinters-are-talented>Talented OSINTers</a> [Archived on WayBack Machine] </a></li>
