@@ -128,9 +128,9 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> Featured in <a href=https://sector035.nl/articles/2022-35>Week in OSINT 2022-35</a> by <a href=https://twitter.com/Sector035>@Sector035</a> [Archived on WayBack Machine] <a/></li>
 <li> Featured again in relation to Masto OSINT tool in <a href=https://sector035.nl/articles/2022-45>Week in OSINT 2022-45</a>  <a/></li>
 <li> Mentioned in the resources of <a href=https://github.com/WebBreacher> @WebBreacher</a> at the 2022 DEFCON30 | Recon Village: 
- <a href=https://reconvillage.org/talks/#talk-1> The Future of Collecting Data from the Past: OSINT Now and Beyond</a> (Resource: OSINT Inception)[Archived on WayBack Machine] <a/></li>
+ <a href=https://reconvillage.org/talks/#talk-1> The Future of Collecting Data from the Past: OSINT Now and Beyond</a> (Resource: OSINT Inception). [Archived on WayBack Machine] <a/></li>
 <li> OSINT-FR Hall of Fame: <a href=https://osintfr.com/en/our-osinters-are-talented>Talented OSINTers</a> [Archived on WayBack Machine] </a></li>
-<li> Featured in the <a href=https://preview.mailerlite.com/c7j8u4n9s2/2037099115355053047/o5z0/>OSINT Jobs September 2022 newsletter - This Week's OSINT Tips and Tricks</a>[Archived on WayBack Machine]</li>
+<li> Featured in the <a href=https://preview.mailerlite.com/c7j8u4n9s2/2037099115355053047/o5z0/>OSINT Jobs September 2022 newsletter - This Week's OSINT Tips and Tricks. </a>[Archived on WayBack Machine]</li>
 <li> Facial Recognition work was presented at the <a href=https://user-images.githubusercontent.com/104733166/203194889-b04994b2-1357-4a2a-9f73-e2ba0c87b238.png> RootedCON 2022 in Madrid</a></li>
 <li> Beta-Tester for <a href=https://app.osintracker.com>OSINTracker</a> and OSINT Rooms on <a href=https://tryhackme.com> TryHackMe</a></li>   
 
