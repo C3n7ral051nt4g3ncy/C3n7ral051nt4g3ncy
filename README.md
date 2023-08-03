@@ -96,6 +96,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🧠 Regular contributor to the OSINT community, first to find and bring to light various OSINT techniques. </li> 
 <li>🤖 Creator of the Discord Bot called <a href=https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot>GitOSINT<a> 🦾</li> 
 <li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto<a> 🐘</li> 
+<li>👨‍💻 Creator of <a href=https://pypi.org/project/masto/>the Masto OSINT Tool Python package (on PyPI)</a> 🐘 </li>
 <li>🤓 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/PCT>People Count Tool<a> 🧑‍🤝‍🧑</li> 
 <li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/FB2MKTP>FB2MKTP - Facebook to Marketplace<a> 🇫🇧 ==> 🇲 🇰 🇹 🇵</li> 
 <li>🎤 Invited as a speaker at <a href=https://web.archive.org/save/https://europe.forum-fic.com/en/associated-event-osint-day> FIC 2023 (International CyberSecurity Forum | OSINT Day)<a></li> 
