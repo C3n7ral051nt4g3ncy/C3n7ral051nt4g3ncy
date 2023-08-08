@@ -17,12 +17,12 @@
       
 ## <p align="center"> ```𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟢 𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟣``` 𝚊𝚗𝚍 𝚆𝚎𝚕𝚌𝚘𝚖𝚎! 👋 <br> <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&size=21&duration=3333&pause=333&color=00F72B&background=000000&vCenter=true&multiline=true&width=433&height=133&lines=%24+whoami;C3n7ral051nt4gency.;%5Baka+OSINT+Tactical%5D%F0%9F%93%A1)](https://git.io/typing-svg)</p>
 
-###  <p align="center"> ɪ ᴀᴍ ʜᴇʀᴇ ᴏɴ ɢɪᴛʜᴜʙ ᴛᴏ ꜱʜᴀʀᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ | ʙᴜɪʟᴅ ᴏꜱɪɴᴛ ᴛᴏᴏʟꜱ | ᴀɴᴅ ᴛᴏ ʟᴇᴀʀɴ. </p>    
+###  <p align="center"> ᴏɴ ɢɪᴛʜᴜʙ ᴛᴏ ꜱʜᴀʀᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ | ʙᴜɪʟᴅ ᴏꜱɪɴᴛ ᴛᴏᴏʟꜱ | ᴀɴᴅ ᴛᴏ ʟᴇᴀʀɴ. </p>    
 
 <p align="center"> 𝙾𝚂𝙸𝙽𝚃 | 𝚂𝙾𝙲𝙼𝙸𝙽𝚃 | 𝙶𝙴𝙾𝙸𝙽𝚃 | 𝙸𝙼𝙸𝙽𝚃 | 𝙿𝚢𝚝𝚑𝚘𝚗  | 𝙳𝚊𝚛𝚔 𝚆𝚎𝚋 | </p>
 <p align="center"> <img width="15" src="https://user-images.githubusercontent.com/104733166/219610687-0da86d7d-dcd7-451e-8ac7-f4f484092dea.png"> <a href=https://www.tracelabs.org>ᴛʀᴀᴄᴇ ʟᴀʙꜱ<a> 1x ʙʟᴀᴄᴋ ʙᴀᴅɢᴇ (ɢᴏʟᴅ) ᴀɴᴅ 2x ꜱɪʟᴠᴇʀ ʙᴀᴅɢᴇ </p>  
 <p align="center">ᄃYBΣЯ</p>
-<p align="center">ƚɘᴎɒ|q ɘʜƚ ƚᴎiꙅo</p>
+<p align="center">🌎 ƚɘᴎɒ|q ɘʜƚ ƚᴎiꙅo</p>
 <br>
 
 <p align="center"> <img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/187543867-773fe7a1-093c-4dd9-9029-a84fae9ddc99.gif"/>
