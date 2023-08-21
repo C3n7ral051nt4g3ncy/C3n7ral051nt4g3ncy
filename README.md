@@ -547,7 +547,7 @@ https://user-images.githubusercontent.com/104733166/225994689-9e6a2459-8091-4523
      
 |  Feel free to support my work with Crypto (BTC) ♡🙏| Scan QR Code for BTC Address |
 |---|---|
-| You can scan the QR with your phone or online with https://webqr.com |bc1q66awg48m2hvdsrf62pvev78z3vkamav******
+| You can scan the QR with your phone or online with https://webqr.com |bc1q66awg48m2hvdsrf62pvev78z3vkamav7chusde
 | <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/> | <img width=160 src="https://user-images.githubusercontent.com/104733166/171052611-1f76b07c-832f-4a4a-9a0a-2f94595c28c9.png"> | 
 | You can also support my work by buying me a coffee | https://ko-fi.com/tacticalintelanalyst <image width="33" src="https://user-images.githubusercontent.com/104733166/199971653-0985ea1a-534d-4e5a-a3e2-71af6ba4776a.png"/>
 
