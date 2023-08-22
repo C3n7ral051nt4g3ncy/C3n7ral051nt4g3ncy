@@ -508,7 +508,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 If you sponsor me for my work, which is done to help the OSINT and Cyber Community, you will get:
 
 - A sponsorship badge displayed on your GitHub profile
-- A shoutout on Twitter (+12.7K Followers)
+- A shoutout on Twitter (+13K Followers)
 - Your logo on the next OSINT Tool | Project,  with recognition for the sponsorship in writing, as well as your company/website details
 
 To move forward with the sponsorship: click [here](https://github.com/sponsors/C3n7ral051nt4g3ncy)
