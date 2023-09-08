@@ -527,6 +527,15 @@ https://user-images.githubusercontent.com/104733166/223172071-aed3efdc-f9b2-4639
       
 https://user-images.githubusercontent.com/104733166/225994689-9e6a2459-8091-4523-9cc7-2102ecf0362e.mp4
 
+<br>
+<br>
+
+I can also make OSINT Capture The Flag (CTF) events for your organization. I created part of the October 2023 Purple Pill OSINT CTF (Paris, France).
+My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was also partner for the event alongside the French Armed Forced (Navy), and other top Cyber companies such as Yogosha and Neverhack.
+
+<img width=633 src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/b7c46deb-5e91-4883-9281-c31bd9b1928a">
+
+
 
 
 </p>
