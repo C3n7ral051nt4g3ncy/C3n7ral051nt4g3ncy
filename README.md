@@ -164,7 +164,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 - [Masto OSINT Tool 🐍 - Python tool to gather information on Mastodon users and instances](https://github.com/C3n7ral051nt4g3ncy/Masto)
 - [People Count Tool 🧑‍🤝‍🧑 - Python tool running on a development server (Flask), uses YOLOv5 Artificial Intelligence to count people from an image.](https://github.com/C3n7ral051nt4g3ncy/PCT)
 - [FB2MKTP 🐍  - Python tool to get Facebook user ID and to go from FB profile to Marketplace account.](https://github.com/C3n7ral051nt4g3ncy/FB2MKTP)
-- [GitOSINT Bot 🤖  - Discord OSINT Bot]([https://github.com/C3n7ral051nt4g3ncy/FB2MKTP](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot)
+- [GitOSINT Bot 🤖  - Discord OSINT Bot](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot)
 - Tutorial 📚 [- cURL for OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT)
 - Tutorial 📚 [- Obsidian | Made 2 templates](https://github.com/C3n7ral051nt4g3ncy/Obsidian)
 - Tutorial 📚 [- Using a Virtual Environment for OSINT Python tools](https://github.com/C3n7ral051nt4g3ncy/python_virtual_environment)
