@@ -3,7 +3,7 @@
 ![GitHub](https://img.shields.io/badge/github-purple.svg?style=for-the-badge&logo=github&logoColor=green)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-purple.svg?style=for-the-badge&logo=githubactions&logoColor=green)
 ![Python](https://img.shields.io/badge/python-purple?style=for-the-badge&logo=python&logoColor=green)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=green)
 ![PyCharm](https://img.shields.io/badge/pycharm-purple?style=for-the-badge&logo=pycharm&logoColor=green&color=purple&labelColor=purple)
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-purple.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Codecademy](https://img.shields.io/badge/Codecademy-purple?style=for-the-badge&logo=codecademy&logoColor=green)
