@@ -124,7 +124,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> 8th place HEXA OSINT CTF V2 2023 Team CogitOSINT Ergo Sum [Sopra Steria]- 116 Teams participated.</li> 
 <li> Participated in the 2022 DefCon https://defcon.org Trace Labs OSINT CTF, Las Vegas, USA (7th Place with The Osint Unit)</li> 
 <li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams</li>
-<li> Featured in this French press article about the top French OSINT players --> <a href=https://www.latribune.fr/opinions/tribunes/renseignement-de-source-ouverte-osint-l-excellence-francaise-peut-elle-encore-etre-renforcee-956805.html> OSINT, Can French excellence still be reinforced</a> 
+<li> Featured in this French press article about the top French OSINT players --> <a href=https://www.latribune.fr/opinions/tribunes/renseignement-de-source-ouverte-osint-l-excellence-francaise-peut-elle-encore-etre-renforcee-956805.html> OSINT, Can French excellence still be reinforced</a> [Archived on WayBack Machine] </li>
 <li> Featured on <a href=https://0xtechrock.gumroad.com/l/OSINTers>0xtechrock's OSINTers list to follow</a> [Archived on WayBack Machine] </li>
 <li> Featured in the <a href=https://osintnewsletter.com/p/the-osint-newsletter-missing-persons-trace-labs> Jake Creps 28th of August 2023 OSINT Newsletter --> Finding Missing Persons - Trace Labs CTF Review (DEFCON 31) </a> [Archived on WayBack Machine]</li>   
 <li> Featured in the <a href=https://osintnewsletter.com/p/the-osint-newsletter-july-2023> Jake Creps July 2023 OSINT Newsletter</a> regarding the Google Calendar OSINT Technique that I found. [Archived on WayBack Machine]</li> 
