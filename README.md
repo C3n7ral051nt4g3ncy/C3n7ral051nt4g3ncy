@@ -44,7 +44,7 @@
 <a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy?label=C3n7ral051nt4g3ncy&logo=Github&style=for-the-badge&color=purple&logoColor=black"/></a>
 <a href="https://www.linkedin.com/in/y-c-a52ba5141/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=purple&logoColor=brightgreen"/></a>
 <br>
-<img src="https://img.shields.io/badge/Discord-𝙲.𝟶.𝟺%231860-purple"/></p>
+<img src="https://img.shields.io/badge/Discord-@tactical.osint-purple"/></p>
 
 
 <div align="center">
