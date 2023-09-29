@@ -619,6 +619,15 @@ My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was 
 <summary><b> 🚀 &nbsp; My Sponsors &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
 
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/soxoj">
+            <img src="https://avatars.githubusercontent.com/u/31013580?v=4" width="77;" alt="Soxoj"/>
+            <br />
+            <sub><b>Soxoj</b></sub>
+        </a>
+    </td>
 
       
 <br>
