@@ -592,8 +592,7 @@ My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was 
 
 <br>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=C3n7ral051nt4g3ncy&theme=material-palenight" width="433"></p>
+
 
 
 <br>
@@ -606,8 +605,24 @@ My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was 
 
 <p align="center"> <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> </p>
 
+</p>
+</details>
+
 <br>
       
+<br>
+
+
+
+<!-- My Sponsors -->
+<details>
+<summary><b> 🚀 &nbsp; My Sponsors &nbsp;&nbsp;&nbsp; </b></summary>
+<p>
+
+
+      
+<br>
+
 <br>
 
 
