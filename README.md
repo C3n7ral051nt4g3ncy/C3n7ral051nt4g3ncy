@@ -42,7 +42,6 @@
 <a href="https://twitter.com/OSINT_Tactical"><img src="https://img.shields.io/twitter/follow/OSINT_Tactical?label=%40OSINT_Tactical&logo=Twitter&logoColor=black&style=for-the-badge&color=purple"/></a>
 <a href="https://www.reddit.com/user/OSINT_Tactical"><img src="https://img.shields.io/reddit/user-karma/combined/OSINT_Tactical?style=for-the-badge&color=purple&logoColor=purple"/></a>
 <a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy?label=C3n7ral051nt4g3ncy&logo=Github&style=for-the-badge&color=purple&logoColor=black"/></a>
-<a href="https://www.linkedin.com/in/y-c-a52ba5141/"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&color=purple&logoColor=brightgreen"/></a>
 <br>
 <img src="https://img.shields.io/badge/Discord-@tactical.osint-purple"/></p>
 
