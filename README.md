@@ -224,6 +224,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
       
       
 - <a href="https://www.abc.es/economia/abci-inteligencia-artificial-tambien-entra-combate-guerra-ucrania-202203140205_noticia.html"> Spanish Article 🇪🇸</a>
+
+- <a href="https://www.elespanol.com/mundo/20230501/tension-cargas-policiales-francia-convierte-protesta-macron/760424065_0.html"> Spanish Article 🇪🇸</a>
       
 - <a href="https://as.com/diarioas/2022/03/06/actualidad/1646582802_197827.html"> Spanish Article 🇪🇸</a>
       
