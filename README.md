@@ -38,19 +38,16 @@
 <a href='https://ko-fi.com/tacticalintelanalyst' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
       
 <p align="center">
-<a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/keybase/pgp/osint_intel?label=Keybase&logo=Keybase&logoColor=black&style=for-the-badge&color=purple"/></a>
-<a href="https://twitter.com/OSINT_Tactical"><img src="https://img.shields.io/twitter/follow/OSINT_Tactical?label=%40OSINT_Tactical&logo=Twitter&logoColor=black&style=for-the-badge&color=purple"/></a>
-<a href="https://www.reddit.com/user/OSINT_Tactical"><img src="https://img.shields.io/reddit/user-karma/combined/OSINT_Tactical?style=for-the-badge&color=purple&logoColor=purple"/></a>
-<a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/github/followers/C3n7ral051nt4g3ncy?label=C3n7ral051nt4g3ncy&logo=Github&style=for-the-badge&color=purple&logoColor=black"/></a>
-<br>
-<img src="https://img.shields.io/badge/Discord-@tactical.osint-purple"/></p>
+<a href="https://infosec.exchange/@C3n7ral051nt4g3ncy"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"/></a>
+<a href="https://twitter.com/OSINT_Tactical"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://www.reddit.com/user/OSINT_Tactical"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+<a href="https://www.linkedin.com/company/tactical-systems-academy"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://top.gg/user/453260546671001600"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 
+<br>
 
 <div align="center">
-
-[infosec Exchange](https://infosec.exchange/@C3n7ral051nt4g3ncy)
-:------------------------------------------:|
-
 
 
 </div>
