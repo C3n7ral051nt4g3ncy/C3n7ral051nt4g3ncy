@@ -105,6 +105,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>✒️ Volunteer report writer for the <a href=https://www.tracelabs.org>Trace Labs<a> organization after Trace Labs CTF events.</li> 
 <li>🗃️ Archiver at <a href=https://archive.org/>The Internet Archive</a> (Wayback Machine)</li> 
 <li>✍️ Project WhatsMyName 2nd top contributor behind <a href=https://github.com/WebBreacher> @WebBreacher</a> WMN is one of the top OSINT Tools for username enumeration: https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)</li> 
+<li>✍️ Writer/Contributor to the OSINT Newsletter by Jake Creps. Shared a 404 Bypass Technique that was found on Gravatar <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/210e4a44-409f-4767-a5cd-aa6456b61265>in the October 2023 OSINT Newsletter</a> 
 <br>
 <br>
 <li>🥇1st place - Black Badge (Gold) Award in the Trace Labs OSINT Search Party CTF 2023.02 </li>    
