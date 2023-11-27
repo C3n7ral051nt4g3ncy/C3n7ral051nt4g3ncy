@@ -85,22 +85,27 @@
 $ 𝚠𝚑𝚘𝚊𝚖𝚒
   
 <br><ul style="list-style-type:disc;">
-<li>:fire: Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY | PYTHON | OPSEC :lock: </li>
+<li>:fire: Passionate about: CYBER | OSINT | SOCMINT | IMINT | GEOINT | DARK WEB | CRYPTO | PYTHON | OPSEC :lock: </li>
+
 <li>👨‍🏫 OSINT Trainer <a href=https://github.com/TacticalOsintAcademy>@Tactical OSINT Academy</a></li>
 <li>👨‍🏫 OSINT Trainer <a href=https://www.ess-e.fr>@École Supérieure de la Sûreté des Entreprises</a> For the DSAC course (Data Security Analyst) </li>
+
 <li>🏴 The OSINTion Black Badge </li>
 <li>🥇 1x Trace Labs Black Badge (Gold) award </li> 
 <li>🪙 2x Trace Labs Silver Badge Award</li>
 <li>⚖️ Trace Labs Judge (OSINTomatico Conference 2023, Madrid, Spain)</li> 
-<li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain</li> 
-<li>🧠 Regular contributor to the OSINT community, first to find and bring to light various OSINT techniques. </li> 
+<li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain</li>
+<br>
+<li>🧠 Regular contributor to the OSINT community & enjoys bringing to light new OSINT techniques. </li> 
 <li>🤖 Creator of the Discord Bot called <a href=https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot>GitOSINT<a> 🦾</li> 
 <li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto<a> 🐘</li> 
 <li>👨‍💻 Creator of <a href=https://pypi.org/project/masto/>the Masto OSINT Tool Python package (on PyPI)</a> 🐘 </li>
 <li>🤓 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/PCT>People Count Tool<a> 🧑‍🤝‍🧑</li> 
 <li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/FB2MKTP>FB2MKTP - Facebook to Marketplace<a> 🇫🇧 ==> 🇲 🇰 🇹 🇵</li> 
+<br>
 <li>🎤 Invited as a speaker at <a href=https://web.archive.org/save/https://europe.forum-fic.com/en/associated-event-osint-day> FIC 2023 (International CyberSecurity Forum | OSINT Day)<a></li> 
 <li>🎤 Invited as a speaker at <a href=https://www.youtube.com/watch?v=Yk8JNM2Snno>  OSINT Punk 23 </a> #OSINTPunk23</li> 
+<br>
 <li>✒️ Volunteer report writer for the <a href=https://www.tracelabs.org>Trace Labs<a> organization after Trace Labs CTF events.</li> 
 <li>🗃️ Archiver at <a href=https://archive.org/>The Internet Archive</a> (Wayback Machine)</li> 
 <li>✍️ Project WhatsMyName 2nd top contributor behind <a href=https://github.com/WebBreacher> @WebBreacher</a> WMN is one of the top OSINT Tools for username enumeration: https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)</li> 
@@ -123,7 +128,10 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> 8th place HEXA OSINT CTF V2 2023 Team CogitOSINT Ergo Sum [Sopra Steria]- 116 Teams participated.</li> 
 <li> Participated in the 2022 DefCon https://defcon.org Trace Labs OSINT CTF, Las Vegas, USA (7th Place with The Osint Unit)</li> 
 <li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams</li>
-<li> Featured on a Facial Recognition Guide by Henk Van Hess on GIJN (Global Investigative Journalism Network)<a href=https://gijn.org/resource/facial-recognition-made-easy/>Facial Recognition made easy</a> [Archived on WayBack Machine] </li>
+
+<br>
+
+<li> Featured on a Facial Recognition Guide by Henk Van Hess on GIJN (Global Investigative Journalism Network) --> <a href=https://gijn.org/resource/facial-recognition-made-easy/>Facial Recognition made easy</a> [Archived on WayBack Machine] </li>
 <li> Osintracker Sponsor --> https://www.osintracker.com/partnerships
 <li> Featured in this French press article about the top French OSINT players --> <a href=https://www.latribune.fr/opinions/tribunes/renseignement-de-source-ouverte-osint-l-excellence-francaise-peut-elle-encore-etre-renforcee-956805.html> OSINT, Can French excellence still be reinforced</a> [Archived on WayBack Machine] </li>
 <li> Featured on <a href=https://0xtechrock.gumroad.com/l/OSINTers>0xtechrock's OSINTers list to follow</a> [Archived on WayBack Machine] </li>
