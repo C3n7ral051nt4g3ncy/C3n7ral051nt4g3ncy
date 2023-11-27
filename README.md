@@ -87,6 +87,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <br><ul style="list-style-type:disc;">
 <li>:fire: Passionate about: OSINT | SOCMINT | IMINT | GEOINT | HUMINT | CYBER | DARK WEB | CRYPTOCURRENCY | PYTHON | OPSEC :lock: </li>
 <li>👨‍🏫 OSINT Trainer <a href=https://github.com/TacticalOsintAcademy>@Tactical OSINT Academy</a></li>
+<li>👨‍🏫 OSINT Trainer <a href=https://www.ess-e.fr>@École Supérieure de la Sûreté des Entreprises</a> For the DSAC course (Data Security Analyst) </li>
 <li>🏴 The OSINTion Black Badge </li>
 <li>🥇 1x Trace Labs Black Badge (Gold) award </li> 
 <li>🪙 2x Trace Labs Silver Badge Award</li>
@@ -122,6 +123,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> 8th place HEXA OSINT CTF V2 2023 Team CogitOSINT Ergo Sum [Sopra Steria]- 116 Teams participated.</li> 
 <li> Participated in the 2022 DefCon https://defcon.org Trace Labs OSINT CTF, Las Vegas, USA (7th Place with The Osint Unit)</li> 
 <li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams</li>
+<li> Featured on a Facial Recognition Guide by Henk Van Hess on GIJN (Global Investigative Journalism Network)<a href=https://gijn.org/resource/facial-recognition-made-easy/>Facial Recognition made easy</a> [Archived on WayBack Machine] </li>
 <li> Osintracker Sponsor --> https://www.osintracker.com/partnerships
 <li> Featured in this French press article about the top French OSINT players --> <a href=https://www.latribune.fr/opinions/tribunes/renseignement-de-source-ouverte-osint-l-excellence-francaise-peut-elle-encore-etre-renforcee-956805.html> OSINT, Can French excellence still be reinforced</a> [Archived on WayBack Machine] </li>
 <li> Featured on <a href=https://0xtechrock.gumroad.com/l/OSINTers>0xtechrock's OSINTers list to follow</a> [Archived on WayBack Machine] </li>
@@ -176,6 +178,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 - First to find the Protonmail Custom Domain trick ⚛️ [- Found that the API shows the main email address for any custom domain that uses a catch-all, no matter what the input in front of {%@domain.com} is](https://twitter.com/OSINT_Tactical/status/1666505637780398101?s=20)
 - Created a Map (in French) of firearms that have been used (confirmed shots fired), stolen, or seen on social media during the France June/July 2023 Riots. The map was/is used by Law Enforcement, French and foreign OSINT community members, and viewed thousands of times --> [Click here to see the Map](https://goo.gl/maps/vszdNxCvkVFChcDm8)
 - First to find the Google Calendar OSINT Technique 📆 [- Found a way of checking if any email is tied to a Google Account by using Google Calendar](https://twitter.com/OSINT_Tactical/status/1677405840146309121?s=20)
+- Found a new technique for Snapchat Map in November 2023 to get the date and time of a video
 
 
 <br>
