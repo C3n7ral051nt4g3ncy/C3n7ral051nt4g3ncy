@@ -132,7 +132,10 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams</li>
 
 <br>
-<li> Enjoys training on real cases instead of CTF events and managed to locate an individual wanted by the FBI by using only Open Source Intelligence Tools & Techniques <a href=https://x.com/OSINT_Tactical/status/1728460721762279843>See the Post on X</a></li>   
+<li> Enjoys training on real cases instead of CTF events and managed to locate an individual wanted by the FBI by using only Open Source Intelligence Tools & Techniques <a href=https://x.com/OSINT_Tactical/status/1728460721762279843>See the Post on X</a></li>
+<li> Helped French law enforcement identify & arrest a group of criminals using only OSINT (Open Source Intelligence) <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/a50be2f0-bcd6-49fa-9b3b-601c33c5623e> Click to see the Thank you note from the Commander</a></li> 
+
+
 <li> Featured on a Facial Recognition Guide by Henk Van Hess on GIJN (Global Investigative Journalism Network) --> <a href=https://gijn.org/resource/facial-recognition-made-easy/>Facial Recognition made easy</a> [Archived on WayBack Machine] </li>
 <li> Osintracker Sponsor --> https://www.osintracker.com/partnerships
 <li> Featured in this French press article about the top French OSINT players --> <a href=https://www.latribune.fr/opinions/tribunes/renseignement-de-source-ouverte-osint-l-excellence-francaise-peut-elle-encore-etre-renforcee-956805.html> OSINT, Can French excellence still be reinforced</a> [Archived on WayBack Machine] </li>
