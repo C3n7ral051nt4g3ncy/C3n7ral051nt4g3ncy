@@ -180,6 +180,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <br>
 
+<br>
 
 <!-- OSINT Projects -->
 <details>
