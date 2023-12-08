@@ -85,7 +85,7 @@
 $ 𝚠𝚑𝚘𝚊𝚖𝚒
   
 <br><ul style="list-style-type:disc;">
-<li>:fire: Passionate about: CYBER | OSINT | SOCMINT | IMINT | GEOINT | DARK WEB | CRYPTO | PYTHON | OPSEC :lock: </li>
+<li>🔥 Passionate about: CYBER | OSINT | SOCMINT | IMINT | GEOINT | DARK WEB | CRYPTO | PYTHON | OPSEC :lock: </li>
 
 <li>👨‍🏫 OSINT Trainer <a href=https://github.com/TacticalOsintAcademy>@Tactical OSINT Academy</a></li>
 <li>👨‍🏫 OSINT Trainer <a href=https://www.ess-e.fr>@École Supérieure de la Sûreté des Entreprises</a> For the DSAC course (Data Security Analyst) </li>
