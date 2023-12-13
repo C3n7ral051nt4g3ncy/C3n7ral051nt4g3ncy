@@ -174,6 +174,9 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 - Identified and located an individual wanted by the FBI by using only Open Source Intelligence --> <a href=https://x.com/OSINT_Tactical/status/1728460721762279843>See the Post on X. </a></li>
 
+- Found data on a criminal wanted by the Australian NSW Police --> <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/40c0246b-fe22-419f-8dd9-7c6ce1bf596e> Report was sent in 2023 </a></li>
+
+
 - Located an individual wanted by the UK NCA (National Crime agency) and provided the NCA with his <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/f7bb9ca0-2b21-40dd-a79c-0ef7efb39118> current location and the exact GPS coordinates of where to find him. </a></li>
 
 - Helped French law enforcement identify & arrest a group of criminals using only OSINT (Open Source Intelligence) <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/a50be2f0-bcd6-49fa-9b3b-601c33c5623e> Click to see the Thank you note from the Gendarmerie Nationale Commander. </a></li>
