@@ -167,7 +167,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <!-- Using My OSINT (Open Source Intelligence) skills & tactics to help Law Enforcement -->
 <details>
-<summary><b>👮‍♀️ &nbsp; &nbsp; Using OSINT to help Law Enforcement &nbsp;&nbsp;&nbsp; </b></summary>
+<summary><b>👮‍♀️ &nbsp; &nbsp; Using My OSINT Skills and Techniques to help Law Enforcement &nbsp;&nbsp;&nbsp; </b></summary>
 <p>
 
 <!-- Helping Law Enforcement Cases:START -->
