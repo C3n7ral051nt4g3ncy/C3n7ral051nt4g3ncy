@@ -178,8 +178,9 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 - Found new <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/80c4501f-8e46-40cb-a999-48254369d135> intelligence on a high priority wanted criminal </a>. The intel was submitted to Europol - FAST (Fugitive Active Search Team)</li>
 
-
 - Located an individual wanted by the UK NCA (National Crime agency) and provided the NCA with his <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/f7bb9ca0-2b21-40dd-a79c-0ef7efb39118> current location and the exact GPS coordinates of where to find him. </a></li>
+
+- Found information on a wanted criminal in UK and submitted the <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/70eb781f-c0ec-4b34-8b0c-507747ded764> data </a> to the London Metropolitan Police.
 
 - Helped French law enforcement identify & arrest a group of criminals using only OSINT (Open Source Intelligence) <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/a50be2f0-bcd6-49fa-9b3b-601c33c5623e> Click to see the Thank you note from the Gendarmerie Nationale Commander. </a></li>
 
