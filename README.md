@@ -184,6 +184,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 - Helped French law enforcement identify & arrest a group of criminals using only OSINT (Open Source Intelligence) <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/a50be2f0-bcd6-49fa-9b3b-601c33c5623e> Click to see the Thank you note from the Gendarmerie Nationale Commander. </a></li>
 
+- Carried out extensive research that lead to finding intelligence on a Ukrainian hacker wanted by the US Government with a 1 million price tag on his head (Full findings report is 33 pages)  <a href=https://x.com/OSINT_Tactical/status/1741230287856537705> Twitter post. </a></li>
+
 
 
 <!-- Helping Law Enforcement Cases:END --></p> 
