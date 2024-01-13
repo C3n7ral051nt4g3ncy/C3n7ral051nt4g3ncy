@@ -136,6 +136,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> Featured on a Facial Recognition Guide by Henk Van Hess on GIJN (Global Investigative Journalism Network) --> <a href=https://gijn.org/resource/facial-recognition-made-easy/>Facial Recognition made easy</a> [Archived on WayBack Machine] </li>
 <li> Osintracker Sponsor --> https://www.osintracker.com/partnerships
 <li> Featured in this French press article about the top French OSINT players --> <a href=https://www.latribune.fr/opinions/tribunes/renseignement-de-source-ouverte-osint-l-excellence-francaise-peut-elle-encore-etre-renforcee-956805.html> OSINT, Can French excellence still be reinforced</a> [Archived on WayBack Machine] </li>
+<li> Featured in the <a href=https://www.aege.fr/global/gene/link.php?doc_id=97>January 2024 issue of Mag'OSINT</a> [Archived on WayBack Machine] </li>
 <li> Featured in <a href=https://intelekto.fr/21221-top-15-comptes-twitter-osint/>Intelekto's top 15 OSINT accounts to follow on Twitter</a> [Archived on WayBack Machine] </li>
 <li> Featured in <a href=https://github.com/cqcore/OSINT-Practitioners/> CqCore's TOP Osint Practitioners list</a> </li>
 <li> Featured on <a href=https://0xtechrock.gumroad.com/l/OSINTers>0xtechrock's OSINTers list to follow</a> [Archived on WayBack Machine] </li>
