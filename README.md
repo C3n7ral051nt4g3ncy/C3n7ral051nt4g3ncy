@@ -114,7 +114,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>✍️ Writer/Contributor to the OSINT Newsletter by Jake Creps. Shared a 404 Bypass Technique that was found on Gravatar <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/210e4a44-409f-4767-a5cd-aa6456b61265>in the October 2023 OSINT Newsletter</a> 
 <br>
 <br>
-<li>🥇1st place - Black Badge (Gold) Award in the Trace Labs OSINT Search Party CTF 2023.02 </li>    
+<li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2024.01 </li> 
+<li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2023.02 </li>    
 <li>🥇1st place in the OSINT GAMES CTF TENET | 2022: created by <a href=https://github.com/WebBreacher> @WebBreacher</a></li>
 <li>🥇1st place in the Hacktoria OSINT CTF | Downtown Murderer 2022</li> 
 <li>🥇1st place in the CTF OSINT Bleuet de France 2022 (AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense)</li> 
