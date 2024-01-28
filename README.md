@@ -22,7 +22,7 @@
 ###  <p align="center"> ᴏɴ ɢɪᴛʜᴜʙ ᴛᴏ ꜱʜᴀʀᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ | ʙᴜɪʟᴅ ᴏꜱɪɴᴛ ᴛᴏᴏʟꜱ | ᴀɴᴅ ᴛᴏ ʟᴇᴀʀɴ. </p>    
 
 <p align="center"> 𝙾𝚂𝙸𝙽𝚃 | 𝚂𝙾𝙲𝙼𝙸𝙽𝚃 | 𝙶𝙴𝙾𝙸𝙽𝚃 | 𝙸𝙼𝙸𝙽𝚃 | 𝙿𝚢𝚝𝚑𝚘𝚗  | 𝙳𝚊𝚛𝚔 𝚆𝚎𝚋 | </p>
-<p align="center"> <img width="15" src="https://user-images.githubusercontent.com/104733166/219610687-0da86d7d-dcd7-451e-8ac7-f4f484092dea.png"> <a href=https://www.tracelabs.org>ᴛʀᴀᴄᴇ ʟᴀʙꜱ<a> 1x ʙʟᴀᴄᴋ ʙᴀᴅɢᴇ (ɢᴏʟᴅ) ᴀɴᴅ 2x ꜱɪʟᴠᴇʀ ʙᴀᴅɢᴇ </p>  
+<p align="center"> <img width="15" src="https://user-images.githubusercontent.com/104733166/219610687-0da86d7d-dcd7-451e-8ac7-f4f484092dea.png"> <a href=https://www.tracelabs.org>ᴛʀᴀᴄᴇ ʟᴀʙꜱ<a> 2x ɢᴏʟᴅ ʙᴀᴅɢᴇ ᴀɴᴅ 2x ꜱɪʟᴠᴇʀ ʙᴀᴅɢᴇ </p>  
 <p align="center">ᄃYBΣЯ</p>
 <p align="center">🌎 ƚɘᴎɒ|q ɘʜƚ ƚᴎiꙅo</p>
 <br>
@@ -91,7 +91,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>👨‍🏫 OSINT Trainer <a href=https://www.ess-e.fr>@École Supérieure de la Sûreté des Entreprises</a> For the DSAC course (Data Security Analyst) </li>
 
 <li>🏴 The OSINTion Black Badge </li>
-<li>🥇 1x Trace Labs Black Badge (Gold) award </li> 
+<li>🥇 2x Trace Labs Gold Badge award </li> 
 <li>🪙 2x Trace Labs Silver Badge Award</li>
 <li>⚖️ Trace Labs Judge (OSINTomatico Conference 2023, Madrid, Spain)</li> 
 <li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain</li>
