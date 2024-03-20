@@ -139,8 +139,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <br>
 
 <li> Featured on a Facial Recognition Guide by Henk Van Hess on GIJN (Global Investigative Journalism Network) --> <a href=https://gijn.org/resource/facial-recognition-made-easy/>Facial Recognition made easy</a> [Archived on WayBack Machine] </li>
-<li> Osintracker Sponsor --> https://www.osintracker.com/partnerships
-<li> Featured in this French press article about the top French OSINT players --> <a href=https://www.latribune.fr/opinions/tribunes/renseignement-de-source-ouverte-osint-l-excellence-francaise-peut-elle-encore-etre-renforcee-956805.html> OSINT, Can French excellence still be reinforced</a> [Archived on WayBack Machine] </li>
+<li> First to find and reveal weaknesses on Sports Tracker App which has Public Tracking on by default for iOS devices  --> <a href=https://x.com/OSINT_Tactical/status/1770471606038483270</a></li>
+<li> Featured in this French press article about the top French OSINTers --> <a href=https://www.latribune.fr/opinions/tribunes/renseignement-de-source-ouverte-osint-l-excellence-francaise-peut-elle-encore-etre-renforcee-956805.html> OSINT, Can French excellence still be reinforced</a> [Archived on WayBack Machine] </li>
 <li> Featured in the <a href=https://www.aege.fr/global/gene/link.php?doc_id=97>January 2024 issue of Mag'OSINT</a> [Archived on WayBack Machine] </li>
 <li> Featured in <a href=https://intelekto.fr/21221-top-15-comptes-twitter-osint/>Intelekto's top 15 OSINT accounts to follow on Twitter</a> [Archived on WayBack Machine] </li>
 <li> Featured in <a href=https://github.com/cqcore/OSINT-Practitioners/> CqCore's TOP Osint Practitioners list</a> </li>
@@ -157,7 +157,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> OSINT-FR Hall of Fame: <a href=https://osintfr.com/en/our-osinters-are-talented>Talented OSINTers</a> [Archived on WayBack Machine] </a></li>
 <li> Featured in the <a href=https://preview.mailerlite.com/c7j8u4n9s2/2037099115355053047/o5z0/>OSINT Jobs September 2022 newsletter - This Week's OSINT Tips and Tricks. </a>[Archived on WayBack Machine]</li>
 <li> Facial Recognition work was presented at the <a href=https://user-images.githubusercontent.com/104733166/203194889-b04994b2-1357-4a2a-9f73-e2ba0c87b238.png> RootedCON 2022 in Madrid</a></li>
-<li> Beta-Tester for <a href=https://app.osintracker.com>OSINTracker</a> and OSINT Rooms on <a href=https://tryhackme.com> TryHackMe</a></li>   
+<li> Beta-Tester for <a href=https://app.osintracker.com>OSINTracker</a> and OSINT Rooms on <a href=https://tryhackme.com> TryHackMe</a></li>
+<li> Osintracker Sponsor --> https://www.osintracker.com/partnerships
 
 </ul>  
 </blockquote>
