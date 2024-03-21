@@ -139,6 +139,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <br>
 
+<li> Mentionned by RUSI:Royal United Services Institute (UK's leading defence and security think tank), on the following 62-page paper --> <a href=https://static.rusi.org/330_OP_FutureOfOpenSourceIntelligence_FinalWeb0.pdf> The Future of Open Source Intelligence for UK National Security</a>  [Archived on WayBack Machine] </li>
 <li> Featured on a Facial Recognition Guide by Henk Van Hess on GIJN (Global Investigative Journalism Network) --> <a href=https://gijn.org/resource/facial-recognition-made-easy/>Facial Recognition made easy</a> [Archived on WayBack Machine] </li>
 <li> First to find and reveal weaknesses on Sports Tracker App which has Public Tracking on by default for iOS devices  --> <a href=https://x.com/OSINT_Tactical/status/1770471606038483270/> Thread posted on X </a> </li>
 <li> Featured in this French press article about the top French OSINTers --> <a href=https://www.latribune.fr/opinions/tribunes/renseignement-de-source-ouverte-osint-l-excellence-francaise-peut-elle-encore-etre-renforcee-956805.html> OSINT, Can French excellence still be reinforced</a> [Archived on WayBack Machine] </li>
