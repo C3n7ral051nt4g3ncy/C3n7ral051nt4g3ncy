@@ -158,10 +158,12 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
  <a href=https://reconvillage.org/talks/#talk-1> The Future of Collecting Data from the Past: OSINT Now and Beyond</a> (Resource: OSINT Inception). [Archived on WayBack Machine] <a/></li>
 <li> OSINT-FR Hall of Fame: <a href=https://osintfr.com/en/our-osinters-are-talented>Talented OSINTers</a> [Archived on WayBack Machine] </a></li>
 <li> Featured in the <a href=https://preview.mailerlite.com/c7j8u4n9s2/2037099115355053047/o5z0/>OSINT Jobs September 2022 newsletter - This Week's OSINT Tips and Tricks. </a>[Archived on WayBack Machine]</li>
+<li> Work done on partial Facial Recognition was <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/c858d586-06ef-434c-bb39-6d91ce78a743>mentionned at the INCYBER Forum 2024</a> by Sylvain Hajri (Navlys), founder of Epieos.</li>
 <li> Facial Recognition work was presented at the <a href=https://user-images.githubusercontent.com/104733166/203194889-b04994b2-1357-4a2a-9f73-e2ba0c87b238.png> RootedCON 2022 in Madrid</a></li>
 <li> Beta-Tester for <a href=https://app.osintracker.com>OSINTracker</a> and OSINT Rooms on <a href=https://tryhackme.com> TryHackMe</a></li>
 <li> Osintracker Sponsor --> https://www.osintracker.com/partnerships</li>
 <li> 2024 InCyber Forum Partner #Fic2024 for the OSINT Day</li>
+
 
 </ul>  
 </blockquote>
