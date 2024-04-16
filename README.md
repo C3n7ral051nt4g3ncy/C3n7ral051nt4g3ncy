@@ -122,6 +122,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2024.01 </li> 
 <li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2023.02 </li>    
 <li>🥇1st place in the OSINT GAMES CTF TENET | 2022: created by <a href=https://github.com/WebBreacher> @WebBreacher</a></li>
+<li>🥇1st place in the HEXA OSINT CTF 2024 (V3) (1st in the challenges phase, 4th on the reports phase). Team "Les Blaireaux des Légendes"</a></li>
 <li>🥇1st place in the Hacktoria OSINT CTF | Downtown Murderer 2022</li> 
 <li>🥇1st place in the CTF OSINT Bleuet de France 2022 (AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense)</li> 
 <li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.11 | OSE (Operation Safe Escape)</li>
@@ -147,6 +148,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> Featured in <a href=https://intelekto.fr/21221-top-15-comptes-twitter-osint/>Intelekto's top 15 OSINT accounts to follow on Twitter</a> [Archived on WayBack Machine] </li>
 <li> Featured in <a href=https://github.com/cqcore/OSINT-Practitioners/> CqCore's TOP Osint Practitioners list</a> </li>
 <li> Featured on <a href=https://0xtechrock.gumroad.com/l/OSINTers>0xtechrock's OSINTers list to follow</a> [Archived on WayBack Machine] </li>
+<li> Featured in the <a href=https://osintnewsletter.com/p/50> OSINT Newsletter Issue 50 (April 2024) </a></li>  
 <li> Featured in the <a href=https://osintnewsletter.com/p/the-osint-newsletter-missing-persons-trace-labs> Jake Creps 28th of August 2023 OSINT Newsletter --> Finding Missing Persons - Trace Labs CTF Review (DEFCON 31) </a> [Archived on WayBack Machine]</li>   
 <li> Featured in the <a href=https://osintnewsletter.com/p/the-osint-newsletter-july-2023> Jake Creps July 2023 OSINT Newsletter</a> regarding the Google Calendar OSINT Technique that I found. [Archived on WayBack Machine]</li> 
 <li> Featured in the <a href=https://644w7.r.a.d.sendibm1.com/mk/mr/sh/1f8JAEjGcfF85v6RgNXbSXMreF/Lizgp5au4XQp> Intelfe July 2023 Newsletter</a> regarding the Google Calendar OSINT Technique that I brought to light.</li> 
