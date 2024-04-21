@@ -131,7 +131,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🥈2nd place Hacktoria CTF Operation Manhunt 2023 </li>
 <li>🥈2nd Place Hacktoria CTF OP Galaxios 2022</li>
 <li>🥉3rd Place MilOsint CTF | 2021 </li>
-<li>🥉3rd Place in the Stranger Case OSINT CTF organised by Esna Bretagne and Esn'Hack ./CTF partnership with DGA (French Government Defense procurement and technology agency), Airbus Cybersecurity, Diateam & Apixit | 2022</li>
+<li>🥉3rd Place in the Stranger Case OSINT CTF organised by Esna Bretagne and Esn'Hack ./CTF partnership with DGA - Direction Générale de l'Armement (French Government Defense procurement and technology agency), Airbus Cybersecurity, Diateam & Apixit | 2022</li>
 <br>
 <li> Qualified for the HEXA OSINT CTF final at LeHack 2024 (https://lehack.org), team Blaireaux des Légendes (1st place in the Challenges | 4th after the reports analysis) </a></li> 
 <li> One of 9 out of +700 to fully complete the <a href=https://samplectf.com> SampleCTF</a></li> 
@@ -552,7 +552,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
      
      🥉3rd Place in the Stranger Case OSINT CTF on the Team 呪術廻戦 (JuJutsu Kaisen).
-      CTF organised by Esna Bretagne & Esn'Hack, with parterships with the DGA (French Gov Defence procurement and technology agency), Airbus     
+      CTF organised by Esna Bretagne & Esn'Hack, with parterships with the DGA- Direction Générale de l'Armement (French Gov Defence procurement and technology agency), Airbus     
       Cybersecurity, Apixit, Diateam.
       
       
