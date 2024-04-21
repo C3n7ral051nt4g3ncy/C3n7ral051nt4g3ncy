@@ -365,6 +365,21 @@ OhSINT                     |  Sakura                  | 7-day Streak            
    
 <br>
 <br>
+
+<p align="center"> <img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/cc65da5b-7c7b-4252-ac74-0d5fc3f6d6fd"/><br>
+      
+ [Trace Labs Gold Badge Verification on Badgr](https://ca.badgr.com/public/assertions/aXpRaoQxQEWbpHY_dWlE2A)    
+
+      
+     🥇1st Place Trace Labs [Gold Badge (ex black badge)] 
+      Global OSINT Search Party CTF 2024-01 [Team MissingNo]
+      Competed under the username: Langley2.0
+       
+<br>
+<br>
+
+
+
       
 <p align="center"><img width="133" height="133" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/12590a7a-98b1-4965-8416-4f7c38bc3a15"/><br>
       
