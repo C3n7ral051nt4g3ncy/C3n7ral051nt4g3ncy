@@ -96,7 +96,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <li>🏴 The OSINTion Black Badge </li>
 <li>🥇 2x Trace Labs Gold Badge award </li> 
-<li>🪙 2x Trace Labs Silver Badge Award</li>
+<li>🪙 3x Trace Labs Silver Badge Award</li>
 <li>⚖️ Trace Labs Judge (OSINTomatico Conference 2023, Madrid, Spain)</li> 
 <li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain</li>
 <br>
@@ -124,7 +124,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🥇1st place in the OSINT GAMES CTF TENET | 2022: created by <a href=https://github.com/WebBreacher> @WebBreacher</a></li>
 <li>🥇1st Team to finish the HEXA OSINT CTF 2024 Challenges phase (V3) (4th overall after the reports "analysis" phase). Team "Les Blaireaux des Légendes"</a></li>
 <li>🥇1st place in the Hacktoria OSINT CTF | Downtown Murderer 2022</li> 
-<li>🥇1st place in the CTF OSINT Bleuet de France 2022 (AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense)</li> 
+<li>🥇1st place in the CTF OSINT Bleuet de France 2022 (AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense)</li>
+<li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2024.04</li>
 <li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.11 | OSE (Operation Safe Escape)</li>
 <li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.03</li>
 <li>🥈2nd place Hacktoria CTF Operation Manhunt 2023 </li>
