@@ -561,10 +561,20 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <br>
       
-<p align="center"> <img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/166848280-3dca2418-dcb0-4bfe-9ff7-370d8e782d90.png"/>
+<p align="center"> <img width="333" height="233" src="https://user-images.githubusercontent.com/104733166/166848280-3dca2418-dcb0-4bfe-9ff7-370d8e782d90.png"/>
 
       
       🥉3rd Place in the MilOsintCTF [Military Themed OSINT CTF]
+      
+<br>
+<br>   
+
+<br>
+
+<p align="center"> <img width="333" height="133" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/d7ff41a7-188d-465a-a260-80ec1e05cb17"/>
+      
+      🥇1st to complete the 2024 HEXA OSINT CTF with the Team: Les Blaireaux des Légendes
+      The report analysis phase placed the team in 4th position, qualifying for the final in Paris.
       
 <br>
 <br>   
