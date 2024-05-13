@@ -402,10 +402,6 @@ OhSINT                     |  Sakura                  | 7-day Streak            
       
 <br>
 <br>
-      
-<p align="center"><img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/199259981-dde8bb01-3c14-426b-ade0-ed783f23d5e1.png"/><br>
-      
-    🦸‍♂️ Hacktoria OSINT CTF Team Cpt. (https://hacktoria.com)
 
       
 <br>   
@@ -488,10 +484,16 @@ OhSINT                     |  Sakura                  | 7-day Streak            
   
 <img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/198859824-8f715ef1-d9a1-465e-b8cb-41e1997a53d8.png"> 
 
+<br>
+<br>
+
+<p align="center"><img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/199259981-dde8bb01-3c14-426b-ade0-ed783f23d5e1.png"/><br>
+
  [Trace Labs Badge Verification on Badgr](https://ca.badgr.com/public/assertions/Tf-Am6MnQ4SQ15aoxykX2A)  
       
      🥈2nd Place Trace Labs [Silver Badge] 
       Global OSINT Search Party CTF 2022-11 | OSE: Operation Safe Escape [Team Hacktoria ⓗ]
+    🦸‍♂️ Hacktoria OSINT CTF Team Cpt. (https://hacktoria.com)
       
 <br>
 <br>
