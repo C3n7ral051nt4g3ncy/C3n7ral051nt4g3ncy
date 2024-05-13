@@ -541,6 +541,18 @@ OhSINT                     |  Sakura                  | 7-day Streak            
       
       Solved the CTF "A Christmas Conspiracy" by Infosec United and Hacktoria
 
+<br>
+<br> 
+
+<br>
+      
+      
+<p align="center"> <img width="333" height="233" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/6b4baa5e-74d6-43df-afec-a629c0e90822.png"/>
+
+     
+     🥈2nd Place in the Stranger Case (2024) OSINT CTF V3 on the Team: Blaireaux des Légendes
+      CTF organised by Esna Bretagne (https://esna.bzh), sponsored by Root Me (https://www.root-me.org), Orange Cyberdéfense (https://www.orangecyberdefense.com/fr/), and Yubico.
+
 
 
          
@@ -553,7 +565,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <p align="center"> <img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/168922467-a52a28d7-b15e-4b3f-9587-24895df9adec.png"/>
 
      
-     🥉3rd Place in the Stranger Case OSINT CTF on the Team 呪術廻戦 (JuJutsu Kaisen).
+     🥉3rd Place in the Stranger Case OSINT CTF V1 on the Team 呪術廻戦 (JuJutsu Kaisen).
       CTF organised by Esna Bretagne & Esn'Hack, with parterships with the DGA- Direction Générale de l'Armement (French Gov Defence procurement and technology agency), Airbus     
       Cybersecurity, Apixit, Diateam.
       
