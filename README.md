@@ -125,6 +125,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🥇1st Team to finish the HEXA OSINT CTF 2024 Challenges phase (V3) (4th overall after the reports "analysis" phase). Team "Les Blaireaux des Légendes"</a></li>
 <li>🥇1st place in the Hacktoria OSINT CTF | Downtown Murderer 2022</li> 
 <li>🥇1st place in the CTF OSINT Bleuet de France 2022 (AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense)</li>
+<li>🥈2nd place in the 2024 Stranger Case OSINT CTF organised by Esna Bretagne. CTF partnership with Orange Cyberdefense, Root Me, and Yubico.
 <li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2024.04</li>
 <li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.11 | OSE (Operation Safe Escape)</li>
 <li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.03</li>
