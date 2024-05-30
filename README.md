@@ -92,13 +92,14 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🔥 Passionate about: CYBER | OSINT | SOCMINT | IMINT | GEOINT | DARK WEB | CRYPTO | PYTHON | OPSEC :lock: </li>
 
 <li>👨‍🏫 OSINT Trainer <a href=https://github.com/TacticalOsintAcademy>@Tactical OSINT Academy</a></li>
-<li>👨‍🏫 OSINT Trainer <a href=https://www.ess-e.fr>@École Supérieure de la Sûreté des Entreprises</a> For the DSAC course (Data Security Analyst) </li>
+<li>👨‍🏫 OSINT Trainer <a href=https://www.ess-e.fr>@École Supérieure de la Sûreté des Entreprises</a> For the DSAC course (Data Security Analyst) and ROC (Renseignement d'Origine Cyber) </li>
+<li>👑 Founding Member of <a href=https://osint.uk>OSINT.UK</a></li>
 
 <li>🏴 The OSINTion Black Badge </li>
 <li>🥇 2x Trace Labs Gold Badge award </li> 
 <li>🪙 3x Trace Labs Silver Badge Award</li>
 <li>⚖️ Trace Labs Judge (OSINTomatico Conference 2023, Madrid, Spain)</li> 
-<li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Captain</li>
+<li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Member</li>
 <br>
 <li>🧠 Regular contributor to the OSINT community & enjoys bringing to light new OSINT techniques. </li> 
 <li>🤖 Creator of the Discord Bot called <a href=https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot>GitOSINT<a> 🦾</li> 
