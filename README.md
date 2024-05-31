@@ -598,6 +598,11 @@ OhSINT                     |  Sakura                  | 7-day Streak            
       
       🥇1st to complete the 2024 HEXA OSINT CTF challenges with the Team: Les Blaireaux des Légendes
       4th position after the report analysis challenge
+      
+<p align="center"> <img width="333" height="199" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/a4d0476e-6df5-45bb-9fca-ca1c761a570b.png"/>
+
+
+
 
 <br>
 <br>   
