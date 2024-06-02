@@ -498,7 +498,23 @@ OhSINT                     |  Sakura                  | 7-day Streak            
       
      🥈2nd Place Trace Labs [Silver Badge] 
       Global OSINT Search Party CTF 2022-11 | OSE: Operation Safe Escape [Team Hacktoria ⓗ]
-    🦸‍♂️ Hacktoria OSINT CTF Team Cpt. (https://hacktoria.com)
+      Hacktoria OSINT CTF Team Cpt. (https://hacktoria.com)
+      
+<br>
+<br>
+      
+<br>
+
+
+<p align="center"><img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/688f1857-c08c-4a87-a5e0-87a034943f54.png"/><br>
+<p align="center"><img width="233" height="133" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/993e06c5-acc8-408a-842c-67925a7d2c98.png"/><br>
+
+
+
+      
+     🥈2nd Place Trace Labs [Silver Badge] 
+      Global OSINT Search Party CTF 2024-04
+      Team Ghost Recon Unit
       
 <br>
 <br>
