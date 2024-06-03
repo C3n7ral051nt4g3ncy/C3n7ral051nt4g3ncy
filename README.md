@@ -509,7 +509,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <p align="center"><img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/688f1857-c08c-4a87-a5e0-87a034943f54.png"/><br>
 <p align="center"><img width="233" height="133" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/993e06c5-acc8-408a-842c-67925a7d2c98.png"/><br>
 
-
+[Trace Labs Badge Verification on Badgr](https://api.ca.badgr.io/public/assertions/BzzqOC7-SYiO8vuF2qHOsw) 
 
       
      🥈2nd Place Trace Labs [Silver Badge] 
