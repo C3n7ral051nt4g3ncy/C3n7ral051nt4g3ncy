@@ -34,11 +34,6 @@
 
 <p align="center"> <img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/187543867-773fe7a1-093c-4dd9-9029-a84fae9ddc99.gif"/>
 
-
-<br>
-      
-<br>
-
 <br>
 <a href='https://ko-fi.com/tacticalintelanalyst' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
       
@@ -66,9 +61,18 @@
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=C3n7ral051nt4g3ncy&label=Profile%20views&color=blueviolet&style=flat" alt="C3n7ral051nt4g3ncy"/></p>
+
+<br>
 <p align="center"> 
+<a href=https://c3n7ral051nt4g3ncy.github.io/index.html>c3n7ral051nt4g3ncy.github.io<a>
+</p>        
+<br>
+<br>
+
+<p align="center"> 
+
 <img width="600px" src="https://github-readme-stats-lake-omega.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="C3n7ral051nt4g3ncy's GitHub Stats"/>
-      
+   
 <br>
       
 <img width="600px" src="https://github-readme-stats-lake-omega.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&&hide=cmake,javascript,html,css&langs_count=4&line&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="C3n7ral051nt4g3ncy's Most Used Languages"/>
