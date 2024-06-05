@@ -75,7 +75,7 @@
    
 <br>
       
-<img width="600px" src="https://github-readme-stats-lake-omega.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&&hide=cmake,javascript,html,css&langs_count=4&line&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="C3n7ral051nt4g3ncy's Most Used Languages"/>
+<img width="600px" src="https://github-readme-stats-lake-omega.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&&&langs_count=4&line&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="C3n7ral051nt4g3ncy's Most Used Languages"/>
 
 </p>
 
