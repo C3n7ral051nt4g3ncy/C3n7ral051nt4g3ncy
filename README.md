@@ -621,8 +621,20 @@ OhSINT                     |  Sakura                  | 7-day Streak            
       
 <p align="center"> <img width="333" height="199" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/a4d0476e-6df5-45bb-9fca-ca1c761a570b.png"/>
 
+<br>
+<br>   
 
+<br>
 
+<p align="center"> <img width="333" height="133" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/36f8b33a-e7b1-49ae-abfc-a8f847ef7d13.png"/>
+
+<br>
+
+<p align="center"> <img width="133" height="133" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/cb506aff-466e-4451-86c2-98481d159018.png"/>
+
+      
+      8th Place in the HACKOSINT CTF by Hack'olyte - Team Blaireaux des Légendes (2 players)
+      Badge Challenger
 
 <br>
 <br>   
