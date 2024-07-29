@@ -117,6 +117,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <br>
 <li>🎤 Invited as a speaker at <a href=https://web.archive.org/save/https://europe.forum-fic.com/en/associated-event-osint-day> FIC 2023 (International CyberSecurity Forum | OSINT Day)<a></li> 
 <li>🎤 Invited as a speaker at <a href=https://www.youtube.com/watch?v=Yk8JNM2Snno>  OSINT Punk 23 </a> #OSINTPunk23</li> 
+<li>🎤 Invited as a speaker at <a href=https://www.linkedin.com/company/osinterdam/>  OSINTerdam 07-2024 (Amsterdam, NL) </a> #OSINTerdam</li> 
 <li>👮‍♂️ Invited as an OSINT analyst at Bordeaux Montaigne University, for the <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/683c8081-c8ba-467c-8dd4-13c7f624b562> first #OSINT Law Enforcement Bootcamp 2024<a>, organized by CyberNeTic Project, to work and help solve Cold Cases for the French National Police and Gendarmerie .
 <br>
 <br>
