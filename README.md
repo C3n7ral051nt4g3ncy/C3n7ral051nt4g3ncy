@@ -101,7 +101,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <li>🏴 The OSINTion Black Badge </li>
 <li>🥇 2x Trace Labs Gold Badge award </li> 
-<li>🪙 3x Trace Labs Silver Badge Award</li>
+<li>🥈 3x Trace Labs Silver Badge Award</li>
+<li>🥉 1x Trace Labs Bronze Badge Award</li>
 <li>⚖️ Trace Labs Judge (OSINTomatico Conference 2023, Madrid, Spain)</li> 
 <li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Member</li>
 <br>
@@ -177,6 +178,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> Beta-Tester for <a href=https://app.osintracker.com>OSINTracker</a> and OSINT Rooms on <a href=https://tryhackme.com> TryHackMe</a></li>
 <li> Osintracker Sponsor --> https://www.osintracker.com/partnerships</li>
 <li> 2024 InCyber Forum Partner #Fic2024 for the OSINT Day</li>
+<li> Contributed to <a href=https://www.osint.industries>Osint Industries</a> the Facebook Marketplace module</li>
 
 
 </ul>  
