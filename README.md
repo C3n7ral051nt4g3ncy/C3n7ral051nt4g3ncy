@@ -179,6 +179,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> Osintracker Sponsor --> https://www.osintracker.com/partnerships</li>
 <li> 2024 InCyber Forum Partner #Fic2024 for the OSINT Day</li>
 <li> Contributed to <a href=https://www.osint.industries>Osint Industries</a> the Facebook Marketplace module</li>
+<li> Featured in an <a href=https://www.osint.industries/project/using-facebook-to-crack-fraud-and-find-missing-persons-with-osint-tactical>OSINT Industries Case Study:</a> "Using Facebook to Crack Fraud and Find Missing Persons with OSINT Tactical."</li>
 
 
 </ul>  
