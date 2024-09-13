@@ -105,6 +105,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🥉 1x Trace Labs Bronze Badge Award</li>
 <li>⚖️ Trace Labs Judge (OSINTomatico Conference 2023, Madrid, Spain)</li> 
 <li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Member</li>
+
 <br>
 <li>🧠 Regular contributor to the OSINT community & enjoys bringing to light new OSINT techniques. </li> 
 <li>🤖 Creator of the Discord Bot called <a href=https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot>GitOSINT<a> 🦾</li> 
@@ -143,7 +144,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🥉3rd Place MilOsint CTF | 2021 </li>
 <li>🥉3rd Place in the Stranger Case OSINT CTF organised by Esna Bretagne and Esn'Hack ./CTF partnership with DGA - Direction Générale de l'Armement (French Government Defense procurement and technology agency), Airbus Cybersecurity, Diateam & Apixit | 2022</li>
 <br>
-<li> Qualified for the HEXA OSINT CTF final at LeHack 2024 (https://lehack.org), team Blaireaux des Légendes (1st place in the Challenges | 4th after the reports analysis) </a></li> 
+<li> Participated in the <a href=https://www.missingpersonshackathon.com.a> 2024 Australian National Missing Persons (NMP) Hackathon</a></li>
+<li> Qualified for the HEXA OSINT CTF final at LeHack 2024 (https://lehack.org), Team Blaireaux des Légendes (1st place in the Challenges | 4th after the reports analysis) </a></li> 
 <li> One of 9 out of +700 to fully complete the <a href=https://samplectf.com> SampleCTF</a></li> 
 <li> 6th place HEXA OSINT CTF 2021 Team OSINT-B33R [Sopra Steria and La Fabrique Défense, French Ministry of Defense]</li>
 <li> 8th place HEXA OSINT CTF V2 2023 Team CogitOSINT Ergo Sum [Sopra Steria]- 116 Teams participated.</li> 
