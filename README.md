@@ -803,6 +803,13 @@ My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was 
             <sub><b>Soxoj</b></sub>
         </a>
     </td>
+     <td align="center">
+        <a href="https://github.com/purpl3ac3">
+            <img src="https://avatars.githubusercontent.com/u/180685287?v=4" width="77;" alt="purpl3ac3"/>
+            <br />
+            <sub><b>purpl3ac3</b></sub>
+        </a>
+    </td>
 
       
 <br>
