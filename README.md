@@ -593,6 +593,17 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <br>
 
+<p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/c70a4675-fbe5-4b87-8177-a583df9f3fda"/>
+
+     
+     🥉Bronze Badge awarded to members of the 3rd placed team at the Trace Labs Global OSINT Search Party CTF 2024.08
+
+         
+<br>
+<br> 
+
+<br>
+
 
       
 <p align="center"> <img width="333" height="233" src="https://github.com/user-attachments/assets/eb99c0d0-0575-475a-88a9-512a6df5e8dc"/>
