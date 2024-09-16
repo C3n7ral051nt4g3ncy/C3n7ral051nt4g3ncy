@@ -584,10 +584,22 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <p align="center"> <img width="333" height="233" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/6b4baa5e-74d6-43df-afec-a629c0e90822.png"/>
 
      
-     🥈2nd Place in the Stranger Case (2024) OSINT CTF V3 on the Team: Blaireaux des Légendes
+     🥈2nd Place in the Stranger Case Qualifications (2024) OSINT CTF V3 on the Team: Blaireaux des Légendes
       CTF organised by Esna Bretagne (https://esna.bzh), sponsored by Root Me (https://www.root-me.org), Orange Cyberdéfense (https://www.orangecyberdefense.com/fr/), and Yubico.
 
+         
+<br>
+<br> 
 
+<br>
+
+
+      
+<p align="center"> <img width="333" height="233" src="https://github.com/user-attachments/assets/eb99c0d0-0575-475a-88a9-512a6df5e8dc"/>
+
+     
+     🥉3rd Place in the Stranger Case OSINT CTF V3 Finals in Paris (2024) on the Team: Blaireaux des Légendes
+      CTF organised by Esna Bretagne (https://esna.bzh), sponsored by Root Me (https://www.root-me.org), Orange Cyberdéfense (https://www.orangecyberdefense.com/fr/), and Yubico.
 
          
 <br>
