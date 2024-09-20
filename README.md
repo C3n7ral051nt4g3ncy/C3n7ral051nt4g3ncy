@@ -481,6 +481,16 @@ OhSINT                     |  Sakura                  | 7-day Streak            
        
 <br>
 <br>
+
+<p align="center"> <img width="233" height="166" src="https://github.com/user-attachments/assets/a5abedfe-a2df-4503-b2ff-7bf87c7074dd"/><br>
+      
+
+     🏆1st Place 2024 NMP Hackathon (Australia)
+      Team Phish & Chips
+      Competed under the username: OSINT_Analyst
+       
+<br>
+<br>
       
 <p align="center"> <img width="99" height="99" src="https://user-images.githubusercontent.com/104733166/166788919-07ff450c-c35c-4171-88b1-de93b651fc32.png"/><br>
       
@@ -502,7 +512,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <br>
 <br>
 
-<p align="center"><img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/199259981-dde8bb01-3c14-426b-ade0-ed783f23d5e1.png"/><br>
+<p align="center"><img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/199259981-dde8bb01-3c14-426b-ade0-ed783f23d5e1.png"/><br>
 
  [Trace Labs Badge Verification on Badgr](https://ca.badgr.com/public/assertions/Tf-Am6MnQ4SQ15aoxykX2A)  
       
