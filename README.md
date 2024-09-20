@@ -100,6 +100,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <li>🏴 The OSINTion Black Badge </li>
 <li>🥇 2x Trace Labs Gold Badge award </li> 
+<li>🏆 2024 NMP Hackathon Winner </li>
 <li>🥈 3x Trace Labs Silver Badge Award</li>
 <li>🥉 1x Trace Labs Bronze Badge Award</li>
 <li>⚖️ Trace Labs Judge (OSINTomatico Conference 2023, Madrid, Spain)</li> 
