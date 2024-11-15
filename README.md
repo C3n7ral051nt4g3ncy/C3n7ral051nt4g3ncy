@@ -129,6 +129,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>✍️ Writer/Contributor to the OSINT Newsletter by Jake Creps. Shared a 404 Bypass Technique that was found on Gravatar <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/210e4a44-409f-4767-a5cd-aa6456b61265>in the October 2023 OSINT Newsletter</a> 
 <br>
 <br>
+<li>🥇1st place - 2024 Australia NMP (National Missing Persons) Hackathon (215 Teams Competed) </li>
 <li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2024.01 </li> 
 <li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2023.02 </li>    
 <li>🥇1st place in the OSINT GAMES CTF TENET | 2022: created by <a href=https://github.com/WebBreacher> @WebBreacher</a></li>
@@ -148,6 +149,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> Qualified for the HEXA OSINT CTF final at LeHack 2024 (https://lehack.org), Team Blaireaux des Légendes (1st place in the Challenges | 4th after the reports analysis) </a></li> 
 <li> One of 9 out of +700 to fully complete the <a href=https://samplectf.com> SampleCTF</a></li> 
 <li> 6th place HEXA OSINT CTF 2021 Team OSINT-B33R [Sopra Steria and La Fabrique Défense, French Ministry of Defense]</li>
+<li> 6th place out of 170 Teams in the 2024 Gendarmerie Nationale CTE (Capture The Evidence) 
 <li> 8th place HEXA OSINT CTF V2 2023 Team CogitOSINT Ergo Sum [Sopra Steria]- 116 Teams participated.</li> 
 <li> Participated in the 2022 DefCon https://defcon.org Trace Labs OSINT CTF, Las Vegas, USA (7th Place with The Osint Unit)</li> 
 <li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams</li>
