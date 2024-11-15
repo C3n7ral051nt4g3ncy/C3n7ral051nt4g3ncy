@@ -691,9 +691,9 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <br>
 <br>
 
-<p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/f6a4f0ed-66d1-4312-abff-3ae69f7d1b77"
+<p align="center"> <img width="233" height="133" src="https://github.com/user-attachments/assets/f6a4f0ed-66d1-4312-abff-3ae69f7d1b77"/>
      
-     6th Place in the Gendarmerie Nationale CTE (Capture The Evidence). 170 Teams competed.
+     6th Place in the Gendarmerie Nationale CTE (Capture The Evidence) with Team Blaireaux des Légendes. 170 Teams competed.
 
          
 <br>
