@@ -485,7 +485,14 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <br>
 
 <p align="center"> <img width="233" height="166" src="https://github.com/user-attachments/assets/a5abedfe-a2df-4503-b2ff-7bf87c7074dd"/><br>
-      
+
+https://github.com/user-attachments/assets/1cba9cae-00ad-48af-96ca-ade6c016d3e9.mp4 
+
+<br>
+
+[Hackathon_FInal Scoreboard 2024.xlsx](https://github.com/user-attachments/files/18408476/Hackathon_FInal.Scoreboard.2024.xlsx)
+
+
 
      🏆1st Place 2024 NMP Hackathon (Australia)
       Team Phish & Chips
