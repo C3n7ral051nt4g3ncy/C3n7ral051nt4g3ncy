@@ -108,7 +108,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <br>
 <li>🧠 Regular contributor to the OSINT community & enjoys bringing to light new OSINT techniques. </li> 
-<li>🤖 Creator of the OpenAI GPT called <a href=https://chatgpt.com/g/g-UPQXoVGbN-trace-labs-buddy>Trace Labs Buddy<a> ֎ </a>/li>
+<li>🤖 Creator of the OpenAI GPT called <a href=https://chatgpt.com/g/g-UPQXoVGbN-trace-labs-buddy>Trace Labs Buddy<a> ֎ </li>
 <li>🤖 Creator of the Discord Bot called <a href=https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot>GitOSINT<a> 🦾</li> 
 <li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto<a> 🐘</li> 
 <li>👨‍💻 Creator of <a href=https://pypi.org/project/masto/>the Masto OSINT Tool Python package (on PyPI)</a> 🐘 </li>
