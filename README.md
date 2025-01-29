@@ -234,6 +234,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <p>
       
 <!-- OSINT-PROJECT-LIST:START -->
+- [Trace Labs Buddy GPT ֎ - Helping Teams before and during Trace Labs CTF events](https://chatgpt.com/g/g-UPQXoVGbN-trace-labs-buddy)
 - [OSINT INCEPTION 🚀 - A start.me page of the best OSINT start.me projects](https://start.me/p/Pwy0X4/osint-inception)
 - Project OSINT inception is used by [SMART - Start Me Aggregated Resource Tool](https://smart.myosint.training)
 - [OSINT INCEPTION GITHUB 🏢 - Project Links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links)
