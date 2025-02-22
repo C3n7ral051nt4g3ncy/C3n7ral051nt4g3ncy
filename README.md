@@ -362,8 +362,13 @@ https://user-images.githubusercontent.com/104733166/233765799-dbfc612f-c8cc-4dd8
 TryHackMe Stats | Badges :
 
 <br>
-      
-![C3n7ral051nt4g3ncy's tryhackme stats](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/blob/main/assets/thm_propic.png)<br>
+
+[TryHackMe Live Updates Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1483107) <br>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/5uch4N00b.png" alt="Your Image Badge" />
+
+<br>
+
 
 </div>
 
@@ -386,7 +391,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <p align="center">
 
-     🏴‍☠️ TryHackMe Top 6% | Username: 5uch4N00b 
+
    
 <br>
 <br>
