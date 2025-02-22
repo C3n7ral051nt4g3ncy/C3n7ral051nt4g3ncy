@@ -185,6 +185,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> 2024 InCyber Forum Partner #Fic2024 for the OSINT Day</li>
 <li> Contributed to <a href=https://www.osint.industries>Osint Industries</a> the Facebook Marketplace module</li>
 <li> Featured in an <a href=https://www.osint.industries/project/using-facebook-to-crack-fraud-and-find-missing-persons-with-osint-tactical>OSINT Industries Case Study:</a> "Using Facebook to Crack Fraud and Find Missing Persons with OSINT Tactical."</li>
+<li> Feb 2025: Helped <a href=https://www.osint.industries>OSINT Industries</a> with various modules</li>
+<li> Feb 2025: Posted about a vulnerability on <a href=https://www.pappers.fr>Pappers</a> exposing hundreds of passport numbers. It was fixed by Pappers in less than 24 hours</li>
 
 
 </ul>  
