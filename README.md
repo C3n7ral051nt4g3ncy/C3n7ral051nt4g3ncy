@@ -365,7 +365,7 @@ TryHackMe Stats | Badges :
 
 [TryHackMe Live Updates Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=1483107) <br>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/5uch4N00b.png" alt="Your Image Badge" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/5uch4N00b.png">
 
 <br>
 
