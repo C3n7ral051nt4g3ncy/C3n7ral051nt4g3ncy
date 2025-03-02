@@ -832,6 +832,11 @@ My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was 
 
 <p align="center"> <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> </p>
 
+## Stargazers over time
+[![Stargazers over time](https://starchart.cc/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy.svg?variant=adaptive)](https://starchart.cc/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy)
+
+<br>
+
 </p>
 </details>
 
