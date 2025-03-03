@@ -34,7 +34,6 @@
 <p align="center"> <img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/187543867-773fe7a1-093c-4dd9-9029-a84fae9ddc99.gif"/>
 
 <br>
-<a href='https://ko-fi.com/tacticalintelanalyst' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
       
 <p align="center">
 <a href="https://infosec.exchange/@C3n7ral051nt4g3ncy"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"/></a>
