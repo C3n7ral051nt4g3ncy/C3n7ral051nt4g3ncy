@@ -187,6 +187,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> Featured in an <a href=https://www.osint.industries/project/using-facebook-to-crack-fraud-and-find-missing-persons-with-osint-tactical>OSINT Industries Case Study:</a> "Using Facebook to Crack Fraud and Find Missing Persons with OSINT Tactical."</li>
 <li> Feb 2025: Helped <a href=https://www.osint.industries>OSINT Industries</a> with various modules</li>
 <li> Feb 2025: <a href="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/blob/main/assets/Linkedin.png">Posted</a> about a vulnerability on <a href="https://www.pappers.fr">Pappers</a> exposing hundreds of passport numbers. It was fixed by Pappers in less than 24 hours.</li>
+<li> March 2025: <a href="https://github.com/user-attachments/assets/31cb2d88-9b95-4e15-a7d8-f1b9bafc1b17"> Complimented by Maltego for creating Masto Maltego Transform.</a>
 
 
 
