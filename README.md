@@ -8,6 +8,7 @@
 ![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-black.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
 ![Codecademy](https://img.shields.io/badge/Codecademy-black?style=for-the-badge&logo=codecademy&logoColor=green)
 
+---
 
 </div>
 
@@ -18,6 +19,8 @@
 
       
 ## <p align="center"> ```𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟢 𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟣``` 𝚊𝚗𝚍 𝚆𝚎𝚕𝚌𝚘𝚖𝚎! 👋 <br> <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&size=21&duration=3333&pause=333&color=00F72B&background=000000&vCenter=true&multiline=true&width=433&height=133&lines=%24+whoami;C3n7ral051nt4gency.;%5Baka+OSINT+Tactical%5D%F0%9F%93%A1)](https://git.io/typing-svg)</p>
+
+---
 
 ###  <p align="center"> ᴏɴ ɢɪᴛʜᴜʙ ᴛᴏ ꜱʜᴀʀᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ | ʙᴜɪʟᴅ ᴏꜱɪɴᴛ ᴛᴏᴏʟꜱ | ᴀɴᴅ ᴛᴏ ʟᴇᴀʀɴ. </p>    
 
