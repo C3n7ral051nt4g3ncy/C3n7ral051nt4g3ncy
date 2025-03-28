@@ -673,13 +673,19 @@ https://github.com/user-attachments/assets/1cba9cae-00ad-48af-96ca-ade6c016d3e9.
 
 <br>
       
-<p align="center"> <img width="333" height="233" src="https://user-images.githubusercontent.com/104733166/166848280-3dca2418-dcb0-4bfe-9ff7-370d8e782d90.png"/>
+<p align="center"> <img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/166848280-3dca2418-dcb0-4bfe-9ff7-370d8e782d90.png"/>
 
       
       🥉3rd Place in the MilOsintCTF [Military Themed OSINT CTF]
       
 <br>
 <br>   
+
+<p align="center"> <img width="233" height="é33" src="https://github.com/user-attachments/assets/7998b24b-fcce-4f99-aeea-38ef2bd2e7f6">
+      
+ [Le Bruit des Bottes Bronze Badge Verification on Badgr](https://eu.badgr.com/public/assertions/Eo5V0GAXStyaVX26-FsJ3w)    
+
+     🥉3rd Place in the Oscar Zulu 2025 OSINT CTF Le Bruit des Bottes
 
 <br>
 
