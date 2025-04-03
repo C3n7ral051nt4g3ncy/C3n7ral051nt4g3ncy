@@ -543,7 +543,7 @@ https://github.com/user-attachments/assets/1cba9cae-00ad-48af-96ca-ade6c016d3e9.
 <br>
 <br>
 
-<p align="center"><img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/199259981-dde8bb01-3c14-426b-ade0-ed783f23d5e1.png"/><br>
+<p align="center"><img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/199259981-dde8bb01-3c14-426b-ade0-ed783f23d5e1.png"/><br>
 
  [Trace Labs Badge Verification on Badgr](https://ca.badgr.com/public/assertions/Tf-Am6MnQ4SQ15aoxykX2A)  
       
@@ -681,11 +681,18 @@ https://github.com/user-attachments/assets/1cba9cae-00ad-48af-96ca-ade6c016d3e9.
 <br>
 <br>   
 
-<p align="center"> <img width="233" height="é33" src="https://github.com/user-attachments/assets/7998b24b-fcce-4f99-aeea-38ef2bd2e7f6">
+<p align="center"> <img width="233" src="https://github.com/user-attachments/assets/7998b24b-fcce-4f99-aeea-38ef2bd2e7f6">
       
  [Le Bruit des Bottes Bronze Badge Verification on Badgr](https://eu.badgr.com/public/assertions/Eo5V0GAXStyaVX26-FsJ3w)    
 
      🥉3rd Place in the Oscar Zulu 2025 OSINT CTF Le Bruit des Bottes
+
+<br>
+<br>   
+
+<p align="center"> <img width="433" height="299" src="https://github.com/user-attachments/assets/7047166c-01c7-48e9-bc52-b1b49ba1f3a6"/>
+
+     🥉3rd Place in the OSINT Combine 2025 CTF (Played Solo under the username osintcrazy)
 
 <br>
 
