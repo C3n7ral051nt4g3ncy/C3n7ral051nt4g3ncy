@@ -147,6 +147,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.03</li>
 <li>🥈2nd place Hacktoria CTF Operation Manhunt 2023 </li>
 <li>🥈2nd Place Hacktoria CTF OP Galaxios 2022</li>
+<li>🥉3rd Place in the OSINT Combine CTF | 2025 </li>
 <li>🥉3rd Place Oscar Zulu OSINT CTF | Le Bruit des Bottes| 2025 </li>
 <li>🥉3rd Place MilOsint CTF | 2021 </li>
 <li>🥉3rd Place in the Stranger Case OSINT CTF organised by Esna Bretagne and Esn'Hack ./CTF partnership with DGA - Direction Générale de l'Armement (French Government Defense procurement and technology agency), Airbus Cybersecurity, Diateam & Apixit | 2022</li>
