@@ -101,7 +101,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>👑 Founding Member of <a href=https://osint.uk>OSINT.UK</a></li>
 
 <li>🏴 The OSINTion Black Badge </li>
-<li>🥇 2x Trace Labs Gold Badge award </li> 
+<li>🥇 3x Trace Labs Gold Badge award </li> 
 <li>🏆 2024 NMP Hackathon Winner </li>
 <li>🥈 3x Trace Labs Silver Badge Award</li>
 <li>🥉 1x Trace Labs Bronze Badge Award</li>
