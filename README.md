@@ -133,6 +133,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>✍️ Writer/Contributor to the OSINT Newsletter by Jake Creps. Shared a 404 Bypass Technique that was found on Gravatar <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/210e4a44-409f-4767-a5cd-aa6456b61265>in the October 2023 OSINT Newsletter</a> 
 <br>
 <br>
+<li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2025.04 </li> 
 <li>🥇1st place - 2024 Australia NMP (National Missing Persons) Hackathon (215 Teams Competed) </li>
 <li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2024.01 </li> 
 <li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2023.02 </li>    
