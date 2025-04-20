@@ -109,7 +109,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Member</li>
 
 <br>
-<li>🧠 Regular contributor to the OSINT community & enjoys bringing to light new OSINT techniques. </li> 
+<li>🧠 Regular contributor to the OSINT community & enjoys bringing to light new OSINT techniques. </li>
+<li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/HandleHawk>HandleHawk 🦅 Username Reconnaissance tool<a></li>
 <li>👨‍💻 Creator of the Masto <a href=https://github.com/C3n7ral051nt4g3ncy/Masto_Maltego_Transform>Maltego Transform<a></li>
 <li>🤖 Creator of the OpenAI GPT called <a href=https://chatgpt.com/g/g-UPQXoVGbN-trace-labs-buddy>Trace Labs Buddy<a> ֎ </li>
 <li>🤖 Creator of the Discord Bot called <a href=https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot>GitOSINT<a> 🦾</li> 
@@ -248,6 +249,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <p>
       
 <!-- OSINT-PROJECT-LIST:START -->
+- [HandleHawk Username Recon 🦅 ](https://github.com/C3n7ral051nt4g3ncy/HandleHawk)
 - [Masto Maltego Transform 🐘 ](https://github.com/C3n7ral051nt4g3ncy/Masto_Maltego_Transform)
 - [Trace Labs Buddy GPT ֎ - Helping Teams before and during Trace Labs CTF events](https://chatgpt.com/g/g-UPQXoVGbN-trace-labs-buddy)
 - [OSINT INCEPTION 🚀 - A start.me page of the best OSINT start.me projects](https://start.me/p/Pwy0X4/osint-inception)
