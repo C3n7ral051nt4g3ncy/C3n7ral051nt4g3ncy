@@ -406,10 +406,20 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <p align="center">
 
-
    
 <br>
 <br>
+
+<p align="center"> <img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/cc65da5b-7c7b-4252-ac74-0d5fc3f6d6fd"/><br>
+      
+     🥇1st Place Trace Labs [Gold Badge]
+      Global OSINT Search Party CTF 2025-04 [Team The Legendary Badgers]
+      Competed under the username: Tactical Badger
+       
+<br>
+<br>
+
+
 
 <p align="center"> <img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/cc65da5b-7c7b-4252-ac74-0d5fc3f6d6fd"/><br>
       
@@ -423,7 +433,17 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <br>
 <br>
 
+<p align="center"> <img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/e4f4bc70-465f-43f5-9f9b-d4ec4451e231"/><br>
+      
+ [Trace Labs Gold Badge Verification on Badgr](https://ca.badgr.com/public/assertions/aD4CeF4bRRybkdw6e-dM5A)    
 
+      
+     🥇1st Place Trace Labs [Gold Badge (ex black badge)] 
+      Global OSINT Search Party CTF 2023-02 [Team Wizards of OZINT 🧙‍♂️]
+      Competed under the username: Pentagon
+       
+<br>
+<br>
 
       
 <p align="center"><img width="133" height="133" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/12590a7a-98b1-4965-8416-4f7c38bc3a15"/><br>
@@ -499,23 +519,25 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <br>
 <br>
 
-<p align="center"> <img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/e4f4bc70-465f-43f5-9f9b-d4ec4451e231"/><br>
-      
- [Trace Labs Gold Badge Verification on Badgr](https://ca.badgr.com/public/assertions/aD4CeF4bRRybkdw6e-dM5A)    
-
-      
-     🥇1st Place Trace Labs [Gold Badge (ex black badge)] 
-      Global OSINT Search Party CTF 2023-02 [Team Wizards of OZINT 🧙‍♂️]
-      Competed under the username: Pentagon
-       
-<br>
-<br>
 
 <p align="center"> <img width="233" height="166" src="https://github.com/user-attachments/assets/a5abedfe-a2df-4503-b2ff-7bf87c7074dd"/><br>
 
 https://github.com/user-attachments/assets/1cba9cae-00ad-48af-96ca-ade6c016d3e9.mp4 
 
 <br>
+
+
+<p align="center"> <img width="233" height="233" src="https://github.com/user-attachments/assets/da03639f-bbde-4cfa-ac28-ecc939c8b95f"/>
+
+
+
+     🥇1st Place 2025 EGE HUNT -École de Guerre Économique (Economic War School, Paris)
+      Team Les Blaireaux des Légendes
+
+       
+<br>
+<br>
+
 
 [Hackathon_FInal Scoreboard 2024.xlsx](https://github.com/user-attachments/files/18408476/Hackathon_FInal.Scoreboard.2024.xlsx)
 
@@ -525,8 +547,11 @@ https://github.com/user-attachments/assets/1cba9cae-00ad-48af-96ca-ade6c016d3e9.
       Team Phish & Chips
       Competed under the username: OSINT_Analyst
        
+
+
 <br>
 <br>
+
       
 <p align="center"> <img width="99" height="99" src="https://user-images.githubusercontent.com/104733166/166788919-07ff450c-c35c-4171-88b1-de93b651fc32.png"/><br>
       
