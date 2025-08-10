@@ -175,6 +175,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <br>
 
+<li> Mentionned in The <a href=https://www.cambridge.org/core/books/cambridge-handbook-of-facial-recognition-in-the-modern-state/facial-recognition-technology-in-context/A4F5E2C52EF9CFD27E8F04D0DD60074D> Cambridge Handbook of Facial Recognition in the Modern State </a> (Published by Cambridge University Press) </li>
 <li> Mentionned by RUSI:Royal United Services Institute (UK's leading defence and security think tank), on the following 62-page paper --> <a href=https://static.rusi.org/330_OP_FutureOfOpenSourceIntelligence_FinalWeb0.pdf> The Future of Open Source Intelligence for UK National Security</a>  [Archived on WayBack Machine] </li>
 <li> Featured on a Facial Recognition Guide by Henk Van Hess on GIJN (Global Investigative Journalism Network) --> <a href=https://gijn.org/resource/facial-recognition-made-easy/>Facial Recognition made easy</a> [Archived on WayBack Machine] </li>
 <li> Mentionned by the <a href=https://baj.media/be/karysnae/sposoby-raspoznavaniya-lic-instrumenty-dlya-jurnalistov> Belarussian Association of Journalists</a> [Archived on WayBack Machine] </li>
