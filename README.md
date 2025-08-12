@@ -568,7 +568,7 @@ https://github.com/user-attachments/assets/1cba9cae-00ad-48af-96ca-ade6c016d3e9.
       
 <p align="center"> <img width="99" height="99" src="https://user-images.githubusercontent.com/104733166/166788919-07ff450c-c35c-4171-88b1-de93b651fc32.png"/><br>
       
- [Trace Labs Badge Verification on Badgr](https://ca.badgr.com/public/assertions/hF52Zd4aTRW-r-YUf03Qww)    
+ [Trace Labs Silver Badge Verification on Badgr](https://ca.badgr.com/public/assertions/hF52Zd4aTRW-r-YUf03Qww)    
 
       
      🥈2nd Place Trace Labs [Silver Badge] 
@@ -603,7 +603,7 @@ https://github.com/user-attachments/assets/1cba9cae-00ad-48af-96ca-ade6c016d3e9.
 <p align="center"><img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/688f1857-c08c-4a87-a5e0-87a034943f54.png"/><br>
 <p align="center"><img width="233" height="133" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/993e06c5-acc8-408a-842c-67925a7d2c98.png"/><br>
 
-[Trace Labs Badge Verification on Badgr](https://api.ca.badgr.io/public/assertions/BzzqOC7-SYiO8vuF2qHOsw) 
+[Trace Labs Silver Badge Verification on Badgr](https://api.ca.badgr.io/public/assertions/BzzqOC7-SYiO8vuF2qHOsw) 
 
       
      🥈2nd Place Trace Labs [Silver Badge] 
