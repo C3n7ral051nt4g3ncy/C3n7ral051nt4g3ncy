@@ -532,28 +532,26 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <br>
 <br>
 
+<div align="center">
 
-<p align="center"> <img width="233" height="166" src="https://github.com/user-attachments/assets/a5abedfe-a2df-4503-b2ff-7bf87c7074dd"/><br>
+<img width="233" height="166" src="https://github.com/user-attachments/assets/a5abedfe-a2df-4503-b2ff-7bf87c7074dd" alt="Hackathon Logo" />
 
-https://github.com/user-attachments/assets/1cba9cae-00ad-48af-96ca-ade6c016d3e9.mp4 
-
-<br>
-
-
-<p align="center"> <img width="233" height="233" src="https://github.com/user-attachments/assets/da03639f-bbde-4cfa-ac28-ecc939c8b95f"/>
-
-
-
-     🥇1st Place 2025 EGE HUNT -École de Guerre Économique (Economic War School, Paris)
-      Team Les Blaireaux des Légendes
-
-       
 <br>
 <br>
 
+[🎥 Watch Highlight Video](https://github.com/user-attachments/assets/1cba9cae-00ad-48af-96ca-ade6c016d3e9.mp4)
 
-[Hackathon_FInal Scoreboard 2024.xlsx](https://github.com/user-attachments/files/18408476/Hackathon_FInal.Scoreboard.2024.xlsx)
+<br><br>
 
+[📊 Hackathon_FInal Scoreboard 2024.xlsx](https://github.com/user-attachments/files/18408476/Hackathon_FInal.Scoreboard.2024.xlsx)
+
+<br>
+
+<img width="133" height="133" alt="NMPH2024 - Participant" src="https://github.com/user-attachments/assets/e33cd821-224f-4ee3-a913-c6f3eb80e5fa" />
+
+</div>
+
+<br>
 
 
      🏆1st Place 2024 NMP Hackathon (Australia)
@@ -561,6 +559,16 @@ https://github.com/user-attachments/assets/1cba9cae-00ad-48af-96ca-ade6c016d3e9.
       Competed under the username: OSINT_Analyst
        
 
+
+<br>
+<br>
+
+<p align="center"> <img width="233" height="233" src="https://github.com/user-attachments/assets/da03639f-bbde-4cfa-ac28-ecc939c8b95f"/>
+
+
+
+     🥇1st Place 2025 EGE HUNT -École de Guerre Économique (Economic War School, Paris)
+      Team Les Blaireaux des Légendes
 
 <br>
 <br>
