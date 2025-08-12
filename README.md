@@ -588,7 +588,7 @@ https://github.com/user-attachments/assets/1cba9cae-00ad-48af-96ca-ade6c016d3e9.
 
 <p align="center"><img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/199259981-dde8bb01-3c14-426b-ade0-ed783f23d5e1.png"/><br>
 
- [Trace Labs Badge Verification on Badgr](https://ca.badgr.com/public/assertions/Tf-Am6MnQ4SQ15aoxykX2A)  
+ [Trace Labs Silver Badge Verification on Badgr](https://ca.badgr.com/public/assertions/Tf-Am6MnQ4SQ15aoxykX2A)  
       
      🥈2nd Place Trace Labs [Silver Badge] 
       Global OSINT Search Party CTF 2022-11 | OSE: Operation Safe Escape [Team Hacktoria ⓗ]
@@ -679,6 +679,8 @@ https://github.com/user-attachments/assets/1cba9cae-00ad-48af-96ca-ade6c016d3e9.
 
 <p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/c70a4675-fbe5-4b87-8177-a583df9f3fda"/>
 
+      
+ [Trace Labs Bronze Badge Verification on Badgr](https://ca.badgr.com/public/assertions/cSfIi7ukRjKhaVZZ8Apm_A)
      
      🥉Bronze Badge awarded to members of the 3rd placed team at the Trace Labs Global OSINT Search Party CTF 2024.08
 
@@ -691,7 +693,6 @@ https://github.com/user-attachments/assets/1cba9cae-00ad-48af-96ca-ade6c016d3e9.
 
       
 <p align="center"> <img width="333" height="233" src="https://github.com/user-attachments/assets/eb99c0d0-0575-475a-88a9-512a6df5e8dc"/>
-
      
      🥉3rd Place in the Stranger Case OSINT CTF V3 Finals in Paris (2024) on the Team: Blaireaux des Légendes
       CTF organised by Esna Bretagne (https://esna.bzh), sponsored by Root Me (https://www.root-me.org), Orange Cyberdéfense (https://www.orangecyberdefense.com/fr/), and Yubico.
