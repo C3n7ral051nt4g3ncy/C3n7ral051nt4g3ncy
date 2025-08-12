@@ -417,6 +417,16 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <p align="center">
 
+<br>
+<br>
+
+<p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/0cf15b0b-a48d-460b-98e0-025d4c8733d1"/><br>
+
+ [Kase Scenarios Badge Verification](https://badgr.com/public/assertions/202Qm35hREm5rTxrjQ9TlA)
+      
+      Analysts who earn this badge have successfully applied a wide variety of OSINT tools, resources and methods to solve the challenges of the scenario.
+      The Vanishing of Rosie Parker is considered a intermediate level scenario with a few harder challenges that will test even the most seasoned OSINT analyst
+
    
 <br>
 <br>
