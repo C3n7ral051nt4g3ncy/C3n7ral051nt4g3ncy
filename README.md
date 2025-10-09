@@ -432,6 +432,19 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <br>
 <br>
 
+<p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/618bbbc9-b33b-4cd6-b54a-c34e3ebb5171"/><br>
+
+ [CTF Mission Verite Badge Verification](https://eu.badgr.com/public/assertions/94MD8cjURom1Ll4NjnKFEQ)
+      
+     Beta Tester for the CTF Mission Verite
+     Testing and validation of all CTF challenges prior to launch
+     Verification of flags, story consistency, spelling and linguistic consistency, and technical functionality of the challenges and platform.
+
+
+<br>
+<br>
+
+
 <p align="center"> <img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/cc65da5b-7c7b-4252-ac74-0d5fc3f6d6fd"/><br>
 
  [Trace Labs Gold Badge Verification on Badgr](https://ca.badgr.com/public/assertions/PLPI99LCQy2dkvPLdL8i_A)
