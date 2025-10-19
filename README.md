@@ -209,11 +209,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> March 2025: <a href="https://github.com/user-attachments/assets/31cb2d88-9b95-4e15-a7d8-f1b9bafc1b17"> Complimented by Maltego for creating Masto Maltego Transform.</a>
 <li> Mentioned in an article by OSINT Industries on 14/03/2025 --> <a href="https://www.osint.industries/post/osint-on-facebook-find-emails-phone-numbers-and-more">OSINT on Facebook: Find Emails, Phone Numbers, and More.</a>
 <li> Beta-Tester for the CTF "Mission Vérité", created by Steven DEFFOUS and the Hack'olyte association for BPI France</li>
-<li> Featured in the October 2025 <a href=https://www.osintnewsletter.osint-jobs.com/p/signal-osint-and-digital-archiving> OSINT Jobs Newsletter for sharing a guide on how to extract date and time from a Google Review. </li>
-
-
-
-
+<li> Featured in the October 2025 <a href=https://www.osintnewsletter.osint-jobs.com/p/signal-osint-and-digital-archiving> OSINT Jobs Newsletter for sharing a guide on how to extract date and time from a Google Review.</li>
+<li> Featured in the <a href=https://x.com/osintnewsletter/status/1962863078325797044> OSINT Newsletter on X for sharing a Google Calendar technique and the Gmail Dots technique. </li>
 
 
 </ul>  
