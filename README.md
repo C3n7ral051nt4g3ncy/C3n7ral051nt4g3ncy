@@ -428,6 +428,16 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <br>
 <br>
 
+<p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/0a0f22d0-b28e-4c29-9e92-ed180cc46e08"/> <br>
+      
+ [OSINT Educational Series Badge Verification](https://ca.badgr.com/public/assertions/vLs6p7EvQW-sIen1wl7uoQ)
+      
+     OSINT Educational Series made by FINDX and Trace Labs
+     Completed all 3 Rooms on TryHackMe
+
+<br>
+<br>
+
 <p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/618bbbc9-b33b-4cd6-b54a-c34e3ebb5171"/><br>
 
  [CTF Mission Verite Badge Verification](https://eu.badgr.com/public/assertions/94MD8cjURom1Ll4NjnKFEQ)
