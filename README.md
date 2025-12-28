@@ -75,7 +75,7 @@
 
 <br>
 <p align="center"> 
-<a href=https://c3n7ral051nt4g3ncy.github.io/index.html>c3n7ral051nt4g3ncy.github.io<a>
+Site: <a href=https://c3n7ral051nt4g3ncy.github.io/index.html>c3n7ral051nt4g3ncy.github.io<a>
 </p>        
 <br>
 <br>
