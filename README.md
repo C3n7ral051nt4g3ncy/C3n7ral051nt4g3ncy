@@ -146,6 +146,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <br>
 <br>
 <li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2025.04 </li> 
+<li>🥇1st place - Gendarmerie Nationale OSINT CTF (French Law Enforcement CTF) </li> 
 <li>🥇1st place - CTF HUNT, École de Guerre Économique (Economic War School) </li> 
 <li>🥇1st place - 2024 Australia NMP (National Missing Persons) Hackathon (215 Teams Competed) </li>
 <li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2024.01 </li> 
