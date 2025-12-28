@@ -107,6 +107,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🔥 Passionate about: CYBER | OSINT | SOCMINT | IMINT | GEOINT | DARK WEB | CRYPTO | PYTHON | OPSEC :lock: </li>
 
 <li>👨‍🏫 OSINT Trainer <a href=https://github.com/TacticalOsintAcademy>@Tactical OSINT Academy</a></li>
+<li>👨‍🏫 OSINT Trainer <a href=https://www.osint.industries>@OSINT Industries</a></li>
 <li>👨‍🏫 OSINT Trainer <a href=https://www.ess-e.fr>@École Supérieure de la Sûreté des Entreprises</a> For the DSAC course (Data Security Analyst) and ROC (Renseignement d'Origine Cyber) </li>
 <li>👑 Founding Member of <a href=https://osint.uk>OSINT.UK</a></li>
 
@@ -160,6 +161,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🥈2nd place Hacktoria CTF Operation Manhunt 2023 </li>
 <li>🥈2nd Place Hacktoria CTF OP Galaxios 2022</li>
 <li>🥉3rd Place in the OSINT Combine CTF | 2025 </li>
+<li>🥉3rd Place in the Osmosis Halloween OSINT CTF | 2025 </li>
 <li>🥉3rd Place Oscar Zulu OSINT CTF | Le Bruit des Bottes| 2025 </li>
 <li>🥉3rd Place MilOsint CTF | 2021 </li>
 <li>🥉3rd Place in the Stranger Case OSINT CTF organised by Esna Bretagne and Esn'Hack ./CTF partnership with DGA - Direction Générale de l'Armement (French Government Defense procurement and technology agency), Airbus Cybersecurity, Diateam & Apixit | 2022</li>
@@ -212,6 +214,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li> Beta-Tester for the CTF "Mission Vérité", created by Steven DEFFOUS and the Hack'olyte association for BPI France</li>
 <li> Featured in the October 2025 <a href=https://www.osintnewsletter.osint-jobs.com/p/signal-osint-and-digital-archiving> OSINT Jobs Newsletter for sharing a guide on how to extract date and time from a Google Review.</li>
 <li> Featured in the <a href=https://x.com/osintnewsletter/status/1962863078325797044> OSINT Newsletter on X for sharing a Google Calendar technique and the Gmail Dots technique. </li>
+<li> Contributed challenges to the  <a href=https://ctf.osint.industries> OSINT Industries CTF. </li>
+
 
 
 
@@ -245,6 +249,10 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 - Helped French law enforcement identify & arrest a group of criminals using only OSINT (Open Source Intelligence) <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/a50be2f0-bcd6-49fa-9b3b-601c33c5623e> Click to see the Thank you note from the Gendarmerie Nationale Commander. </a></li>
 
 - Carried out extensive research that lead to finding intelligence on a Ukrainian hacker wanted by the US Government with a 1 million price tag on his head (Full findings report is 33 pages)  <a href=https://x.com/OSINT_Tactical/status/1741230287856537705> Twitter post. </a></li>
+
+- Identified **Toray Larry-Neal Benjamin Brown** (aka **Toray Brown**), a **UK citizen**, as the perpetrator of an antisemitic assault against **two young Jewish children** at **Paris Charles de Gaulle Airport (CDG)**, during which he reportedly said “dance pig dance”, identification originated from an OSINT pivot via the TikTok account **@saint._17**, which recorded and posted the video, and was subsequently confirmed by the account @SwordOfSalomon and the **French Jewish Defense League (LDJ)**: https://www.liguedefensejuive.com/swordofsalomon-toray-larry-neal-brown-est-lauteur-de-lagression-antisemite-a-laeroport-paris-charles-de-gaulle-2025-12-26.html
+  
+- Helped the NSW Police to identify a Satanic Pedophile ring lead by Landon Germanotta-Mills: https://www.osint.industries/press-release/osint-industries-supports-nsw-police-in-strike-force-constantine-investigation
 
 
 
@@ -728,13 +736,22 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <br>
 
+<p align="center"> <img width="133" height="233" src="https://github.com/user-attachments/assets/7220e701-f68d-4c96-9335-911d6a5e3dbd"/>
 
+ [Osmosis CTF Badge Verification on Badgr](https://badges.parchment.eu/public/assertions/cqqZIBwWSOC3168NYVHavg)
+     
+     🥉3rd Place in the Osmosis Institute OSINT CTF for Halloween 
+
+         
+<br>
+<br> 
+
+<br>
       
 <p align="center"> <img width="333" height="233" src="https://github.com/user-attachments/assets/eb99c0d0-0575-475a-88a9-512a6df5e8dc"/>
      
      🥉3rd Place in the Stranger Case OSINT CTF V3 Finals in Paris (2024) on the Team: Blaireaux des Légendes
       CTF organised by Esna Bretagne (https://esna.bzh), sponsored by Root Me (https://www.root-me.org), Orange Cyberdéfense (https://www.orangecyberdefense.com/fr/), and Yubico.
-
          
 <br>
 <br> 
