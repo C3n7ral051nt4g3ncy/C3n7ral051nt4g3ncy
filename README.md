@@ -439,7 +439,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/0a0f22d0-b28e-4c29-9e92-ed180cc46e08"/> <br>
       
- [OSINT Educational Series Badge Verification](https://ca.badgr.com/public/assertions/vLs6p7EvQW-sIen1wl7uoQ)
+ [OSINT Educational Series Badge Verification](https://passport.cancred.ca/app/badge/info/37127)
       
      OSINT Educational Series made by FINDX and Trace Labs
      Completed all 3 Rooms on TryHackMe
@@ -475,7 +475,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <p align="center"> <img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/cc65da5b-7c7b-4252-ac74-0d5fc3f6d6fd"/><br>
       
- [Trace Labs Gold Badge Verification on Badgr](https://ca.badgr.com/public/assertions/aXpRaoQxQEWbpHY_dWlE2A)    
+ [Trace Labs Gold Badge Verification on Badgr](https://passport.cancred.ca/app/badge/info/37117)    
 
       
      🥇1st Place Trace Labs [Gold Badge (ex black badge)] 
@@ -487,7 +487,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <p align="center"> <img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/e4f4bc70-465f-43f5-9f9b-d4ec4451e231"/><br>
       
- [Trace Labs Gold Badge Verification on Badgr](https://ca.badgr.com/public/assertions/aD4CeF4bRRybkdw6e-dM5A)    
+ [Trace Labs Gold Badge Verification on Badgr](https://passport.cancred.ca/app/badge/info/37118)    
 
       
      🥇1st Place Trace Labs [Gold Badge (ex black badge)] 
@@ -501,7 +501,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <p align="center"><img width="133" height="133" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/12590a7a-98b1-4965-8416-4f7c38bc3a15"/><br>
       
     ✍️ TraceLabs Report Writer 
-[Verify Report Writer Badge Authenticity](https://ca.badgr.com/public/assertions/khHawYHIT5SeUJ-LOykamA)
+[Verify Report Writer Badge Authenticity](https://passport.cancred.ca/app/badge/info/37126)
       
 <br>
 <br>
@@ -509,7 +509,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <p align="center"><img width="133" height="133" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/7eff03b3-c235-469b-83ee-6aec0724f674"/><br>
         
     ⚖️ TraceLabs CTF Judge 
-[Verify Judge Badge Authenticity](https://ca.badgr.com/public/assertions/MJLNzYbcQwK8kNnaceVHxQ)
+[Verify Judge Badge Authenticity](https://passport.cancred.ca/app/badge/info/37124)
     
             
 <br>   
@@ -615,7 +615,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
       
 <p align="center"> <img width="99" height="99" src="https://user-images.githubusercontent.com/104733166/166788919-07ff450c-c35c-4171-88b1-de93b651fc32.png"/><br>
       
- [Trace Labs Silver Badge Verification on Badgr](https://ca.badgr.com/public/assertions/hF52Zd4aTRW-r-YUf03Qww)    
+ [Trace Labs Silver Badge Verification on Badgr](https://passport.cancred.ca/app/badge/info/37120)    
 
       
      🥈2nd Place Trace Labs [Silver Badge] 
@@ -635,7 +635,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <p align="center"><img width="133" height="133" src="https://user-images.githubusercontent.com/104733166/199259981-dde8bb01-3c14-426b-ade0-ed783f23d5e1.png"/><br>
 
- [Trace Labs Silver Badge Verification on Badgr](https://ca.badgr.com/public/assertions/Tf-Am6MnQ4SQ15aoxykX2A)  
+ [Trace Labs Silver Badge Verification on Badgr](https://passport.cancred.ca/app/badge/info/37122)  
       
      🥈2nd Place Trace Labs [Silver Badge] 
       Global OSINT Search Party CTF 2022-11 | OSE: Operation Safe Escape [Team Hacktoria ⓗ]
@@ -650,7 +650,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <p align="center"><img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/688f1857-c08c-4a87-a5e0-87a034943f54.png"/><br>
 <p align="center"><img width="233" height="133" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/993e06c5-acc8-408a-842c-67925a7d2c98.png"/><br>
 
-[Trace Labs Silver Badge Verification on Badgr](https://api.ca.badgr.io/public/assertions/BzzqOC7-SYiO8vuF2qHOsw) 
+[Trace Labs Silver Badge Verification on Badgr](https://passport.cancred.ca/app/badge/info/37121) 
 
       
      🥈2nd Place Trace Labs [Silver Badge] 
@@ -727,7 +727,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/c70a4675-fbe5-4b87-8177-a583df9f3fda"/>
 
       
- [Trace Labs Bronze Badge Verification on Badgr](https://ca.badgr.com/public/assertions/cSfIi7ukRjKhaVZZ8Apm_A)
+ [Trace Labs Bronze Badge Verification on Badgr](https://passport.cancred.ca/app/badge/info/37123)
      
      🥉Bronze Badge awarded to members of the 3rd placed team at the Trace Labs Global OSINT Search Party CTF 2024.08
 
