@@ -462,7 +462,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <p align="center"> <img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/cc65da5b-7c7b-4252-ac74-0d5fc3f6d6fd"/><br>
 
- [Trace Labs Gold Badge Verification on Badgr](https://ca.badgr.com/public/assertions/PLPI99LCQy2dkvPLdL8i_A)
+ [Trace Labs Gold Badge Verification on Badgr](https://passport.cancred.ca/app/badge/info/37276)
       
      🥇1st Place Trace Labs [Gold Badge]
       Global OSINT Search Party CTF 2025-04 [Team The Legendary Badgers]
