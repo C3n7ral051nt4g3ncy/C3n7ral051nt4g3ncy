@@ -254,6 +254,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 - Identified **Toray Larry-Neal Benjamin Brown** (aka **Toray Brown**), a **UK citizen**, as the perpetrator of an antisemitic assault against **two young Jewish children** at **Paris Charles de Gaulle Airport (CDG)**, during which he reportedly said “dance pig dance”, identification originated from an OSINT pivot via the TikTok account **@saint._17**, which recorded and posted the video, and was subsequently confirmed by the account @SwordOfSalomon and the **French Jewish Defense League (LDJ)**: https://www.liguedefensejuive.com/swordofsalomon-toray-larry-neal-brown-est-lauteur-de-lagression-antisemite-a-laeroport-paris-charles-de-gaulle-2025-12-26.html
   
 - Helped the NSW Police to identify a Satanic Pedophile ring lead by Landon Germanotta-Mills: https://www.osint.industries/press-release/osint-industries-supports-nsw-police-in-strike-force-constantine-investigation
+  
+- Helped Romanian Police dismantle a trafficking network in Constanța targeting vulnerable young women: https://www.linkedin.com/posts/nathanielfried_five-traffickers-arrested-a-15-year-old-activity-7437841339079176192-wmPH/
 
 
 
