@@ -299,6 +299,8 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 - Created a Map (in French) of firearms that have been used (confirmed shots fired), stolen, or seen on social media during the France June/July 2023 Riots. The map was/is used by Law Enforcement, French and foreign OSINT community members, and viewed thousands of times --> [Click here to see the Map](https://goo.gl/maps/vszdNxCvkVFChcDm8)
 - First to find the Google Calendar OSINT Technique 📆 [- Found a way of checking if any email is tied to a Google Account by using Google Calendar](https://twitter.com/OSINT_Tactical/status/1677405840146309121?s=20)
 - Found a new technique for Snapchat Map in November 2023 to get the date and time of a video
+- Geolocating an individual through [Poop app data](https://www.linkedin.com/posts/yoni-recently-shared-a-jaw-dropping-case-share-7363940685575540737-983z)
+- Finding the [exact date and time a Google Review was posted](https://www.linkedin.com/posts/heres-a-brilliant-osint-technique-from-ugcPost-7391999675186380801-74rY) 
 
 
 <br>
