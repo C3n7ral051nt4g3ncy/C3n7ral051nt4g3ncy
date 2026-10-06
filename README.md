@@ -462,6 +462,20 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <br>
 
 
+
+<p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/02560467-2e4a-4fe1-9eb5-c90d40a96d09"/><br>
+<p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/e28b174e-76b6-4866-a134-c289c8995d26"/><br>
+      
+     🥇1st Place - Fastest Time with 0 Fails 
+     🥇1st Place best overall OSINT Report 
+      OSINT CTF Deep Threats 2026 by the French Ministry of Armed Forces (Cyber Campus - Direction Générale de l'Armement) [Team Les Blaireaux des Légendes] (The Legendary Badgers)
+      Competed under the username: (Whitespace)
+
+
+<br>
+<br>
+
+
 <p align="center"> <img width="99" height="99" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/cc65da5b-7c7b-4252-ac74-0d5fc3f6d6fd"/><br>
 
  [Trace Labs Gold Badge Verification on Badgr](https://passport.cancred.ca/app/badge/info/37276)
