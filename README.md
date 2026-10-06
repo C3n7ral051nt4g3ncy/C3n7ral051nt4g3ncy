@@ -113,6 +113,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <li>🏴 The OSINTion Black Badge </li>
 <li>🥇 3x Trace Labs Gold Badge award </li> 
+<li>🥇 1st place in the 2026 Deep Threats OSINT CTF by the French Ministry of Armed Forces (DGA Cyber Campus)</li> 
 <li>🏆 2024 NMP Hackathon Winner </li>
 <li>🥈 3x Trace Labs Silver Badge Award</li>
 <li>🥉 1x Trace Labs Bronze Badge Award</li>
@@ -133,6 +134,9 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🤓 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/PCT>People Count Tool<a> 🧑‍🤝‍🧑</li> 
 <li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/FB2MKTP>FB2MKTP - Facebook to Marketplace<a> 🇫🇧 ==> 🇲 🇰 🇹 🇵</li> 
 <br>
+<li>🎤 Invited as a speaker at <a href=https://childrescuecoalition.org/icac-sprint-2026/>ICAC Sprint (Internet Crimes Against Children), in Boca Raton, organized by the CRC and US Homeland Security<a></li> 
+<li>🎤 Invited as a speaker at <a href=https://childrescuecoalition.org/child-rescue-coalition-supports-global-live-stream-offender-operation-the-largest-and-most-successful-operation-of-its-kind/>OP Pharos in Germany, organized by the CRC and US Homeland Security<a></li> 
+<li>🎤 Invited as a speaker at OSINT Connect 2025 (Paris, France)</li> 
 <li>🎤 Invited as a speaker at <a href=https://web.archive.org/save/https://europe.forum-fic.com/en/associated-event-osint-day> FIC 2023 (International CyberSecurity Forum | OSINT Day)<a></li> 
 <li>🎤 Invited as a speaker at <a href=https://www.youtube.com/watch?v=Yk8JNM2Snno>  OSINT Punk 23 </a> #OSINTPunk23</li> 
 <li>🎤 Invited as a speaker at <a href=https://www.linkedin.com/company/osinterdam/>  OSINTerdam 07-2024 (Amsterdam, NL) </a> #OSINTerdam</li> 
@@ -145,8 +149,9 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>✍️ Writer/Contributor to the OSINT Newsletter by Jake Creps. Shared a 404 Bypass Technique that was found on Gravatar <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/210e4a44-409f-4767-a5cd-aa6456b61265>in the October 2023 OSINT Newsletter</a> 
 <br>
 <br>
+<li>🥇1st place - Deep Threats 2026 OSINT CTF by the French Ministry of Defense</li> 
 <li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2025.04 </li> 
-<li>🥇1st place - Gendarmerie Nationale OSINT CTF (French Law Enforcement CTF) </li> 
+<li>🥇1st place - Gendarmerie Nationale Intranet OSINT CTF (French Law Enforcement CTF) </li> 
 <li>🥇1st place - CTF HUNT, École de Guerre Économique (Economic War School) </li> 
 <li>🥇1st place - 2024 Australia NMP (National Missing Persons) Hackathon (215 Teams Competed) </li>
 <li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2024.01 </li> 
