@@ -739,7 +739,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <br>
 
-<p align="center"> <img width="133" height="233" src="https://github.com/user-attachments/assets/7220e701-f68d-4c96-9335-911d6a5e3dbd"/>
+<p align="center"> <img width="133" height="133" src="https://github.com/user-attachments/assets/7220e701-f68d-4c96-9335-911d6a5e3dbd"/>
 
  [Osmosis CTF Badge Verification on Badgr](https://badges.parchment.eu/public/assertions/cqqZIBwWSOC3168NYVHavg)
      
