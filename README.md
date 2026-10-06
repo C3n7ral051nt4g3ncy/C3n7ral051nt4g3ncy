@@ -945,12 +945,6 @@ My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was 
 
 <p align="center"><img src="https://wakatime.com/share/@de14e947-18ae-4619-8175-1510bf69f10b/cbfa3b63-c82c-4717-836c-f2c7a405b95a.svg" width="433"></p>
 
-<br>
-
-<br>
-
-## Stargazers over time
-[![Stargazers over time](https://starchart.cc/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy.svg?variant=adaptive)](https://starchart.cc/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy)
 
 <br>
 
