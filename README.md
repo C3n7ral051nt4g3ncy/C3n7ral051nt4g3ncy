@@ -931,10 +931,6 @@ My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was 
 <br>
       
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=C3n7ral051nt4g3ncy&label=Profile%20views&color=blueviolet&style=flat" alt="C3n7ral051nt4g3ncy" /> </p>
-      
-<br>
-      
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=C3n7ral051nt4g3ncy&theme=dracula">
 
 <br>
 
