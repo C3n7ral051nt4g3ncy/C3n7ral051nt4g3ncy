@@ -424,9 +424,9 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 ---------------------------|--------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|-----------------------------|
 <img width="90" height="90" src="https://user-images.githubusercontent.com/104733166/201360247-94ac6931-59e0-423d-af24-bacef3987a70.svg"/>  |  <img width="77" height="77" src="https://user-images.githubusercontent.com/104733166/201470172-f0b5be6b-041b-4d42-99d4-aa4dd551638b.png"/> | <img width="77" height="77" src="https://user-images.githubusercontent.com/104733166/206340038-6e50af76-5af5-4b3c-a5a7-d33f89e936fb.svg"/>  | <img width="77" height="77" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/ef12c916-47bb-4087-a80e-6ca7691b5c8d"> | <img width="90" height="90" src="https://raw.githubusercontent.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/4e6e7f29cb17a5fb6c35b0c68dd8f4e477bcf412/assets/hashcracker.svg"> | <img width="77" height="77" src="https://raw.githubusercontent.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/d1f055ede5321dc028851f5731f3567c3d33f9ae/assets/streak3.svg"> | <img width="77" height="77" src="https://raw.githubusercontent.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/refs/heads/main/assets/webbed.svg"> | <img width="77" height="77" src="https://raw.githubusercontent.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/9afd6849fb2d0ad1d4eafda5071d4285e46a0cf1/assets/howthewebworks.svg"> | <img width="77" height="77" src="https://raw.githubusercontent.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/1a3ac920ac3e2d355107785de9cb21f52f148032/assets/linux.svg"> 
 
-[OSINT DOJO Sakura Badge Verification](https://badgr.com/public/assertions/4y0D2SVEQrywIW8rkQUaYQ)
+[OSINT DOJO Sakura Badge Verification](https://passport.cancred.ca/app/badge/info/43975)
 
-[OSINT DOJO AFK Badge Verification](https://badgr.com/public/assertions/7O9pegCWRyiviS7SX1SCiw) 
+[OSINT DOJO AFK Badge Verification](https://passport.cancred.ca/app/badge/info/43976) 
 
 </div>
 
@@ -437,7 +437,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/0cf15b0b-a48d-460b-98e0-025d4c8733d1"/><br>
 
- [Kase Scenarios Badge Verification](https://badgr.com/public/assertions/202Qm35hREm5rTxrjQ9TlA)
+ [Kase Scenarios Badge Verification](https://passport.cancred.ca/app/badge/info/43970)
       
       Analysts who earn this badge have successfully applied a wide variety of OSINT tools, resources and methods to solve the challenges of the scenario.
       The Vanishing of Rosie Parker is considered a intermediate level scenario with a few harder challenges that will test even the most seasoned OSINT analyst
@@ -458,7 +458,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/618bbbc9-b33b-4cd6-b54a-c34e3ebb5171"/><br>
 
- [CTF Mission Verite Badge Verification](https://eu.badgr.com/public/assertions/94MD8cjURom1Ll4NjnKFEQ)
+ [CTF Mission Verite Badge Verification](https://passport.cancred.ca/app/badge/info/43973)
       
      Beta Tester for the CTF Mission Verite
      Testing and validation of all CTF challenges prior to launch
@@ -575,7 +575,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <p align=center> <img width="99" src="https://user-images.githubusercontent.com/104733166/170846281-0d6df82a-da15-4340-8df9-d4ea1be34e8d.png">
 <p align="center"> <img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/167261528-39616f95-1ab9-40bb-90be-ce2f7a648696.png"/>
       
-[Bleuet de France OSINT CTF Gold Badge 2022 Verification on Badgr](https://eu.badgr.com/public/assertions/NrU39miXR5qMoH7ydn5C6A)
+[Bleuet de France OSINT CTF Gold Badge 2022 Verification on Badgr](https://passport.cancred.ca/app/badge/info/43978)
       
    
     🥇1st Place OSINT CTF Bleuet de France 🇫🇷 CTF organized by AEGE War School 
@@ -762,7 +762,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <p align="center"> <img width="133" height="133" src="https://github.com/user-attachments/assets/7220e701-f68d-4c96-9335-911d6a5e3dbd"/>
 
- [Osmosis CTF Badge Verification on Badgr](https://badges.parchment.eu/public/assertions/cqqZIBwWSOC3168NYVHavg)
+ [Osmosis CTF Badge Verification](https://passport.cancred.ca/app/badge/info/43972)
      
      🥉3rd Place in the Osmosis Institute OSINT CTF for Halloween 
 
@@ -806,7 +806,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <p align="center"> <img width="233" src="https://github.com/user-attachments/assets/7998b24b-fcce-4f99-aeea-38ef2bd2e7f6">
       
- [Le Bruit des Bottes Bronze Badge Verification on Badgr](https://eu.badgr.com/public/assertions/Eo5V0GAXStyaVX26-FsJ3w)    
+ [Le Bruit des Bottes Bronze Badge Verification](https://passport.cancred.ca/app/badge/info/43974)    
 
      🥉3rd Place in the Oscar Zulu 2025 OSINT CTF Le Bruit des Bottes
 
@@ -849,7 +849,7 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <p align="center"> <img width="99" height="99" src="https://user-images.githubusercontent.com/104733166/194293248-549d365f-1801-469b-adc5-f8ac2ad1c121.png"/>
 
-[SAMPLECTF Completion October 2022 Verification on Badgr](https://au.badgr.com/public/assertions/kogBwaq7TTKXVojoeengJQ)
+[SAMPLECTF Completion October 2022 Verification](https://passport.cancred.ca/app/badge/info/43977)
       
       1 of 9 competitors out of +700 people to fully complete the SAMPLECTF made by @WebNoser
       
