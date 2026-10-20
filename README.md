@@ -40,8 +40,10 @@
 <p align="center"> <img width="66" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/82ec8424-8403-44dc-b83d-85191fad9026"> 𝑪𝑻𝑭 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</p>     
 <p align="center">ᄃYBΣЯ</p>
 <p align="center">🌎 ƚɘᴎɒ|q ɘʜƚ ƚᴎiꙅo</p>
-<p align="center"> <a href=https://osint.industries>OSINT Industries Lead Trainer<a></li>
+<p align="center"> <img width="19" src="https://github.com/user-attachments/assets/ba02d6a6-78b2-4ad9-b818-18d01789942a"> <a href=https://osint.industries>OSINT Industries Lead Trainer<a></li>
 <br>
+
+
 
 
 
