@@ -17,8 +17,6 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/main/assets/C3n7ral_banner.svg" width="100%" alt="C3n7ral051nt4g3ncy"/> </p>
 
 <br>
-<br>
-
       
 ## <p align="center"> ```𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟢 𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟣``` 𝚊𝚗𝚍 𝚆𝚎𝚕𝚌𝚘𝚖𝚎! 👋 <br> <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&size=21&duration=3333&pause=333&color=00F72B&background=000000&vCenter=true&multiline=true&width=433&height=133&lines=%24+whoami;C3n7ral051nt4gency.;%5Baka+OSINT+Tactical%5D%F0%9F%93%A1)](https://git.io/typing-svg)</p>
 
