@@ -350,60 +350,333 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 
 <br>
 
-<!-- OSINT Projects -->
-<details>
-<summary><b>:shipit: &nbsp; &nbsp; ᴍʏ ᴏꜱɪɴᴛ ᴘʀᴏᴊᴇᴄᴛꜱ | ᴛᴜᴛᴏʀɪᴀʟꜱ &nbsp;&nbsp;&nbsp; </b></summary>
-<p>
-      
-<!-- OSINT-PROJECT-LIST:START -->
-- [HandleHawk Username Recon 🦅 ](https://github.com/C3n7ral051nt4g3ncy/HandleHawk)
-- [Masto Maltego Transform 🐘 ](https://github.com/C3n7ral051nt4g3ncy/Masto_Maltego_Transform)
-- [Trace Labs Buddy GPT ֎ - Helping Teams before and during Trace Labs CTF events](https://chatgpt.com/g/g-UPQXoVGbN-trace-labs-buddy)
-- [OSINT INCEPTION 🚀 - A start.me page of the best OSINT start.me projects](https://start.me/p/Pwy0X4/osint-inception)
-- Project OSINT inception is used by [SMART - Start Me Aggregated Resource Tool](https://smart.myosint.training)
-- [OSINT INCEPTION GITHUB 🏢 - Project Links](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links)
-- [GOOGLE CSE 🇬 - Google Custom Search Engine of the top start.me resources](https://start.me/p/Pwy0X4/osint-inception)
-- [FACIAL RECOGNITION 👤 - Tracking Military personnel with facial recognition](https://twitter.com/OSINT_Tactical/status/1498694266754899978)
-- [OSINT BOOKMARKLETS 🏷️ - Semi-Automated Faster Searches](https://github.com/C3n7ral051nt4g3ncy/OSINT-Bookmarklets)
-- [Protintelligence 🐍 - Python Tool](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence)
-- [W3b0s1nt (WebOSINT) 🐍  - Python Tool](https://github.com/C3n7ral051nt4g3ncy/webosint)
-- [WhatsMyName-Python 🐍 - Unofficial WMN Python Script I made for myself](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python)
-- [Masto OSINT Tool 🐍 - Python tool to gather information on Mastodon users and instances](https://github.com/C3n7ral051nt4g3ncy/Masto)
-- [Just Trak'EM 🐍 - Python tool to search for Sports Tracker Profiles](https://github.com/C3n7ral051nt4g3ncy/JustTrakEM)
-- [People Count Tool 🧑‍🤝‍🧑 - Python tool running on a development server (Flask), uses YOLOv5 Artificial Intelligence to count people from an image.](https://github.com/C3n7ral051nt4g3ncy/PCT)
-- [FB2MKTP 🐍  - Python tool to get Facebook user ID and to go from FB profile to Marketplace account.](https://github.com/C3n7ral051nt4g3ncy/FB2MKTP)
-- [GitOSINT Bot 🤖  - Discord OSINT Bot](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot)
-- Tutorial 📚 [- cURL for OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT)
-- Tutorial 📚 [- Obsidian | Made 2 templates](https://github.com/C3n7ral051nt4g3ncy/Obsidian)
-- Tutorial 📚 [- Using a Virtual Environment for OSINT Python tools](https://github.com/C3n7ral051nt4g3ncy/python_virtual_environment)
-- First to find the Google Chat Technique 🕵️‍♂️ [- First to find and mention the Google Chat Technique to check if a Gmail address or Google Group exists, with the ability to also get the photo of the user, and GAIA ID](https://twitter.com/OSINT_Tactical/status/1635386804441600001?s=20)
-- Facial Recognition Trick and Tip 👤 [- Found that 2 different Facial Recognition tools don't work with black and white photos of faces, a simple trick solves this issue](https://twitter.com/OSINT_Tactical/status/1661055926424551439)
-- First to find the Protonmail Custom Domain trick ⚛️ [- Found that the API shows the main email address for any custom domain that uses a catch-all, no matter what the input in front of {%@domain.com} is](https://twitter.com/OSINT_Tactical/status/1666505637780398101?s=20)
-- Created a Map (in French) of firearms that have been used (confirmed shots fired), stolen, or seen on social media during the France June/July 2023 Riots. The map was/is used by Law Enforcement, French and foreign OSINT community members, and viewed thousands of times --> [Click here to see the Map](https://goo.gl/maps/vszdNxCvkVFChcDm8)
-- First to find the Google Calendar OSINT Technique 📆 [- Found a way of checking if any email is tied to a Google Account by using Google Calendar](https://twitter.com/OSINT_Tactical/status/1677405840146309121?s=20)
-- Found a new technique for Snapchat Map in November 2023 to get the date and time of a video
-- Geolocating an individual through [Poop app data](https://www.linkedin.com/posts/yoni-recently-shared-a-jaw-dropping-case-share-7363940685575540737-983z)
-- Finding the [exact date and time a Google Review was posted](https://www.linkedin.com/posts/heres-a-brilliant-osint-technique-from-ugcPost-7391999675186380801-74rY) 
 
+<!-- OSINT PROJECTS & RESEARCH -->
+
+<details>
+<summary><b>🛠️ &nbsp; ᴏꜱɪɴᴛ ᴛᴏᴏʟꜱ · ʀᴇꜱᴇᴀʀᴄʜ · ᴏᴘᴇɴ ꜱᴏᴜʀᴄᴇ</b></summary>
 
 <br>
 
-:octocat: **GitHub Code | Projects contributions:** 
-      
-- https://whatsmyname.app [WhatsMyName OSINT Tool](https://github.com/WebBreacher/WhatsMyName) created by [@WebBreacher](https://github.com/WebBreacher) and by [@OSINTCombine](https://github.com/OSINTCombine)
-- [Obsidian OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates) in collaboration with [@WebBreacher](https://github.com/WebBreacher)
-- [OSINT Stuff Tool Collection](https://github.com/cipher387/osint_stuff_tool_collection) created by [@cipher387](https://github.com/cipher387)
-- [Twayback Python OSINT Tool](https://github.com/Mennaruuk/twayback) by [@Mennaruuk](https://github.com/Mennaruuk)
-- [Maigret OSINT Tool](https://github.com/soxoj/maigret) by [@Soxoj](https://github.com/soxoj)
-- [Mailcat email OSINT Tool](https://github.com/sharsil/mailcat) by [@sharsil](https://github.com/sharsil)
-      
-<!-- OSINT-PROJECT-LIST:END --></p> 
-      
+<div align="center">
+
+Tools, original research, investigative techniques, tutorials,
+and contributions to the global OSINT community.
+
+<img src="https://img.shields.io/badge/OSINT_TOOLS-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/PYTHON-22d3ee?style=flat-square"/>
+<img src="https://img.shields.io/badge/RESEARCH-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/OPEN_SOURCE-22d3ee?style=flat-square"/>
+
+</div>
+
+<br>
+
+---
+
+### 01 / 𝙾𝚂𝙸𝙽𝚃 𝚃𝙾𝙾𝙻𝚂 & 𝙿𝚁𝙾𝙹𝙴𝙲𝚃𝚂
+
+A collection of tools and projects I've developed to support OSINT investigations, research, and automation.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[🦅 HandleHawk](https://github.com/C3n7ral051nt4g3ncy/HandleHawk)**
+
+Username reconnaissance tool.
+
+<img src="https://img.shields.io/badge/USERNAME_RECON-a855f7?style=flat-square"/>
+
+</td>
+<td width="50%" valign="top">
+
+**[🐘 Masto Maltego Transform](https://github.com/C3n7ral051nt4g3ncy/Masto_Maltego_Transform)**
+
+Maltego Transform for Mastodon OSINT investigations.
+
+<img src="https://img.shields.io/badge/MALTEGO-22d3ee?style=flat-square"/>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**[🐘 Masto OSINT](https://github.com/C3n7ral051nt4g3ncy/Masto)**
+
+Python tool to gather information on Mastodon users and instances.
+
+<img src="https://img.shields.io/badge/MASTODON-a855f7?style=flat-square"/>
+
+</td>
+<td valign="top">
+
+**[🌐 WebOSINT](https://github.com/C3n7ral051nt4g3ncy/webosint)**
+
+W3b0s1nt — Python OSINT tool.
+
+<img src="https://img.shields.io/badge/PYTHON-22d3ee?style=flat-square"/>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**[👤 WhatsMyName Python](https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python)**
+
+Unofficial WhatsMyName Python script I created for my own use.
+
+<img src="https://img.shields.io/badge/USERNAME_OSINT-a855f7?style=flat-square"/>
+
+</td>
+<td valign="top">
+
+**[🐍 Protintelligence](https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence)**
+
+Python-based OSINT tool.
+
+<img src="https://img.shields.io/badge/PYTHON-22d3ee?style=flat-square"/>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**[🏷️ OSINT Bookmarklets](https://github.com/C3n7ral051nt4g3ncy/OSINT-Bookmarklets)**
+
+Bookmarklets for faster, semi-automated OSINT searches.
+
+<img src="https://img.shields.io/badge/AUTOMATION-a855f7?style=flat-square"/>
+
+</td>
+<td valign="top">
+
+**[📍 Just Trak'EM](https://github.com/C3n7ral051nt4g3ncy/JustTrakEM)**
+
+Python tool to search for Sports Tracker profiles.
+
+<img src="https://img.shields.io/badge/GEOINT-22d3ee?style=flat-square"/>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**[👥 People Count Tool](https://github.com/C3n7ral051nt4g3ncy/PCT)**
+
+Flask-based Python tool using YOLOv5 AI to count people in an image.
+
+<img src="https://img.shields.io/badge/AI_%2F_COMPUTER_VISION-a855f7?style=flat-square"/>
+
+</td>
+<td valign="top">
+
+**[🐍 FB2MKTP](https://github.com/C3n7ral051nt4g3ncy/FB2MKTP)**
+
+Python tool to retrieve Facebook user IDs and pivot from Facebook profiles to Marketplace accounts.
+
+<img src="https://img.shields.io/badge/SOCMINT-22d3ee?style=flat-square"/>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**[🤖 GitOSINT Bot](https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot)**
+
+Discord OSINT bot.
+
+<img src="https://img.shields.io/badge/DISCORD_BOT-a855f7?style=flat-square"/>
+
+</td>
+<td valign="top">
+
+**[֎ Trace Labs Buddy GPT](https://chatgpt.com/g/g-UPQXoVGbN-trace-labs-buddy)**
+
+Custom GPT designed to help teams before and during Trace Labs CTF events.
+
+<img src="https://img.shields.io/badge/AI_ASSISTANT-22d3ee?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+### 02 / 𝙾𝚂𝙸𝙽𝚃 𝙸𝙽𝙲𝙴𝙿𝚃𝙸𝙾𝙽
+
+<div align="center">
+
+**A curated collection of OSINT resources and start.me projects.**
+
+<a href="https://start.me/p/Pwy0X4/osint-inception">
+<img src="https://img.shields.io/badge/🚀_EXPLORE_OSINT_INCEPTION-a855f7?style=for-the-badge"/>
+</a>
+
+</div>
+
+<br>
+
+| Project | Description |
+|:--|:--|
+| [🚀 OSINT INCEPTION](https://start.me/p/Pwy0X4/osint-inception) | A start.me collection of the best OSINT start.me projects |
+| [🏢 OSINT INCEPTION GitHub](https://github.com/C3n7ral051nt4g3ncy/OSINT_Inception-links) | GitHub repository containing project links |
+| [🇬 Google Custom Search Engine](https://start.me/p/Pwy0X4/osint-inception) | Google CSE of top start.me resources |
+| [🔗 SMART Integration](https://smart.myosint.training) | OSINT INCEPTION is used by SMART — Start Me Aggregated Resource Tool |
+
+<br>
+
+---
+
+### 03 / 𝙾𝚁𝙸𝙶𝙸𝙽𝙰𝙻 𝙾𝚂𝙸𝙽𝚃 𝚁𝙴𝚂𝙴𝙰𝚁𝙲𝙷
+
+<div align="center">
+
+**Discoveries, investigative techniques, and research shared with the OSINT community.**
+
+<img src="https://img.shields.io/badge/ORIGINAL_RESEARCH-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/TECHNIQUES_%26_TIPS-22d3ee?style=flat-square"/>
+
+</div>
+
+<br>
+
+**🔎 Google Chat OSINT Technique**
+
+First to discover and publicly share a technique to check whether a Gmail address or Google Group exists, potentially revealing a profile photo and GAIA ID.
+
+[↗ View Research](https://twitter.com/OSINT_Tactical/status/1635386804441600001?s=20)
+
+---
+
+**📆 Google Calendar OSINT Technique**
+
+Discovered a method to check whether an email address is associated with a Google account using Google Calendar.
+
+[↗ View Research](https://twitter.com/OSINT_Tactical/status/1677405840146309121?s=20)
+
+---
+
+**⚛️ ProtonMail Custom Domain Technique**
+
+First to discover and share a technique involving ProtonMail's API, revealing the main email address associated with certain custom domains using catch-all configurations, regardless of the local part entered before `@domain.com`.
+
+[↗ View Research](https://twitter.com/OSINT_Tactical/status/1666505637780398101?s=20)
+
+---
+
+**👤 Facial Recognition — Military Personnel**
+
+Research investigating the identification and tracking of military personnel using facial recognition.
+
+[↗ View Research](https://twitter.com/OSINT_Tactical/status/1498694266754899978)
+
+---
+
+**🧠 Facial Recognition — Black & White Images**
+
+Discovered that two facial recognition tools did not work with black-and-white facial images and shared a simple workaround.
+
+[↗ View Technique](https://twitter.com/OSINT_Tactical/status/1661055926424551439)
+
+---
+
+**🗺️ French Riots — Firearms Intelligence Map (2023)**
+
+Created a map documenting firearms used (confirmed shots fired), stolen, or observed on social media during the June–July 2023 riots in France.
+
+The map was used by law enforcement, French and international OSINT community members, and received thousands of views.
+
+[↗ Explore the Map](https://goo.gl/maps/vszdNxCvkVFChcDm8)
+
+---
+
+**👻 Snapchat Map — Video Timestamp Discovery**
+
+Discovered a technique in November 2023 to recover the date and time of a Snapchat Map video.
+
+---
+
+**📍 Geolocation Through Poop App Data**
+
+Investigative technique demonstrating how app data can be leveraged for geolocation.
+
+[↗ View Research](https://www.linkedin.com/posts/yoni-recently-shared-a-jaw-dropping-case-share-7363940685575540737-983z)
+
+---
+
+**⭐ Google Reviews — Exact Timestamp Extraction**
+
+Research demonstrating how to find the exact date and time a Google Review was posted.
+
+[↗ View Research](https://www.linkedin.com/posts/heres-a-brilliant-osint-technique-from-ugcPost-7391999675186380801-74rY)
+
+<br>
+
+---
+
+### 04 / 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻𝚂 & 𝙻𝙴𝙰𝚁𝙽𝙸𝙽𝙶
+
+Practical guides and resources to help OSINT practitioners improve their workflows.
+
+| Tutorial | Description |
+|:--|:--|
+| [📚 cURL for OSINT](https://github.com/C3n7ral051nt4g3ncy/cURL_for_OSINT) | Using cURL for OSINT investigations |
+| [📓 Obsidian Templates](https://github.com/C3n7ral051nt4g3ncy/Obsidian) | Two custom Obsidian templates |
+| [🐍 Python Virtual Environments](https://github.com/C3n7ral051nt4g3ncy/python_virtual_environment) | Using virtual environments with OSINT Python tools |
+
+<br>
+
+---
+
+### 05 / 𝙾𝙿𝙴𝙽-𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙽𝚃𝚁𝙸𝙱𝚄𝚃𝙸𝙾𝙽𝚂
+
+<div align="center">
+
+**Contributing to the tools and projects that power the OSINT ecosystem.**
+
+<img src="https://img.shields.io/badge/COMMUNITY_CONTRIBUTOR-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/GITHUB_OPEN_SOURCE-22d3ee?style=flat-square"/>
+
+</div>
+
+<br>
+
+| Project | Maintainer / Collaboration |
+|:--|:--|
+| [🔍 WhatsMyName](https://github.com/WebBreacher/WhatsMyName) | Created by [@WebBreacher](https://github.com/WebBreacher) and [@OSINTCombine](https://github.com/OSINTCombine) — [whatsmyname.app](https://whatsmyname.app) |
+| [📓 Obsidian OSINT Templates](https://github.com/WebBreacher/obsidian-osint-templates) | In collaboration with [@WebBreacher](https://github.com/WebBreacher) |
+| [🧰 OSINT Stuff Tool Collection](https://github.com/cipher387/osint_stuff_tool_collection) | Created by [@cipher387](https://github.com/cipher387) |
+| [🐍 Twayback](https://github.com/Mennaruuk/twayback) | Created by [@Mennaruuk](https://github.com/Mennaruuk) |
+| [🔎 Maigret](https://github.com/soxoj/maigret) | Created by [@Soxoj](https://github.com/soxoj) |
+| [✉️ Mailcat](https://github.com/sharsil/mailcat) | Created by [@sharsil](https://github.com/sharsil) |
+
+<br>
+
+---
+
+<div align="center">
+
+**𝚂𝙷𝙰𝚁𝙴 𝙺𝙽𝙾𝚆𝙻𝙴𝙳𝙶𝙴 · 𝙱𝚄𝙸𝙻𝙳 𝚃𝙾𝙾𝙻𝚂 · 𝙰𝙳𝚅𝙰𝙽𝙲𝙴 𝙾𝚂𝙸𝙽𝚃**
+
+<a href="https://github.com/C3n7ral051nt4g3ncy?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-a855f7?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br>
+
 </details>
 
-<br>
-
-<!-- Media --> <br>
+<!-- Media --> 
 <details>
 <summary><b>📰 &nbsp; &nbsp; ᴍᴇᴅɪᴀ ᴏɴ ᴍʏ ᴏꜱɪɴᴛ ʀᴇꜱᴇᴀʀᴄʜ &nbsp;&nbsp;&nbsp;  </b></summary>
 <p>
