@@ -1054,8 +1054,6 @@ My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was 
       
 <br>
 
-
-
 <!-- My Sponsors -->
 <details>
 <summary><b> 🚀 &nbsp; My Sponsors &nbsp;&nbsp;&nbsp; </b></summary>
@@ -1063,20 +1061,8 @@ My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was 
 
 | 🌟 **A Heartfelt Thank You to My GitHub Sponsors** 🌟 |
 |------------------------------------------------------|
-|                                                      |
-| To all my wonderful sponsors on GitHub,              |
-|                                                      |
-| Your support is not just a financial gesture; it's a recognition of the countless hours, sleepless nights, and passionate commitment I've dedicated to the OSINT community. |
-|                                                      |
-| While the work I do is a labor of love and primarily offered for free, your sponsorship is a testament to its value and impact. It's an affirmation that the effort I put in is meaningful, helpful, and positively contributing to a community we all hold dear. |
-|                                                      |
-| Your belief in me and my projects fuels my motivation to do more, explore further, and strive for excellence. I promise to continue to uphold the trust you've placed in me and keep pushing the boundaries of what I can achieve for our community. |
-|                                                      |
-| Here's to the amazing journey ahead, and to all of you who've decided to be a part of it. 🙏❤️ |
-|                                                      |
 
 <br>
-
       
 <table>
 <tr>
@@ -1094,5 +1080,4 @@ My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was 
             <sub><b>purpl3ac3</b></sub>
         </a>
     </td>
-
 <br>
