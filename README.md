@@ -1095,18 +1095,4 @@ My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was 
         </a>
     </td>
 
-      
 <br>
-
-<br>
-
-
-
-      
-<!---
-C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-      
-      
-      
