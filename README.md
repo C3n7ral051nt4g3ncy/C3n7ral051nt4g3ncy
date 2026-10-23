@@ -313,43 +313,192 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
   
 <br>
 
-<!-- Using My OSINT (Open Source Intelligence) skills & tactics to help Law Enforcement -->
+
+<!-- OSINT SUPPORT TO LAW ENFORCEMENT -->
+
 <details>
-<summary><b>👮‍♀️ &nbsp; &nbsp; Leveraging My Expertise in OSINT to Assist Law Enforcement Agencies &nbsp;&nbsp;&nbsp; </b></summary>
-<p>
+<summary><b>👮🏻‍♂️ &nbsp; ᴏꜱɪɴᴛ ɪɴ ᴀᴄᴛɪᴏɴ · ʟᴀᴡ ᴇɴꜰᴏʀᴄᴇᴍᴇɴᴛ</b></summary>
 
-<!-- Helping Law Enforcement Cases:START -->
+<br>
 
-- Identified and located an individual wanted by the FBI by using only Open Source Intelligence --> <a href=https://x.com/OSINT_Tactical/status/1728460721762279843>See the Post on X. </a></li>
+<div align="center">
 
-- Found data on a criminal wanted by the Australian NSW Police --> <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/40c0246b-fe22-419f-8dd9-7c6ce1bf596e> Report was sent in 2023 </a></li>
+**Applying Open-Source Intelligence to Real-World Investigations**
 
-- Found new <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/80c4501f-8e46-40cb-a999-48254369d135> intelligence on a high priority wanted criminal </a>. The intel was submitted to Europol - FAST (Fugitive Active Search Team)</li>
+Supporting law enforcement agencies through OSINT research,
+digital investigations, geolocation, and actionable intelligence.
 
-- Located an individual wanted by the UK NCA (National Crime agency) and provided the NCA with his <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/f7bb9ca0-2b21-40dd-a79c-0ef7efb39118> current location and the exact GPS coordinates of where to find him. </a></li>
+<br>
 
-- Found information on a wanted criminal in UK and submitted the <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/70eb781f-c0ec-4b34-8b0c-507747ded764> data </a> to the London Metropolitan Police.
+<img src="https://img.shields.io/badge/OSINT_INVESTIGATIONS-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/LAW_ENFORCEMENT-22d3ee?style=flat-square"/>
+<img src="https://img.shields.io/badge/DIGITAL_INTELLIGENCE-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/GEOLOCATION-22d3ee?style=flat-square"/>
 
-- Helped French law enforcement identify & arrest a group of criminals using only OSINT (Open Source Intelligence) <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/a50be2f0-bcd6-49fa-9b3b-601c33c5623e> Click to see the Thank you note from the Gendarmerie Nationale Commander. </a></li>
+</div>
 
-- Carried out extensive research that lead to finding intelligence on a Ukrainian hacker wanted by the US Government with a 1 million price tag on his head (Full findings report is 33 pages)  <a href=https://x.com/OSINT_Tactical/status/1741230287856537705> Twitter post. </a></li>
+<br>
 
-- Identified **Toray Larry-Neal Benjamin Brown** (aka **Toray Brown**), a **UK citizen**, as the perpetrator of an antisemitic assault against **two young Jewish children** at **Paris Charles de Gaulle Airport (CDG)**, during which he reportedly said “dance pig dance”, identification originated from an OSINT pivot via the TikTok account **@saint._17**, which recorded and posted the video, and was subsequently confirmed by the account @SwordOfSalomon and the **French Jewish Defense League (LDJ)**: https://www.liguedefensejuive.com/swordofsalomon-toray-larry-neal-brown-est-lauteur-de-lagression-antisemite-a-laeroport-paris-charles-de-gaulle-2025-12-26.html
-  
-- Helped the NSW Police to identify a Satanic Pedophile ring lead by Landon Germanotta-Mills: https://www.osint.industries/press-release/osint-industries-supports-nsw-police-in-strike-force-constantine-investigation
-  
-- Helped Romanian Police dismantle a trafficking network in Constanța targeting vulnerable young women: https://www.linkedin.com/posts/nathanielfried_five-traffickers-arrested-a-15-year-old-activity-7437841339079176192-wmPH/
+---
 
+### 01 / 𝙸𝙽𝚃𝙴𝚁𝙽𝙰𝚃𝙸𝙾𝙽𝙰𝙻 𝙵𝚄𝙶𝙸𝚃𝙸𝚅𝙴 𝙸𝙽𝚅𝙴𝚂𝚃𝙸𝙶𝙰𝚃𝙸𝙾𝙽𝚂
 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<!-- Helping Law Enforcement Cases:END --></p> 
-      
+**🇺🇸 FBI — United States**
+
+<img src="https://img.shields.io/badge/FUGITIVE_IDENTIFICATION-a855f7?style=flat-square"/>
+
+Identified and located an individual wanted by the FBI using exclusively Open-Source Intelligence.
+
+**[↗ View Investigation](https://x.com/OSINT_Tactical/status/1728460721762279843)**
+
+</td>
+<td width="50%" valign="top">
+
+**🇬🇧 NCA — United Kingdom**
+
+<img src="https://img.shields.io/badge/PRECISE_GEOLOCATION-22d3ee?style=flat-square"/>
+
+Located an individual wanted by the UK's National Crime Agency and provided intelligence on their location, including exact GPS coordinates.
+
+**[↗ View Supporting Evidence](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/f7bb9ca0-2b21-40dd-a79c-0ef7efb39118)**
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**🇪🇺 Europol — FAST**
+
+<img src="https://img.shields.io/badge/HIGH_PRIORITY_TARGET-a855f7?style=flat-square"/>
+
+Discovered new intelligence concerning a high-priority wanted criminal.
+
+Findings were submitted to Europol's Fugitive Active Search Team (FAST).
+
+**[↗ View Supporting Evidence](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/80c4501f-8e46-40cb-a999-48254369d135)**
+
+</td>
+<td valign="top">
+
+**🇬🇧 Metropolitan Police — London**
+
+<img src="https://img.shields.io/badge/CRIMINAL_INTELLIGENCE-22d3ee?style=flat-square"/>
+
+Identified information concerning a wanted criminal in the United Kingdom and submitted the intelligence to London's Metropolitan Police.
+
+**[↗ View Submitted Intelligence](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/70eb781f-c0ec-4b34-8b0c-507747ded764)**
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**🇦🇺 NSW Police — Australia**
+
+<img src="https://img.shields.io/badge/OSINT_INTELLIGENCE-a855f7?style=flat-square"/>
+
+Uncovered intelligence concerning an individual wanted by the New South Wales Police.
+
+A report containing the findings was submitted in 2023.
+
+**[↗ View 2023 Report](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/40c0246b-fe22-419f-8dd9-7c6ce1bf596e)**
+
+</td>
+<td valign="top">
+
+**🇺🇸 US Government — Wanted Hacker**
+
+<img src="https://img.shields.io/badge/CYBERCRIME_RESEARCH-22d3ee?style=flat-square"/>
+
+Conducted extensive research into a Ukrainian hacker wanted by US authorities, with a reported **$1 million reward**.
+
+The investigation produced a **33-page intelligence report**.
+
+**[↗ View Research](https://x.com/OSINT_Tactical/status/1741230287856537705)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+### 02 / 𝙾𝚂𝙸𝙽𝚃 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 · 𝙲𝚁𝙸𝙼𝙸𝙽𝙰𝙻 𝙸𝙽𝚅𝙴𝚂𝚃𝙸𝙶𝙰𝚃𝙸𝙾𝙽𝚂
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🇫🇷 Gendarmerie Nationale — France**
+
+<img src="https://img.shields.io/badge/IDENTIFICATION_%26_ARREST-a855f7?style=flat-square"/>
+
+Assisted French law enforcement in identifying and arresting a group of criminals using exclusively Open-Source Intelligence.
+
+Received a thank-you note from a Gendarmerie Nationale commander acknowledging the assistance.
+
+**[↗ View Official Thank-You Note](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/a50be2f0-bcd6-49fa-9b3b-601c33c5623e)**
+
+</td>
+<td width="50%" valign="top">
+
+**🇦🇺 NSW Police — Strike Force Constantine**
+
+<img src="https://img.shields.io/badge/CHILD_PROTECTION-22d3ee?style=flat-square"/>
+
+Provided OSINT assistance in an Australian investigation into an alleged organized child sexual abuse network associated with Landon Germanotta-Mills.
+
+The investigation is referenced in an OSINT Industries press release concerning NSW Police's Strike Force Constantine.
+
+**[↗ Read Case Publication](https://www.osint.industries/press-release/osint-industries-supports-nsw-police-in-strike-force-constantine-investigation)**
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+**🇷🇴 Romanian Police — Constanța**
+
+<img src="https://img.shields.io/badge/HUMAN_TRAFFICKING-a855f7?style=flat-square"/>
+
+Provided OSINT support to an investigation into a human trafficking network in Constanța, Romania, targeting vulnerable young women.
+
+The investigation reportedly contributed to dismantling the network.
+
+**[↗ View Case Publication](https://www.linkedin.com/posts/nathanielfried_five-traffickers-arrested-a-15-year-activity-7437841339079176192-wmPH/)**
+
+</td>
+<td valign="top">
+
+**🇫🇷 Paris CDG — OSINT Identification Research**
+
+<img src="https://img.shields.io/badge/SOCMINT_INVESTIGATION-22d3ee?style=flat-square"/>
+
+Conducted an OSINT investigation following a reported antisemitic assault against two young Jewish children at Paris Charles de Gaulle Airport, during which the words "dance pig dance" were reportedly spoken.
+
+The investigation began with an OSINT pivot through the TikTok account **@saint._17**, which recorded and published the footage.
+
+The investigation reported the identification of **Toray Larry-Neal Benjamin Brown (Toray Brown)**, described as a UK citizen. That identification was subsequently reported by @SwordOfSalomon and the French Jewish Defense League (LDJ).
+
+The identification and allegations should be understood as published claims rather than an independently verified judicial finding.
+
+**[↗ View Published Report](https://www.liguedefensejuive.com/swordofsalomon-toray-larry-neal-brown-est-lauteur-de-lagression-antisemite-a-laeroport-paris-charles-de-gaulle-2025-12-26.html)**
+
+</td>
+</tr>
+</table>
+
+</div>
+
 </details>
-
-<br>
-
-<br>
-
 
 <!-- OSINT PROJECTS & RESEARCH -->
 
