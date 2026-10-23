@@ -1417,8 +1417,6 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 <details>
 <summary><b>🤝  ꜱᴘᴏɴꜱᴏʀꜱʜɪᴘꜱ & ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴꜱ</b></summary>
 
-<br>
-
 <p align="center">
   <b>SUPPORT OPEN-SOURCE INTELLIGENCE</b>
 </p>
@@ -1443,8 +1441,6 @@ Sponsors receive recognition and visibility through:
 - **Social Media Exposure** — A shoutout on X (Twitter), reaching an audience of 21K+ followers.
 - **Project Visibility** — Your logo featured on an upcoming OSINT tool or project, with written recognition and your company or website details.
 
-<br>
-
 ---
 
 ### ✦ Speaking & Workshops
@@ -1462,6 +1458,7 @@ I am available for speaking engagements, practical workshops, and technical pres
            
 <br>
 
+
 <p align="center">
   <img width="600" src="https://user-images.githubusercontent.com/104733166/223172129-6825fb73-2328-47bc-a9b2-a0cbe48e1916.png" alt="OSINT Punk Conference"/>
   <br>
@@ -1476,7 +1473,7 @@ I am available for speaking engagements, practical workshops, and technical pres
 
 I also design and develop **OSINT Capture The Flag (CTF)** challenges and events tailored to organizations, conferences, and training programs.
 
-**Previous experience:** Contributed to the creation of the October 2023 Purple Pill OSINT CTF in Paris, France.
+**Previous experience:** Contributed to the creation of CTF competitions for law enforcement agencies, OSINT Industries, and the October 2023 Purple Pill OSINT CTF in Paris, France.
 
 <a href="https://tactical-osint-academy.com"><b>Tactical OSINT Academy</b></a> was also an event partner alongside the French Navy and cybersecurity companies including Yogosha and Neverhack.
 
