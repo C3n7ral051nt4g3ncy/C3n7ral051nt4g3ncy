@@ -13,7 +13,9 @@
 </div>
 
 <br>
-<p align="center"> <img width="433" height="177" src="https://user-images.githubusercontent.com/104733166/236908488-60f25e53-47a8-43d5-a45a-b9b9dd37900e.gif"/>
+
+<p align="center"> <img src="https://raw.githubusercontent.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/main/assets/C3n7ral_banner.svg" width="100%" alt="C3n7ral051nt4g3ncy"/> </p>
+
 <br>
 <br>
 
