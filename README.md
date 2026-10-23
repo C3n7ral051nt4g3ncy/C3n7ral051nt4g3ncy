@@ -1021,38 +1021,6 @@ My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was 
 <br>  
 
 <br>
-      
-<!-- Stats  -->
-<details>
-<summary><b>:octocat: &nbsp; ɢɪᴛʜᴜʙ ꜱᴛᴀᴛꜱ &nbsp;&nbsp;&nbsp; </b></summary>
-<p>    
-<br>
-<br>
-      
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=C3n7ral051nt4g3ncy&label=Profile%20views&color=blueviolet&style=flat" alt="C3n7ral051nt4g3ncy" /> </p>
-
-<br>
-
-<p align="center"><img width="66" src="https://user-images.githubusercontent.com/104733166/187053502-4155cb3f-e633-4a9f-9461-c3de0f53760b.png"></p>
-
-<br>
-
-
-
-
-<br>
-
-<p align="center"><img src="https://wakatime.com/share/@de14e947-18ae-4619-8175-1510bf69f10b/cbfa3b63-c82c-4717-836c-f2c7a405b95a.svg" width="433"></p>
-
-
-<br>
-
-</p>
-</details>
-
-<br>
-      
-<br>
 
 <!-- My Sponsors -->
 <details>
