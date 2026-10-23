@@ -1,12 +1,21 @@
 <div align="center">
 
-![GitHub](https://img.shields.io/badge/github-black.svg?style=for-the-badge&logo=github&logoColor=green)
-![GitHub Actions](https://img.shields.io/badge/github%20actions-black.svg?style=for-the-badge&logo=githubactions&logoColor=green)
-![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python&logoColor=green)
-![Heroku](https://img.shields.io/badge/heroku-black.svg?style=for-the-badge&logo=heroku&logoColor=green)
-![PyCharm](https://img.shields.io/badge/pycharm-black?style=for-the-badge&logo=pycharm&logoColor=green&color=black&labelColor=black)
-![FreeCodeCamp](https://img.shields.io/badge/Freecodecamp-black.svg?&style=for-the-badge&logo=freecodecamp&logoColor=green)
-![Codecademy](https://img.shields.io/badge/Codecademy-black?style=for-the-badge&logo=codecademy&logoColor=green)
+<img src="https://img.shields.io/badge/GitHub-0a0a0e?style=for-the-badge&logo=github&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-0a0a0e?style=for-the-badge&logo=githubactions&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Python-0a0a0e?style=for-the-badge&logo=python&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Bash-0a0a0e?style=for-the-badge&logo=gnubash&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Kali_Linux-0a0a0e?style=for-the-badge&logo=kalilinux&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Tor-0a0a0e?style=for-the-badge&logo=torproject&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Maltego-0a0a0e?style=for-the-badge&logo=maltego&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Docker-0a0a0e?style=for-the-badge&logo=docker&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Flask-0a0a0e?style=for-the-badge&logo=flask&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/SQLite-0a0a0e?style=for-the-badge&logo=sqlite&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/OpenAI-0a0a0e?style=for-the-badge&logo=openai&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Linux-0a0a0e?style=for-the-badge&logo=linux&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/Heroku-0a0a0e?style=for-the-badge&logo=heroku&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/PyCharm-0a0a0e?style=for-the-badge&logo=pycharm&logoColor=22d3ee"/>
+<img src="https://img.shields.io/badge/FreeCodeCamp-0a0a0e?style=for-the-badge&logo=freecodecamp&logoColor=a855f7"/>
+<img src="https://img.shields.io/badge/Codecademy-0a0a0e?style=for-the-badge&logo=codecademy&logoColor=22d3ee"/>
 
 ---
 
@@ -17,8 +26,29 @@
 <p align="center"> <img src="https://raw.githubusercontent.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/main/assets/C3n7ral_banner.svg" width="100%" alt="C3n7ral051nt4g3ncy"/> </p>
 
 <br>
-      
-## <p align="center"> ```𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟢 𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟣``` 𝚊𝚗𝚍 𝚆𝚎𝚕𝚌𝚘𝚖𝚎! 👋 <br> <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&size=21&duration=3333&pause=333&color=00F72B&background=000000&vCenter=true&multiline=true&width=433&height=133&lines=%24+whoami;C3n7ral051nt4gency.;%5Baka+OSINT+Tactical%5D%F0%9F%93%A1)](https://git.io/typing-svg)</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/%F0%9F%A5%87_1st_Place-11x-a855f7?style=for-the-badge&labelColor=0a0a0e"/>
+<img src="https://img.shields.io/badge/%F0%9F%A5%88_2nd_Place-6x-22d3ee?style=for-the-badge&labelColor=0a0a0e"/>
+<img src="https://img.shields.io/badge/%F0%9F%A5%89_3rd_Place-7x-9333ea?style=for-the-badge&labelColor=0a0a0e"/>
+<img src="https://img.shields.io/badge/Trace_Labs-3x_Gold-FFD700?style=for-the-badge&labelColor=0a0a0e"/>
+<img src="https://img.shields.io/badge/%F0%9F%8F%B4_OSINTion-Black_Badge-111111?style=for-the-badge&labelColor=0a0a0e"/>
+</p>
+
+<br>
+           
+## <p align="center"> ```𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟢 𝟢𝟣𝟣𝟢𝟣𝟢𝟢𝟣``` 𝚊𝚗𝚍 𝚆𝚎𝚕𝚌𝚘𝚖𝚎! 👋 <br> [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Goldman&size=21&duration=3333&pause=333&color=00F72B&background=000000&vCenter=true&multiline=true&width=433&height=133&lines=%24+whoami;C3n7ral051nt4gency.;%5Baka+OSINT+Tactical%5D%F0%9F%93%A1)](https://git.io/typing-svg) </p>
+
+<p align="center">
+<a href="https://infosec.exchange/@C3n7ral051nt4g3ncy"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"/></a>
+<a href="https://twitter.com/OSINT_Tactical"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/badge/Keybase-33A0FF.svg?style=for-the-badge&logo=Keybase&logoColor=white"/></a>
+<a href="https://www.reddit.com/user/OSINT_Tactical"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
+<a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://top.gg/user/453260546671001600"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
+
+<br>
+<br>
 
 <p align="center"> 
 
@@ -30,72 +60,117 @@
 
 </p>
 
----
-
-###  <p align="center"> ᴏɴ ɢɪᴛʜᴜʙ ᴛᴏ ꜱʜᴀʀᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ | ʙᴜɪʟᴅ ᴏꜱɪɴᴛ ᴛᴏᴏʟꜱ | ᴀɴᴅ ᴛᴏ ʟᴇᴀʀɴ. </p>    
-
-<p align="center"> 𝙾𝚂𝙸𝙽𝚃 | 𝚂𝙾𝙲𝙼𝙸𝙽𝚃 | 𝙶𝙴𝙾𝙸𝙽𝚃 | 𝙸𝙼𝙸𝙽𝚃 | 𝙿𝚢𝚝𝚑𝚘𝚗 | 𝙳𝚊𝚛𝚔 𝚆𝚎𝚋 | </p>
-<p align="center"> <img width="15" src="https://user-images.githubusercontent.com/104733166/219610687-0da86d7d-dcd7-451e-8ac7-f4f484092dea.png"> <a href=https://www.tracelabs.org>ᴛʀᴀᴄᴇ ʟᴀʙꜱ<a> 𝟑𝐗 𝐆𝐨𝐥𝐝 𝐁𝐚𝐝𝐠𝐞, 𝟑𝐗 𝐒𝐢𝐥𝐯𝐞𝐫 𝐁𝐚𝐝𝐠𝐞, 𝐚𝐧𝐝 𝟏𝐗 𝐁𝐫𝐨𝐧𝐳𝐞 𝐁𝐚𝐝𝐠𝐞 </p> 
-<p align="center"> <img width="15" src="https://github.com/user-attachments/assets/6290e4f8-97dd-4818-b11a-b712de5761cc"> <a a href=https://www.missingpersonshackathon.com.au>ɴᴍᴘ ʜᴀᴄᴋᴀᴛʜᴏɴ<a> 𝟐𝟎𝟐𝟒 𝐖𝐢𝐧𝐧𝐞𝐫 </p> 
-<p align="center"> <img width="66" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/82ec8424-8403-44dc-b83d-85191fad9026"> 𝑪𝑻𝑭 𝑬𝒏𝒈𝒊𝒏𝒆𝒆𝒓</p>     
-<p align="center">ᄃYBΣЯ</p>
-<p align="center">🌎 ƚɘᴎɒ|q ɘʜƚ ƚᴎiꙅo</p>
-<p align="center"> <img width="19" src="https://github.com/user-attachments/assets/ba02d6a6-78b2-4ad9-b818-18d01789942a"> <a href=https://osint.industries>OSINT Industries Lead Trainer<a></li>
 <br>
 
+<!-- ░▒▓ IDENTITY ▓▒░ -->
 
-
-
-
-<p align="center"> <img width="233" height="233" src="https://user-images.githubusercontent.com/104733166/187543867-773fe7a1-093c-4dd9-9029-a84fae9ddc99.gif"/>
-
+<table align="center">
+<tr><td align="left">
 <br>
-      
-<p align="center">
-<a href="https://infosec.exchange/@C3n7ral051nt4g3ncy"><img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white"/></a>
-<a href="https://twitter.com/OSINT_Tactical"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://keybase.io/osint_intel"><img src="https://img.shields.io/badge/Keybase-33A0FF.svg?style=for-the-badge&logo=Keybase&logoColor=white"/></a>
-<a href="https://www.reddit.com/user/OSINT_Tactical"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/></a>
-<a href="https://github.com/C3n7ral051nt4g3ncy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://top.gg/user/453260546671001600"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-
+<b>𝚂𝙷𝙰𝚁𝙴 𝙺𝙽𝙾𝚆𝙻𝙴𝙳𝙶𝙴 &nbsp;·&nbsp; 𝙱𝚄𝙸𝙻𝙳 𝙾𝚂𝙸𝙽𝚃 𝚃𝙾𝙾𝙻𝚂 &nbsp;·&nbsp; 𝙻𝙴𝙰𝚁𝙽</b>
+<br><br>
+<img src="https://img.shields.io/badge/OSINT-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/SOCMINT-22d3ee?style=flat-square"/>
+<img src="https://img.shields.io/badge/GEOINT-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/IMINT-22d3ee?style=flat-square"/>
+<img src="https://img.shields.io/badge/DARK_WEB-a855f7?style=flat-square"/>
+<img src="https://img.shields.io/badge/PYTHON-22d3ee?style=flat-square"/>
+<img src="https://img.shields.io/badge/CYBER-a855f7?style=flat-square"/>
+<br><br>
+<img width="19" src="https://github.com/user-attachments/assets/65532c9d-d566-47a7-acbd-318289e3a1f0"/> &nbsp;<b><a href="https://c3n7ral051nt4g3ncy.github.io/index.html">c3n7ral051nt4g3ncy.github.io</a></b> &nbsp;—&nbsp;Site</b><br>
+<img width="19" src="https://github.com/user-attachments/assets/ba02d6a6-78b2-4ad9-b818-18d01789942a"/> &nbsp;<b><a href="https://osint.industries">OSINT Industries</a></b> &nbsp;—&nbsp; Lead OSINT Trainer</b><br>
+<img width="19" src="https://github.com/user-attachments/assets/99f6a882-7a54-4559-83d9-bf0f4b150239"/> &nbsp;<b><a href="https://osint.industries">Les BLaireaux des Légendes</a></b> &nbsp;—&nbsp;Co-Founder of the Legendary Badgers CTF Team</b><br>
+<img width="19" src="https://github.com/user-attachments/assets/f2afc428-73f2-495a-9345-a22363f45b0f"/> &nbsp;<b><a href="https://deepthreats.fr">French Army OSINT CTF - Deep Threats</a></b> &nbsp;—&nbsp; 2026 Winner</b><br>
+<img width="16" src="https://user-images.githubusercontent.com/104733166/219610687-0da86d7d-dcd7-451e-8ac7-f4f484092dea.png"/> &nbsp;<b><a href="https://www.tracelabs.org">Trace Labs</a></b> &nbsp;—&nbsp; 3x Gold Badge · 3x Silver · 1x Bronze<br>
+<img width="16" src="https://github.com/user-attachments/assets/6290e4f8-97dd-4818-b11a-b712de5761cc"/> &nbsp;<b><a href="https://www.missingpersonshackathon.com.au">Australian NMP Hackathon</a></b> &nbsp;—&nbsp; 2024 Winner<br>
+<img width="16" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/82ec8424-8403-44dc-b83d-85191fad9026"/> &nbsp;<b>Certified Hacktoria CTF Engineer
+<br><br>
+</td></tr>
+</table>
 <br>
-
-<div align="center">
-
-
-</div>
-            
-</div>
-
-
-</div>
-
-<p align="center"><a href="https://keybase.io/osint_intel/pgp_keys.asc"><code>PGP PUB KEY</code></a> </p>
 
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=C3n7ral051nt4g3ncy&label=Profile%20views&color=blueviolet&style=flat" alt="C3n7ral051nt4g3ncy"/></p>
 
-<br>
-<p align="center"> 
-Site: <a href=https://c3n7ral051nt4g3ncy.github.io/index.html>c3n7ral051nt4g3ncy.github.io<a>
-</p>        
-<br>
-<br>
+
 
 <p align="center"> 
 
-<img width="600px" src="https://github-readme-stats-lake-omega.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="C3n7ral051nt4g3ncy's GitHub Stats"/>
+<img width="600px" src="https://github-readme-stats-lake-omega.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line&hide_border=true&title_color=a855f7&icon_color=22d3ee&text_color=c9c4e8&bg_color=0a0a0e" alt="C3n7ral051nt4g3ncy's GitHub Stats"/>
    
 <br>
       
-<img width="600px" src="https://github-readme-stats-lake-omega.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&&&langs_count=4&line&theme=ocean_dark&midnight-purple&bg_color=100,000000,8a2eff" alt="C3n7ral051nt4g3ncy's Most Used Languages"/>
+<img width="600px" src="https://github-readme-stats-lake-omega.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&langs_count=6&layout=compact&hide_border=true&title_color=a855f7&text_color=c9c4e8&bg_color=0a0a0e" alt="C3n7ral051nt4g3ncy's Most Used Languages"/>
+
+<br>
+
+<img width="600px" src="https://streak-stats.demolab.com?user=C3n7ral051nt4g3ncy&hide_border=true&background=0a0a0e&stroke=1d1a2e&ring=a855f7&fire=22d3ee&currStreakLabel=a855f7&sideLabels=c9c4e8&dates=6e6a86&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
 </p>
 
 <br>
 
+
+<p align="center"> 
+
+<img width="600px" src="https://github-readme-stats-lake-omega.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line&hide_border=true&title_color=a855f7&icon_color=22d3ee&text_color=c9c4e8&bg_color=0a0a0e" alt="C3n7ral051nt4g3ncy's GitHub Stats"/>
+   
 <br>
+      
+<img width="600px" src="https://github-readme-stats-lake-omega.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&langs_count=6&layout=compact&hide_border=true&title_color=a855f7&text_color=c9c4e8&bg_color=0a0a0e" alt="C3n7ral051nt4g3ncy's Most Used Languages"/>
+
+<br>
+
+<img width="600px" src="https://streak-stats.demolab.com?user=C3n7ral051nt4g3ncy&hide_border=true&background=0a0a0e&stroke=1d1a2e&ring=a855f7&fire=22d3ee&currStreakLabel=a855f7&sideLabels=c9c4e8&dates=6e6a86&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+
+</p>
+
+
+<br>
+
+<h2 align="center">⚡ ꜰᴇᴀᴛᴜʀᴇᴅ ᴀʀꜱᴇɴᴀʟ</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/C3n7ral051nt4g3ncy/HandleHawk">
+        <img width="350" src="https://github-readme-stats-lake-omega.vercel.app/api/pin/?username=C3n7ral051nt4g3ncy&repo=HandleHawk&border_color=7c3aed&title_color=a855f7&icon_color=22d3ee&text_color=c9c4e8&bg_color=0a0a0e"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/C3n7ral051nt4g3ncy/Masto">
+        <img width="350" src="https://github-readme-stats-lake-omega.vercel.app/api/pin/?username=C3n7ral051nt4g3ncy&repo=Masto&border_color=7c3aed&title_color=a855f7&icon_color=22d3ee&text_color=c9c4e8&bg_color=0a0a0e"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/C3n7ral051nt4g3ncy/webosint">
+        <img width="350" src="https://github-readme-stats-lake-omega.vercel.app/api/pin/?username=C3n7ral051nt4g3ncy&repo=webosint&border_color=7c3aed&title_color=a855f7&icon_color=22d3ee&text_color=c9c4e8&bg_color=0a0a0e"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python">
+        <img width="350" src="https://github-readme-stats-lake-omega.vercel.app/api/pin/?username=C3n7ral051nt4g3ncy&repo=WhatsMyName-Python&border_color=7c3aed&title_color=a855f7&icon_color=22d3ee&text_color=c9c4e8&bg_color=0a0a0e"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence">
+        <img width="350" src="https://github-readme-stats-lake-omega.vercel.app/api/pin/?username=C3n7ral051nt4g3ncy&repo=Prot1ntelligence&border_color=7c3aed&title_color=a855f7&icon_color=22d3ee&text_color=c9c4e8&bg_color=0a0a0e"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/C3n7ral051nt4g3ncy/OSINT-Bookmarklets">
+        <img width="350" src="https://github-readme-stats-lake-omega.vercel.app/api/pin/?username=C3n7ral051nt4g3ncy&repo=OSINT-Bookmarklets&border_color=7c3aed&title_color=a855f7&icon_color=22d3ee&text_color=c9c4e8&bg_color=0a0a0e"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 
 <!-- Whois.COA -->
 <details>
