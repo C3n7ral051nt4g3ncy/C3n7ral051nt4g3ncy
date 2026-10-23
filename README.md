@@ -121,7 +121,7 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <li>🥈 3x Trace Labs Silver Badge Award</li>
 <li>🥉 1x Trace Labs Bronze Badge Award</li>
 <li>⚖️ Trace Labs Judge (OSINTomatico Conference 2023, Madrid, Spain)</li> 
-<li>👾 Hacktoria Community Member | Ⓗ Hacktoria CTF Team Member</li>
+<li>👾 Hacktoria Community Member | Ⓗ Hacktoria Ex-CTF Team Member</li>
 
 <br>
 <li>🧠 Regular contributor to the OSINT community & enjoys bringing to light new OSINT techniques. </li>
