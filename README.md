@@ -171,148 +171,171 @@
 
 <br>
 
-
-<!-- Whois.COA -->
+<!-- WHOIS / OSINT PROFILE -->
 <details>
-<summary><b> :mag:&nbsp; &nbsp; ᴡʜᴏɪꜱ.ᴄ3ɴ7ʀᴀʟ051ɴᴛ4ɢ3ɴᴄʏ &nbsp;&nbsp;&nbsp;</b></summary><p>
-<img align="right" width="99" height="99"  src="https://user-images.githubusercontent.com/104733166/166296936-0dd0d432-4d6a-42ab-9000-189cebfbceff.png" />
-      
-<blockquote>
-      
-$ 𝚠𝚑𝚘𝚊𝚖𝚒
-  
-<br><ul style="list-style-type:disc;">
-<li>🔥 Passionate about: CYBER | OSINT | SOCMINT | IMINT | GEOINT | DARK WEB | CRYPTO | PYTHON | OPSEC :lock: </li>
-
-<li>👨‍🏫 OSINT Trainer <a href=https://github.com/TacticalOsintAcademy>@Tactical OSINT Academy</a></li>
-<li>👨‍🏫 OSINT Trainer <a href=https://www.osint.industries>@OSINT Industries</a></li>
-<li>👨‍🏫 OSINT Trainer <a href=https://www.ess-e.fr>@École Supérieure de la Sûreté des Entreprises</a> For the DSAC course (Data Security Analyst) and ROC (Renseignement d'Origine Cyber) </li>
-<li>👑 Founding Member of <a href=https://osint.uk>OSINT.UK</a></li>
-
-<li>🏴 The OSINTion Black Badge </li>
-<li>🥇 3x Trace Labs Gold Badge award </li> 
-<li>🥇 1st place in the 2026 Deep Threats OSINT CTF by the French Ministry of Armed Forces (DGA Cyber Campus)</li> 
-<li>🏆 2024 NMP Hackathon Winner </li>
-<li>🥈 3x Trace Labs Silver Badge Award</li>
-<li>🥉 1x Trace Labs Bronze Badge Award</li>
-<li>⚖️ Trace Labs Judge (OSINTomatico Conference 2023, Madrid, Spain)</li> 
-<li>👾 Hacktoria Community Member | Ⓗ Hacktoria Ex-CTF Team Member</li>
+<summary><b>🔎 &nbsp; ᴡʜᴏɪꜱ · ᴏꜱɪɴᴛ ᴘʀᴏꜰɪʟᴇ & ᴀᴄʜɪᴇᴠᴇᴍᴇɴᴛꜱ</b></summary>
 
 <br>
-<li>🧠 Regular contributor to the OSINT community & enjoys bringing to light new OSINT techniques. </li>
-<li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/HandleHawk>HandleHawk 🦅 Username Reconnaissance tool<a></li>
-<li>👨‍💻 Creator of the Masto <a href=https://github.com/C3n7ral051nt4g3ncy/Masto_Maltego_Transform>Maltego Transform<a></li>
-<li>🤖 Creator of the OpenAI GPT called <a href=https://chatgpt.com/g/g-UPQXoVGbN-trace-labs-buddy>Trace Labs Buddy<a> ֎ </li>
-<li>🤖 Creator of the Discord Bot called <a href=https://github.com/C3n7ral051nt4g3ncy/GitOSINT_Bot>GitOSINT<a> 🦾</li> 
-<li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/Masto>Masto<a> 🐘</li> 
-<li>👨‍💻 Creator of <a href=https://pypi.org/project/masto/>the Masto OSINT Tool Python package (on PyPI)</a> 🐘 </li>
-<li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/webosint>WebOSINT<a> 🌐 </li> 
-<li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/WhatsMyName-Python>WhatsMyName Python<a> 👤 </li> 
-<li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/JustTrakEM>Just Trak'EM<a> 📍 </li>     
-<li>🤓 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/PCT>People Count Tool<a> 🧑‍🤝‍🧑</li> 
-<li>👨‍💻 Creator of <a href=https://github.com/C3n7ral051nt4g3ncy/FB2MKTP>FB2MKTP - Facebook to Marketplace<a> 🇫🇧 ==> 🇲 🇰 🇹 🇵</li> 
-<br>
-<li>🎤 Invited as a speaker at <a href=https://childrescuecoalition.org/icac-sprint-2026/>ICAC Sprint (Internet Crimes Against Children), in Boca Raton, organized by the CRC and US Homeland Security<a></li> 
-<li>🎤 Invited as a speaker at <a href=https://childrescuecoalition.org/child-rescue-coalition-supports-global-live-stream-offender-operation-the-largest-and-most-successful-operation-of-its-kind/>OP Pharos in Germany, organized by the CRC and US Homeland Security<a></li> 
-<li>🎤 Invited as a speaker at OSINT Connect 2025 (Paris, France)</li> 
-<li>🎤 Invited as a speaker at <a href=https://web.archive.org/save/https://europe.forum-fic.com/en/associated-event-osint-day> FIC 2023 (International CyberSecurity Forum | OSINT Day)<a></li> 
-<li>🎤 Invited as a speaker at <a href=https://www.youtube.com/watch?v=Yk8JNM2Snno>  OSINT Punk 23 </a> #OSINTPunk23</li> 
-<li>🎤 Invited as a speaker at <a href=https://www.linkedin.com/company/osinterdam/>  OSINTerdam 07-2024 (Amsterdam, NL) </a> #OSINTerdam</li> 
-<li>👮‍♂️ Invited as an OSINT analyst at Bordeaux Montaigne University, for the <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/683c8081-c8ba-467c-8dd4-13c7f624b562> first #OSINT Law Enforcement Bootcamp 2024<a>, organized by CyberNeTic Project, to work and help solve Cold Cases for the French National Police and Gendarmerie .
-<br>
-<br>
-<li>✒️ Volunteer report writer for the <a href=https://www.tracelabs.org>Trace Labs<a> organization after Trace Labs CTF events.</li> 
-<li>🗃️ Archiver at <a href=https://archive.org/>The Internet Archive</a> (Wayback Machine)</li> 
-<li>✍️ Project WhatsMyName 2nd top contributor behind <a href=https://github.com/WebBreacher> @WebBreacher</a> WMN is one of the top OSINT Tools for username enumeration: https://whatsmyname.app (GitHub: https://github.com/WebBreacher/WhatsMyName)</li> 
-<li>✍️ Writer/Contributor to the OSINT Newsletter by Jake Creps. Shared a 404 Bypass Technique that was found on Gravatar <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/210e4a44-409f-4767-a5cd-aa6456b61265>in the October 2023 OSINT Newsletter</a> 
-<br>
-<br>
-<li>🥇1st place - Deep Threats 2026 OSINT CTF by the French Ministry of Defense</li> 
-<li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2025.04 </li> 
-<li>🥇1st place - Gendarmerie Nationale Intranet OSINT CTF (French Law Enforcement CTF) </li> 
-<li>🥇1st place - CTF HUNT, École de Guerre Économique (Economic War School) </li> 
-<li>🥇1st place - 2024 Australia NMP (National Missing Persons) Hackathon (215 Teams Competed) </li>
-<li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2024.01 </li> 
-<li>🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2023.02 </li>    
-<li>🥇1st place in the OSINT GAMES CTF TENET | 2022: created by <a href=https://github.com/WebBreacher> @WebBreacher</a></li>
-<li>🥇1st Team to finish the HEXA OSINT CTF 2024 Challenges phase (V3) (4th overall after the reports "analysis" phase). Team "Les Blaireaux des Légendes"</a></li>
-<li>🥇1st place in the Hacktoria OSINT CTF | Downtown Murderer 2022</li> 
-<li>🥇1st place in the CTF OSINT Bleuet de France 2022 (AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense)</li>
-<li>🥈2nd place in the 2024 Stranger Case OSINT CTF organised by Esna Bretagne. CTF partnership with Orange Cyberdefense, Root Me, and Yubico.
-<li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2024.04</li>
-<li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.11 | OSE (Operation Safe Escape)</li>
-<li>🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.03</li>
-<li>🥈2nd place Hacktoria CTF Operation Manhunt 2023 </li>
-<li>🥈2nd Place Hacktoria CTF OP Galaxios 2022</li>
-<li>🥉3rd Place in the OSINT Combine CTF | 2025 </li>
-<li>🥉3rd Place in the Osmosis Halloween OSINT CTF | 2025 </li>
-<li>🥉3rd Place Oscar Zulu OSINT CTF | Le Bruit des Bottes| 2025 </li>
-<li>🥉3rd Place MilOsint CTF | 2021 </li>
-<li>🥉3rd Place in the Stranger Case OSINT CTF organised by Esna Bretagne and Esn'Hack ./CTF partnership with DGA - Direction Générale de l'Armement (French Government Defense procurement and technology agency), Airbus Cybersecurity, Diateam & Apixit | 2022</li>
-<br>
-<li> Participated in the <a href=https://www.missingpersonshackathon.com.a> 2024 Australian National Missing Persons (NMP) Hackathon</a></li>
-<li> Qualified for the HEXA OSINT CTF final at LeHack 2024 (https://lehack.org), Team Blaireaux des Légendes (1st place in the Challenges | 4th after the reports analysis) </a></li> 
-<li> One of 9 out of +700 to fully complete the <a href=https://samplectf.com> SampleCTF</a></li> 
-<li> 6th place HEXA OSINT CTF 2021 Team OSINT-B33R [Sopra Steria and La Fabrique Défense, French Ministry of Defense]</li>
-<li> 6th place out of 170 Teams in the 2024 Gendarmerie Nationale CTE (Capture The Evidence) 
-<li> 8th place HEXA OSINT CTF V2 2023 Team CogitOSINT Ergo Sum [Sopra Steria]- 116 Teams participated.</li> 
-<li> Participated in the 2022 DefCon https://defcon.org Trace Labs OSINT CTF, Las Vegas, USA (7th Place with The Osint Unit)</li> 
-<li> Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams</li>
+<div align="center">
+
+### `$ whoami`
+
+**OSINT Researcher · Developer · Trainer · Community Contributor**
+
+<img src="https://img.shields.io/badge/OSINT-a855f7?style=flat-square" alt="OSINT"/>
+<img src="https://img.shields.io/badge/CYBER-22d3ee?style=flat-square" alt="Cyber"/>
+<img src="https://img.shields.io/badge/RESEARCH-a855f7?style=flat-square" alt="Research"/>
+<img src="https://img.shields.io/badge/CTF-22d3ee?style=flat-square" alt="CTF"/>
 
 <br>
+<img width="99" height="99" src="https://user-images.githubusercontent.com/104733166/166296936-0dd0d432-4d6a-42ab-9000-189cebfbceff.png" alt="Profile image"/>
 
-<li> Mentionned in The <a href=https://www.cambridge.org/core/books/cambridge-handbook-of-facial-recognition-in-the-modern-state/facial-recognition-technology-in-context/A4F5E2C52EF9CFD27E8F04D0DD60074D> Cambridge Handbook of Facial Recognition in the Modern State </a> (Published by Cambridge University Press) </li>
-<li> Mentionned by RUSI:Royal United Services Institute (UK's leading defence and security think tank), on the following 62-page paper --> <a href=https://static.rusi.org/330_OP_FutureOfOpenSourceIntelligence_FinalWeb0.pdf> The Future of Open Source Intelligence for UK National Security</a>  [Archived on WayBack Machine] </li>
-<li> Featured on a Facial Recognition Guide by Henk Van Hess on GIJN (Global Investigative Journalism Network) --> <a href=https://gijn.org/resource/facial-recognition-made-easy/>Facial Recognition made easy</a> [Archived on WayBack Machine] </li>
-<li> Mentionned by the <a href=https://baj.media/be/karysnae/sposoby-raspoznavaniya-lic-instrumenty-dlya-jurnalistov> Belarussian Association of Journalists</a> [Archived on WayBack Machine] </li>
-<li> First to find and reveal weaknesses on Sports Tracker App which has Public Tracking on by default for iOS devices  --> <a href=https://x.com/OSINT_Tactical/status/1770471606038483270/> Thread posted on X </a> </li>
-<li> Featured in this French press article about the top French OSINTers --> <a href=https://www.latribune.fr/opinions/tribunes/renseignement-de-source-ouverte-osint-l-excellence-francaise-peut-elle-encore-etre-renforcee-956805.html> OSINT, Can French excellence still be reinforced</a> [Archived on WayBack Machine] </li>
-<li> Featured in the <a href=https://www.aege.fr/global/gene/link.php?doc_id=97>January 2024 issue of Mag'OSINT</a> [Archived on WayBack Machine] </li>
-<li> Featured in <a href=https://intelekto.fr/21221-top-15-comptes-twitter-osint/>Intelekto's top 15 OSINT accounts to follow on Twitter</a> [Archived on WayBack Machine] </li>
-<li> Featured in <a href=https://github.com/cqcore/OSINT-Practitioners/> CqCore's TOP Osint Practitioners list</a> </li>
-<li> Featured on <a href=https://0xtechrock.gumroad.com/l/OSINTers>0xtechrock's OSINTers list to follow</a> [Archived on WayBack Machine] </li>
-<li> Featured in the <a href=https://osintnewsletter.com/p/50> OSINT Newsletter Issue 50 (April 2024) </a></li>  
-<li> Featured in the <a href=https://osintnewsletter.com/p/the-osint-newsletter-missing-persons-trace-labs> Jake Creps 28th of August 2023 OSINT Newsletter --> Finding Missing Persons - Trace Labs CTF Review (DEFCON 31) </a> [Archived on WayBack Machine]</li>   
-<li> Featured in the <a href=https://osintnewsletter.com/p/the-osint-newsletter-july-2023> Jake Creps July 2023 OSINT Newsletter</a> regarding the Google Calendar OSINT Technique that I found. [Archived on WayBack Machine]</li> 
-<li> Featured in the <a href=https://644w7.r.a.d.sendibm1.com/mk/mr/sh/1f8JAEjGcfF85v6RgNXbSXMreF/Lizgp5au4XQp> Intelfe July 2023 Newsletter</a> regarding the Google Calendar OSINT Technique that I brought to light.</li> 
-<li> Featured in the July 2023 <a href=https://preview.mailerlite.com/d5n9d8q0s0/2260397387069529087/o2t5/> OSINT Jobs Newsletter</a> regarding the new Google Calendar OSINT Technique that I found. [Archived on WayBack Machine]</li>    
-<li> Featured in the <a href=https://osintnewsletter.com/p/march-2023> Jake Creps March 2023 OSINT Newsletter</a> in relation to a new Google Chat Technique I brought to light. [Archived on WayBack Machine]</li> 
-<li> Featured in <a href=https://sector035.nl/articles/2022-35>Week in OSINT 2022-35</a> by <a href=https://twitter.com/Sector035>@Sector035. </a> [Archived on WayBack Machine] <a/></li>
-<li> Featured again in <a href=https://sector035.nl>sector035's newsletter</a> in relation to Masto OSINT tool in <a href=https://sector035.nl/articles/2022-45>Week in OSINT 2022-45 <a/> [Archived on WayBack Machine] </li>
-<li> Mentioned in the resources of <a href=https://github.com/WebBreacher> @WebBreacher</a> at the 2022 DEFCON30 | Recon Village: 
- <a href=https://reconvillage.org/talks/#talk-1> The Future of Collecting Data from the Past: OSINT Now and Beyond</a> (Resource: OSINT Inception). [Archived on WayBack Machine] <a/></li>
-<li> OSINT-FR Hall of Fame: <a href=https://osintfr.com/en/our-osinters-are-talented>Talented OSINTers</a> [Archived on WayBack Machine] </a></li>
-<li> Featured in the <a href=https://preview.mailerlite.com/c7j8u4n9s2/2037099115355053047/o5z0/>OSINT Jobs September 2022 newsletter - This Week's OSINT Tips and Tricks. </a>[Archived on WayBack Machine]</li>
-<li> Work done on partial Facial Recognition was <a href=https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/c858d586-06ef-434c-bb39-6d91ce78a743>mentionned at the INCYBER Forum 2024</a> by Sylvain Hajri (Navlys), founder of Epieos.</li>
-<li> Facial Recognition work was presented at the <a href=https://user-images.githubusercontent.com/104733166/203194889-b04994b2-1357-4a2a-9f73-e2ba0c87b238.png> RootedCON 2022 in Madrid</a></li>
-<li> Beta-Tester for <a href=https://app.osintracker.com>OSINTracker</a> and OSINT Rooms on <a href=https://tryhackme.com> TryHackMe</a></li>
-<li> Osintracker Sponsor --> https://www.osintracker.com/partnerships</li>
-<li> 2024 InCyber Forum Partner #Fic2024 for the OSINT Day</li>
-<li> Contributed to <a href=https://www.osint.industries>Osint Industries</a> the Facebook Marketplace module</li>
-<li> Featured in an <a href=https://www.osint.industries/project/using-facebook-to-crack-fraud-and-find-missing-persons-with-osint-tactical>OSINT Industries Case Study:</a> "Using Facebook to Crack Fraud and Find Missing Persons with OSINT Tactical."</li>
-<li> Feb 2025: Helped <a href=https://www.osint.industries>OSINT Industries</a> with various modules</li>
-<li> Feb 2025: <a href="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/blob/main/assets/Linkedin.png">Posted</a> about a vulnerability on <a href="https://www.pappers.fr">Pappers</a> exposing hundreds of passport numbers. It was fixed by Pappers in less than 24 hours.</li>
-<li> March 2025: <a href="https://github.com/user-attachments/assets/31cb2d88-9b95-4e15-a7d8-f1b9bafc1b17"> Complimented by Maltego for creating Masto Maltego Transform.</a>
-<li> Mentioned in an article by OSINT Industries on 14/03/2025 --> <a href="https://www.osint.industries/post/osint-on-facebook-find-emails-phone-numbers-and-more">OSINT on Facebook: Find Emails, Phone Numbers, and More.</a>
-<li> Featured in the <a href=https://osintnewsletter.com/p/episode-2-scraping-smarter-ai-agents> August 2025 OSINT Newsletter.</li>
-<li> Beta-Tester for the CTF "Mission Vérité", created by Steven DEFFOUS and the Hack'olyte association for BPI France</li>
-<li> Featured in the October 2025 <a href=https://www.osintnewsletter.osint-jobs.com/p/signal-osint-and-digital-archiving> OSINT Jobs Newsletter for sharing a guide on how to extract date and time from a Google Review.</li>
-<li> Featured in the <a href=https://x.com/osintnewsletter/status/1962863078325797044> OSINT Newsletter on X for sharing a Google Calendar technique and the Gmail Dots technique. </li>
-<li> Contributed challenges to the  <a href=https://ctf.osint.industries> OSINT Industries CTF. </li>
+</div>
 
+---
 
+### 01 / TRAINING & AFFILIATIONS
 
+- 👨‍🏫 OSINT Trainer [@Tactical OSINT Academy](https://github.com/TacticalOsintAcademy)
+- 👨‍🏫 OSINT Trainer [@OSINT Industries](https://www.osint.industries)
+- 👑 Founding Member of [OSINT.UK](https://osint.uk)
 
-</ul>  
-</blockquote>
-  
-</p>
+---
+
+### 02 / HIGHLIGHTS & COMMUNITY
+
+- 🏴 The OSINTion Black Badge
+- 🥇 3x Trace Labs Gold Badge award
+- 🥇 1st place in the 2026 Deep Threats OSINT CTF by the French Ministry of Armed Forces (DGA Cyber Campus)
+- 🏆 2024 NMP Hackathon Winner
+
+---
+
+### 03 / TOOLS & SOFTWARE
+
+- 👨‍💻 Creator of various OSINT tools.
+
+---
+
+### 04 / SPEAKING & FIELD EVENTS
+
+- 🎤 Invited as a speaker at [ICAC Sprint (Internet Crimes Against Children), in Boca Raton, organized by the CRC and US Homeland Security](https://childrescuecoalition.org/icac-sprint-2026/)
+- 🎤 Invited as a speaker at [OP Pharos in Germany, organized by the CRC and US Homeland Security](https://childrescuecoalition.org/child-rescue-coalition-supports-global-live-stream-offender-operation-the-largest-and-most-successful-operation-of-its-kind/)
+- 🎤 Invited as a speaker at OSCON 2026, Zurich, Switzerland
+- 🎤 Invited as a speaker at OSINT Connect 2025 (Paris, France)
+- 🎤 Invited as a speaker at [FIC 2023 (International CyberSecurity Forum | OSINT Day)](https://web.archive.org/save/https://europe.forum-fic.com/en/associated-event-osint-day)
+- 🎤 Invited as a speaker at [OSINT Punk 23](https://www.youtube.com/watch?v=Yk8JNM2Snno) #OSINTPunk23
+- 🎤 Invited as a speaker at [OSINTerdam 07-2024 (Amsterdam, NL)](https://www.linkedin.com/company/osinterdam/) #OSINTerdam
+- 👮‍♂️ Invited as an OSINT analyst at Bordeaux Montaigne University, for the [first #OSINT Law Enforcement Bootcamp 2024](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/683c8081-c8ba-467c-8dd4-13c7f624b562) , organized by CyberNeTic Project, to work and help solve Cold Cases for the French National Police and Gendarmerie .
+
+---
+
+### 05 / COMMUNITY CONTRIBUTIONS
+
+- ✒️ Volunteer report writer for the [Trace Labs](https://www.tracelabs.org) organization after Trace Labs CTF events.
+- 🗃️ Archiver at [The Internet Archive](https://archive.org/) (Wayback Machine)
+- ✍️ Project WhatsMyName top contributor behind [@WebBreacher](https://github.com/WebBreacher)
+- ✍️ Writer/Contributor to the OSINT Newsletter by Jake Creps. Shared a 404 Bypass Technique that was found on Gravatar [in the October 2023 OSINT Newsletter](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/210e4a44-409f-4767-a5cd-aa6456b61265)
+
+---
+
+### 06 / CTF RESULTS — FIRST PLACE
+
+- 🥇1st place - Deep Threats 2026 OSINT CTF by the French Ministry of Defense
+- 🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2025.04
+- 🥇1st place - Gendarmerie Nationale Intranet OSINT CTF (French Law Enforcement CTF)
+- 🥇1st place - CTF HUNT, École de Guerre Économique (Economic War School)
+- 🥇1st place - 2024 Australia NMP (National Missing Persons) Hackathon (215 Teams Competed)
+- 🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2024.01
+- 🥇1st place - Gold Badge Award in the Trace Labs OSINT Search Party CTF 2023.02
+- 🥇1st place in the OSINT GAMES CTF TENET | 2022: created by [@WebBreacher](https://github.com/WebBreacher)
+- 🥇1st Team to finish the HEXA OSINT CTF 2024 Challenges phase (V3) (4th overall after the reports "analysis" phase). Team "Les Blaireaux des Légendes"
+- 🥇1st place in the Hacktoria OSINT CTF | Downtown Murderer 2022
+- 🥇1st place in the CTF OSINT Bleuet de France 2022 (AEGE War School and ONACVG/Bleuet de France , French Ministry of Defense)
+
+---
+
+### 07 / CTF RESULTS — SECOND PLACE
+
+- 🥈2nd place in the 2024 Stranger Case OSINT CTF organised by Esna Bretagne. CTF partnership with Orange Cyberdefense, Root Me, and Yubico.
+- 🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2024.04
+- 🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.11 | OSE (Operation Safe Escape)
+- 🥈2nd place - Silver Badge Award in the Trace Labs OSINT Search Party CTF 2022.03
+- 🥈2nd place Hacktoria CTF Operation Manhunt 2023
+- 🥈2nd Place Hacktoria CTF OP Galaxios 2022
+
+---
+
+### 08 / CTF RESULTS — THIRD PLACE
+
+- 🥉3rd Place in the OSINT Combine CTF | 2025
+- 🥉3rd Place in the Osmosis Halloween OSINT CTF | 2025
+- 🥉3rd Place Oscar Zulu OSINT CTF | Le Bruit des Bottes| 2025
+- 🥉3rd Place MilOsint CTF | 2021
+- 🥉3rd Place in the Stranger Case OSINT CTF organised by Esna Bretagne and Esn'Hack ./CTF partnership with DGA - Direction Générale de l'Armement (French Government Defense procurement and technology agency), Airbus Cybersecurity, Diateam & Apixit | 2022
+
+---
+
+### 09 / OTHER CTF RESULTS & PARTICIPATION
+
+- Participated in the [2024 Australian National Missing Persons (NMP) Hackathon](https://www.missingpersonshackathon.com.a)
+- Qualified for the HEXA OSINT CTF final at LeHack 2024 (https://lehack.org), Team Blaireaux des Légendes (1st place in the Challenges | 4th after the reports analysis)
+- One of 9 out of +700 to fully complete the [SampleCTF](https://samplectf.com)
+- 6th place HEXA OSINT CTF 2021 Team OSINT-B33R [Sopra Steria and La Fabrique Défense, French Ministry of Defense]
+- 6th place out of 170 Teams in the 2024 Gendarmerie Nationale CTE (Capture The Evidence)
+- 8th place HEXA OSINT CTF V2 2023 Team CogitOSINT Ergo Sum [Sopra Steria]- 116 Teams participated.
+- Participated in the 2022 DefCon https://defcon.org Trace Labs OSINT CTF, Las Vegas, USA (7th Place with The Osint Unit)
+- Participated Solo in the RACTF - Digital Overdose 2022 Conference CTF (Teams of 4 players), 27th place out of over 450 teams
+
+---
+
+### 10 / PUBLICATIONS, MEDIA & RECOGNITION
+
+- Mentionned in The [Cambridge Handbook of Facial Recognition in the Modern State](https://www.cambridge.org/core/books/cambridge-handbook-of-facial-recognition-in-the-modern-state/facial-recognition-technology-in-context/A4F5E2C52EF9CFD27E8F04D0DD60074D) (Published by Cambridge University Press)
+- Mentionned by RUSI:Royal United Services Institute (UK's leading defence and security think tank), on the following 62-page paper --> [The Future of Open Source Intelligence for UK National Security](https://static.rusi.org/330_OP_FutureOfOpenSourceIntelligence_FinalWeb0.pdf) [Archived on WayBack Machine]
+- Featured on a Facial Recognition Guide by Henk Van Hess on GIJN (Global Investigative Journalism Network) --> [Facial Recognition made easy](https://gijn.org/resource/facial-recognition-made-easy/) [Archived on WayBack Machine]
+- Mentionned by the [Belarussian Association of Journalists](https://baj.media/be/karysnae/sposoby-raspoznavaniya-lic-instrumenty-dlya-jurnalistov) [Archived on WayBack Machine]
+- First to find and reveal weaknesses on Sports Tracker App which has Public Tracking on by default for iOS devices --> [Thread posted on X](https://x.com/OSINT_Tactical/status/1770471606038483270/)
+- Featured in this French press article about the top French OSINTers --> [OSINT, Can French excellence still be reinforced](https://www.latribune.fr/opinions/tribunes/renseignement-de-source-ouverte-osint-l-excellence-francaise-peut-elle-encore-etre-renforcee-956805.html) [Archived on WayBack Machine]
+- Featured in the [January 2024 issue of Mag'OSINT](https://www.aege.fr/global/gene/link.php?doc_id=97) [Archived on WayBack Machine]
+- Featured in [Intelekto's top 15 OSINT accounts to follow on Twitter](https://intelekto.fr/21221-top-15-comptes-twitter-osint/) [Archived on WayBack Machine]
+- Featured in [CqCore's TOP Osint Practitioners list](https://github.com/cqcore/OSINT-Practitioners/)
+- Featured on [0xtechrock's OSINTers list to follow](https://0xtechrock.gumroad.com/l/OSINTers) [Archived on WayBack Machine]
+- Featured in the [OSINT Newsletter Issue 50 (April 2024)](https://osintnewsletter.com/p/50)
+- Featured in the [Jake Creps 28th of August 2023 OSINT Newsletter --> Finding Missing Persons - Trace Labs CTF Review (DEFCON 31)](https://osintnewsletter.com/p/the-osint-newsletter-missing-persons-trace-labs) [Archived on WayBack Machine]
+- Featured in the [Jake Creps July 2023 OSINT Newsletter](https://osintnewsletter.com/p/the-osint-newsletter-july-2023) regarding the Google Calendar OSINT Technique that I found. [Archived on WayBack Machine]
+- Featured in the [Intelfe July 2023 Newsletter](https://644w7.r.a.d.sendibm1.com/mk/mr/sh/1f8JAEjGcfF85v6RgNXbSXMreF/Lizgp5au4XQp) regarding the Google Calendar OSINT Technique that I brought to light.
+- Featured in the July 2023 [OSINT Jobs Newsletter](https://preview.mailerlite.com/d5n9d8q0s0/2260397387069529087/o2t5/) regarding the new Google Calendar OSINT Technique that I found. [Archived on WayBack Machine]
+- Featured in the [Jake Creps March 2023 OSINT Newsletter](https://osintnewsletter.com/p/march-2023) in relation to a new Google Chat Technique I brought to light. [Archived on WayBack Machine]
+- Featured in [Week in OSINT 2022-35](https://sector035.nl/articles/2022-35) by [@Sector035.](https://twitter.com/Sector035) [Archived on WayBack Machine]
+- Featured again in [sector035's newsletter](https://sector035.nl) in relation to Masto OSINT tool in [Week in OSINT 2022-45](https://sector035.nl/articles/2022-45) [Archived on WayBack Machine]
+- Mentioned in the resources of [@WebBreacher](https://github.com/WebBreacher) at the 2022 DEFCON30 | Recon Village: [The Future of Collecting Data from the Past: OSINT Now and Beyond](https://reconvillage.org/talks/#talk-1) (Resource: OSINT Inception). [Archived on WayBack Machine]
+- OSINT-FR Hall of Fame: [Talented OSINTers](https://osintfr.com/en/our-osinters-are-talented) [Archived on WayBack Machine]
+- Featured in the [OSINT Jobs September 2022 newsletter - This Week's OSINT Tips and Tricks.](https://preview.mailerlite.com/c7j8u4n9s2/2037099115355053047/o5z0/) [Archived on WayBack Machine]
+- Work done on partial Facial Recognition was [mentionned at the INCYBER Forum 2024](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/c858d586-06ef-434c-bb39-6d91ce78a743) by Sylvain Hajri (Navlys), founder of Epieos.
+- Facial Recognition work was presented at the [RootedCON 2022 in Madrid](https://user-images.githubusercontent.com/104733166/203194889-b04994b2-1357-4a2a-9f73-e2ba0c87b238.png)
+
+---
+
+### 11 / PARTNERSHIPS, RESEARCH & RECENT CONTRIBUTIONS
+
+- Beta-Tester for [OSINTracker](https://app.osintracker.com) and OSINT Rooms on [TryHackMe](https://tryhackme.com)
+- Osintracker Sponsor --> https://www.osintracker.com/partnerships
+- 2024 InCyber Forum Partner #Fic2024 for the OSINT Day
+- Contributed to [Osint Industries](https://www.osint.industries) the Facebook Marketplace module
+- Featured in an [OSINT Industries Case Study:](https://www.osint.industries/project/using-facebook-to-crack-fraud-and-find-missing-persons-with-osint-tactical) "Using Facebook to Crack Fraud and Find Missing Persons with OSINT Tactical."
+- Feb 2025: [Posted](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/blob/main/assets/Linkedin.png) about a vulnerability on [Pappers](https://www.pappers.fr) exposing hundreds of passport numbers. It was fixed by Pappers in less than 24 hours.
+- March 2025: [Complimented by Maltego for creating Masto Maltego Transform.](https://github.com/user-attachments/assets/31cb2d88-9b95-4e15-a7d8-f1b9bafc1b17)
+- Mentioned in an article by OSINT Industries on 14/03/2025 --> [OSINT on Facebook: Find Emails, Phone Numbers, and More.](https://www.osint.industries/post/osint-on-facebook-find-emails-phone-numbers-and-more)
+- Featured in the [August 2025 OSINT Newsletter.](https://osintnewsletter.com/p/episode-2-scraping-smarter-ai-agents)
+- Beta-Tester for the CTF "Mission Vérité", created by Steven DEFFOUS and the Hack'olyte association for BPI France
+- Featured in the October 2025 [OSINT Jobs Newsletter for sharing a guide on how to extract date and time from a Google Review.](https://www.osintnewsletter.osint-jobs.com/p/signal-osint-and-digital-archiving)
+- Featured in the [OSINT Newsletter on X for sharing a Google Calendar technique and the Gmail Dots technique.](https://x.com/osintnewsletter/status/1962863078325797044)
+- Contributed challenges to the [OSINT Industries CTF.](https://ctf.osint.industries)
+
+</div>
+
 </details>
-  
-<br>  
-  
-<br>
-
 
 <!-- OSINT SUPPORT TO LAW ENFORCEMENT -->
 
