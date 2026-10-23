@@ -464,11 +464,68 @@ https://user-images.githubusercontent.com/104733166/233765799-dbfc612f-c8cc-4dd8
 <br>
       
 <br>
-      
 
-<!-- Badges & CTF Events -->
+<!-- OSINT / CYBER / CTF SHOWCASE -->
 <details>
-<summary><b> 🔖 &nbsp; ᴄʏʙᴇʀ | ᴏꜱɪɴᴛ | ᴄᴛꜰ ʙᴀᴅɢᴇꜱ &nbsp;&nbsp;&nbsp; </b></summary>
+<summary><b>🏆 &nbsp; ᴄʏʙᴇʀ · ᴏꜱɪɴᴛ · ᴄᴛꜰ &nbsp; | &nbsp; ᴀᴡᴀʀᴅꜱ & ʙᴀᴅɢᴇꜱ</b></summary>
+
+<br>
+
+<div align="center">
+
+### 🏆 THE ACHIEVEMENT VAULT
+
+**OSINT competitions · Investigative challenges · Cybersecurity badges**
+
+<img src="https://img.shields.io/badge/DEEP_THREATS_2026-1ST_PLACE-a855f7?style=for-the-badge" alt="Deep Threats 2026 first place" />
+<img src="https://img.shields.io/badge/TRACE_LABS-3×_GOLD-eab308?style=for-the-badge" alt="Trace Labs 3 gold badges" />
+<img src="https://img.shields.io/badge/NMP_HACKATHON-2024_WINNER-22d3ee?style=for-the-badge" alt="NMP Hackathon winner" />
+
+<sub>Every original certificate, badge image, competition result, description and verification link is preserved in the full gallery below.</sub>
+
+</div>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+<img width="84" src="https://github.com/user-attachments/assets/02560467-2e4a-4fe1-9eb5-c90d40a96d09" alt="Deep Threats badge"/><br>
+<b>DEEP THREATS 2026</b><br>
+<sub>1st · Fastest time, zero fails<br>1st · Best OSINT report</sub>
+</td>
+<td align="center" width="33%">
+<img width="84" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/cc65da5b-7c7b-4252-ac74-0d5fc3f6d6fd" alt="Trace Labs Gold badge"/><br>
+<b>TRACE LABS</b><br>
+<sub>3 Gold · 3 Silver<br>1 Bronze</sub>
+</td>
+<td align="center" width="33%">
+<img width="84" src="https://github.com/user-attachments/assets/a5abedfe-a2df-4503-b2ff-7bf87c7074dd" alt="NMP Hackathon"/><br>
+<b>NMP HACKATHON</b><br>
+<sub>Australia · 2024<br>1st Place</sub>
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+**EXPLORE THE FULL COLLECTION**
+
+<img src="https://img.shields.io/badge/OSINT-ACHIEVEMENTS-a855f7?style=flat-square" alt="OSINT achievements" />
+<img src="https://img.shields.io/badge/CTF-RESULTS-22d3ee?style=flat-square" alt="CTF results" />
+<img src="https://img.shields.io/badge/BADGES-VERIFIED-a855f7?style=flat-square" alt="Verified badges" />
+
+</div>
+
+<br>
+
+<details>
+<summary><b>▸ &nbsp; OPEN COMPLETE BADGE & CTF GALLERY — all awards, images, details and links</b></summary>
+
+<br>
+
 <p>
       
 <br>
@@ -618,11 +675,6 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
       
 <br>
-<br>
-
-      
-<br>   
-<p align="center"><img width="233" height="133" src="https://user-images.githubusercontent.com/104733166/177000301-2a92c2b8-f067-4280-a108-f885c2544a6e.png"/><br>
       
 
   
@@ -941,58 +993,111 @@ OhSINT                     |  Sakura                  | 7-day Streak            
          
 <br>
 
-
-
-
-
-      
 </p>
-</details>
-      
-<br>
-      
-<br>
 
-<!-- Sponsorship  -->
+
+</details>
+
+<br>
+</details>
+
+
+
+<!-- SPONSORSHIP & COLLABORATIONS -->
+
 <details>
-<summary><b>🤝 &nbsp; ꜱᴘᴏɴꜱᴏʀꜱʜɪᴘ ɪɴꜰᴏʀᴍᴀᴛɪᴏɴ &nbsp;&nbsp;&nbsp; </b></summary>
+<summary><b>🤝  ꜱᴘᴏɴꜱᴏʀꜱʜɪᴘꜱ & ᴄᴏʟʟᴀʙᴏʀᴀᴛɪᴏɴꜱ</b></summary>
 
 <br>
 
-If you sponsor me for my work, which is done to help the OSINT and Cyber Community, you will get:
-
-- A sponsorship badge displayed on your GitHub profile
-- A shoutout on Twitter (+17K Followers)
-- Your logo on the next OSINT Tool | Project,  with recognition for the sponsorship in writing, as well as your company/website details
-
-To move forward with the sponsorship: click [here](https://github.com/sponsors/C3n7ral051nt4g3ncy)
-      
-If you are looking for speakers/workshops (such as I did below for #OSINTPunk23) for your OSINT or Cyber event/conference, feel free to contact me.
- 
-<img width=633 src="https://user-images.githubusercontent.com/104733166/223172129-6825fb73-2328-47bc-a9b2-a0cbe48e1916.png">
-
-<br>
-<br>
-
-https://user-images.githubusercontent.com/104733166/223172071-aed3efdc-f9b2-4639-96b9-9f4167617a5b.mp4
-
-<br>
-<br>
-      
-https://user-images.githubusercontent.com/104733166/225994689-9e6a2459-8091-4523-9cc7-2102ecf0362e.mp4
-
-<br>
-<br>
-
-I can also make OSINT Capture The Flag (CTF) events for your organization. I created part of the October 2023 Purple Pill OSINT CTF (Paris, France).<br>
-My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was also partner for the event alongside the French Armed Forced (Navy), and other top Cyber companies such as Yogosha and Neverhack.
-
-<img width=633 src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/b7c46deb-5e91-4883-9281-c31bd9b1928a">
-
+<p align="center">
+  <b>SUPPORT OPEN-SOURCE INTELLIGENCE</b>
 </p>
-</details>
+
+<p align="center">
+  Supporting my work means supporting the development of
+  open-source tools, research, and knowledge sharing
+  across the OSINT and cybersecurity communities.
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/C3n7ral051nt4g3ncy">
+    <img src="https://img.shields.io/badge/♥_BECOME_A_SPONSOR-a855f7?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Become a Sponsor"/>
+  </a>
+</p>
+
+### ✦ Sponsor Benefits
+
+Sponsors receive recognition and visibility through:
+
+- **GitHub Recognition** — A sponsorship badge displayed on your GitHub profile.
+- **Social Media Exposure** — A shoutout on X (Twitter), reaching an audience of 21K+ followers.
+- **Project Visibility** — Your logo featured on an upcoming OSINT tool or project, with written recognition and your company or website details.
 
 <br>
+
+---
+
+### ✦ Speaking & Workshops
+
+Looking for a speaker or hands-on workshop for your next **OSINT or cybersecurity conference**?
+
+I am available for speaking engagements, practical workshops, and technical presentations on OSINT methodologies, tools, and investigations.
+
+<p align="center">
+  <img width="600" src="https://github.com/user-attachments/assets/bf098f85-2aaf-4f3e-88fe-2ebd618ff9cd" alt="OScon 2026 poster"/>
+  <br>
+  <sub>Oscon 2026, Zurich, Switzerland — Conference appearance</sub>
+           
+<br>
+           
+<br>
+
+<p align="center">
+  <img width="600" src="https://user-images.githubusercontent.com/104733166/223172129-6825fb73-2328-47bc-a9b2-a0cbe48e1916.png" alt="OSINT Punk Conference"/>
+  <br>
+  <sub>OSINTPunk23 — Conference appearance</sub>
+</p>
+
+<br>
+
+---
+
+### ✦ Custom OSINT CTF Events
+
+I also design and develop **OSINT Capture The Flag (CTF)** challenges and events tailored to organizations, conferences, and training programs.
+
+**Previous experience:** Contributed to the creation of the October 2023 Purple Pill OSINT CTF in Paris, France.
+
+<a href="https://tactical-osint-academy.com"><b>Tactical OSINT Academy</b></a> was also an event partner alongside the French Navy and cybersecurity companies including Yogosha and Neverhack.
+
+<p align="center">
+  <img width="600" src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/b7c46deb-5e91-4883-9281-c31bd9b1928a" alt="Purple Pill OSINT CTF"/>
+  <br>
+  <sub>Purple Pill OSINT CTF — Paris, 2023</sub>
+</p>
+
+<br>
+
+---
+
+<p align="center">
+  <b>Interested in sponsoring, collaborating, or organizing an event?</b>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sponsors/C3n7ral051nt4g3ncy">
+    <img src="https://img.shields.io/badge/Support_My_Work-a855f7?style=flat-square&logo=githubsponsors&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://tactical-osint-academy.com">
+    <img src="https://img.shields.io/badge/Training_%26_Collaboration-22d3ee?style=flat-square&logoColor=black"/>
+  </a>
+</p>
+
+<br>
+
+</details>
 
 
 <!-- My Sponsors -->
