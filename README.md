@@ -989,38 +989,11 @@ My company --> [Tactical OSINT Academy](https://tactical-osint-academy.com) was 
 
 <img width=633 src="https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/b7c46deb-5e91-4883-9281-c31bd9b1928a">
 
-
-
-
 </p>
 </details>
 
 <br>
 
-<br>
-      
-
-<!-- Cryptocurrency  -->
-<details>
-<summary><b>💲 &nbsp;&nbsp; ᴄʀʏᴘᴛᴏ ᴅᴏɴᴀᴛɪᴏɴꜱ  &nbsp;&nbsp;&nbsp; </b></summary>
-<p>
-<br>
-<br>
-         
-     
-|  Feel free to support my work with Crypto (BTC) ♡🙏| Scan QR Code for BTC Address |
-|---|---|
-| You can scan the QR with your phone or online with https://webqr.com |bc1q66awg48m2hvdsrf62pvev78z3vkamav7chusde
-| <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/> | <img width=160 src="https://user-images.githubusercontent.com/104733166/171052611-1f76b07c-832f-4a4a-9a0a-2f94595c28c9.png"> | 
-| You can also support my work by buying me a coffee | https://ko-fi.com/tacticalintelanalyst <image width="33" src="https://user-images.githubusercontent.com/104733166/199971653-0985ea1a-534d-4e5a-a3e2-71af6ba4776a.png"/>
-
-
-</p>
-</details>
-      
-<br>  
-
-<br>
 
 <!-- My Sponsors -->
 <details>
