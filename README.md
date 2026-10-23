@@ -408,17 +408,17 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 <summary><b>📰 &nbsp; &nbsp; ᴍᴇᴅɪᴀ ᴏɴ ᴍʏ ᴏꜱɪɴᴛ ʀᴇꜱᴇᴀʀᴄʜ &nbsp;&nbsp;&nbsp;  </b></summary>
 <p>
 
-<br>
-      
-<br>
-      
 <!--MEDIA:START-->
       
-*`The articles below have been archived, in case one of them is not accessible, grab the link and put it through The Internet Archive (WayBack Machine)` 
+*`The media articles below have been archived, if one isn't accessible, grab the link and put it through The Internet Archive (WayBack Machine)` 
      
 - <a href="https://www.wired.com/story/facial-recognition-identify-russian-soldiers"> WIRED: Online Sleuths Are Using Face Recognition to ID Russian Soldiers 🇺🇸</a>
       
 - <a href="https://www.washingtonexaminer.com/news/identities-of-russian-soldiers-revealed-through-facial-recognition-technology"> Washington Examiner Article 🇺🇸</a>
+
+- <a href="https://www.zataz.com/reconnaissance-faciale-un-visage-masque-reste-identifiable">Reconnaissance faciale : un visage masqué reste identifiable 🇫🇷</a>
+
+- <a href="https://finance.yahoo.com/news/catching-satanic-predators-protecting-kids-060000769.html"> Catching ‘Satanic Predators,’ Protecting Kids: OSINT Industries Supports NSW Police in Strike Force Constantine Investigation 🇦🇺</a>
  
 - <a href="https://www.latribune.fr/opinions/tribunes/renseignement-de-source-ouverte-osint-l-excellence-francaise-peut-elle-encore-etre-renforcee-956805.html"> Renseignement de source ouverte (OSINT) : l'excellence française peut-elle encore être renforcée ? 🇫🇷 <a/>
       
@@ -429,7 +429,6 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 - <a href="https://fr.news.yahoo.com/société-française-identifie-soldats-russes-135210413.html?guccounter=1&guce_referrer=aHR0cHM6Ly93d3cuZ29vZ2xlLmNvbS8&guce_referrer_sig=AQAAAHYcbidHeQvwNF89cFqzPqUoIrVfduflgQ57WzTkKhkXHPohouH-4JUJBrEsDO7ooxxzjtC1xHtp4T3RipXLVmKks82Xaozw3AxMPA9YmDWLeO__5Aqaz4K5xvQTqEs3_OJyyNi_2ODxmX7O21-Lyrdw4ckO8eimNh9Zf7OI9AZJ"> Une société française identifie les soldats russes en Ukraine par reconnaissance faciale 🇫🇷 <a/>
       
 - Mentionned in MAG'OSINT (Osint Magazine of the French Economic War School) 🇫🇷 [MAGOSINT.pdf](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/files/10948348/2023113354_mag-osint-13-aege-2.pdf)
-      
       
 - <a href="https://www.abc.es/economia/abci-inteligencia-artificial-tambien-entra-combate-guerra-ucrania-202203140205_noticia.html"> Spanish Article 🇪🇸</a>
 
@@ -450,20 +449,9 @@ $ 𝚠𝚑𝚘𝚊𝚖𝚒
 - Helped French Factchecking unit "Les Vérificateurs" from Groupe TF1/LCI regarding the Putin Body Double. (See video below)
 
 https://user-images.githubusercontent.com/104733166/233765799-dbfc612f-c8cc-4dd8-93b8-6103dd6d5aba.mp4
-
-
-      
-      
-<br>  
-
-<!--MEDIA:END-->
       
 </p>
 </details>
-      
-<br>
-      
-<br>
 
 <!-- OSINT / CYBER / CTF SHOWCASE -->
 <details>
@@ -1000,7 +988,6 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <br>
 </details>
-
 
 
 <!-- SPONSORSHIP & COLLABORATIONS -->
