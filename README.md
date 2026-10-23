@@ -6,11 +6,9 @@
 <img src="https://img.shields.io/badge/Bash-0a0a0e?style=for-the-badge&logo=gnubash&logoColor=22d3ee"/>
 <img src="https://img.shields.io/badge/Kali_Linux-0a0a0e?style=for-the-badge&logo=kalilinux&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/Tor-0a0a0e?style=for-the-badge&logo=torproject&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/Maltego-0a0a0e?style=for-the-badge&logo=maltego&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/Docker-0a0a0e?style=for-the-badge&logo=docker&logoColor=22d3ee"/>
 <img src="https://img.shields.io/badge/Flask-0a0a0e?style=for-the-badge&logo=flask&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/SQLite-0a0a0e?style=for-the-badge&logo=sqlite&logoColor=22d3ee"/>
-<img src="https://img.shields.io/badge/OpenAI-0a0a0e?style=for-the-badge&logo=openai&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/Linux-0a0a0e?style=for-the-badge&logo=linux&logoColor=22d3ee"/>
 <img src="https://img.shields.io/badge/Heroku-0a0a0e?style=for-the-badge&logo=heroku&logoColor=a855f7"/>
 <img src="https://img.shields.io/badge/PyCharm-0a0a0e?style=for-the-badge&logo=pycharm&logoColor=22d3ee"/>
