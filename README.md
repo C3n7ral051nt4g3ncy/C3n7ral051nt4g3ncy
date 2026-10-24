@@ -1038,6 +1038,12 @@ OhSINT                     |  Sakura                  | 7-day Streak            
 
 <p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/02560467-2e4a-4fe1-9eb5-c90d40a96d09"/><br>
 <p align="center"> <img width="99" height="99" src="https://github.com/user-attachments/assets/e28b174e-76b6-4866-a134-c289c8995d26"/><br>
+
+[Deep Threats - First Blood](https://passport.cancred.ca/app/badge?id=43966)
+
+[Deep Threats - Winner](https://passport.cancred.ca/app/badge?id=43969)
+
+[Deep Threats - 0 Fail](https://passport.cancred.ca/app/badge?id=43968)
       
      🥇1st Place - Fastest Time with 0 Fails 
      🥇1st Place best overall OSINT Report 
