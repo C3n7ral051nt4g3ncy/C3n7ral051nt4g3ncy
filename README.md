@@ -77,7 +77,7 @@
 <br><br>
 <img width="19" src="https://github.com/user-attachments/assets/65532c9d-d566-47a7-acbd-318289e3a1f0"/> &nbsp;<b><a href="https://c3n7ral051nt4g3ncy.github.io/index.html">c3n7ral051nt4g3ncy.github.io</a></b> &nbsp;—&nbsp;Site</b><br>
 <img width="19" src="https://github.com/user-attachments/assets/ba02d6a6-78b2-4ad9-b818-18d01789942a"/> &nbsp;<b><a href="https://osint.industries">OSINT Industries</a></b> &nbsp;—&nbsp; Lead OSINT Trainer</b><br>
-<img width="19" src="https://github.com/user-attachments/assets/99f6a882-7a54-4559-83d9-bf0f4b150239"/> &nbsp;<b><a href="https://osint.industries">Les BLaireaux des Légendes</a></b> &nbsp;—&nbsp;Co-Founder of the Legendary Badgers CTF Team</b><br>
+<img width="19" src="https://github.com/user-attachments/assets/99f6a882-7a54-4559-83d9-bf0f4b150239"/> &nbsp;<b><a href="https://github.com/Les-Blaireaux-des-Legendes">Les BLaireaux des Légendes</a></b> &nbsp;—&nbsp;Blaireaux des Légendes GitHub Page</b><br>
 <img width="19" src="https://github.com/user-attachments/assets/f2afc428-73f2-495a-9345-a22363f45b0f"/> &nbsp;<b><a href="https://deepthreats.fr">French Army OSINT CTF - Deep Threats</a></b> &nbsp;—&nbsp; 2026 Winner</b><br>
 <img width="16" src="https://user-images.githubusercontent.com/104733166/219610687-0da86d7d-dcd7-451e-8ac7-f4f484092dea.png"/> &nbsp;<b><a href="https://www.tracelabs.org">Trace Labs</a></b> &nbsp;—&nbsp; 3x Gold Badge · 3x Silver · 1x Bronze<br>
 <img width="16" src="https://github.com/user-attachments/assets/6290e4f8-97dd-4818-b11a-b712de5761cc"/> &nbsp;<b><a href="https://www.missingpersonshackathon.com.au">Australian NMP Hackathon</a></b> &nbsp;—&nbsp; 2024 Winner<br>
