@@ -312,6 +312,7 @@
 - Featured in the [OSINT Jobs September 2022 newsletter - This Week's OSINT Tips and Tricks.](https://preview.mailerlite.com/c7j8u4n9s2/2037099115355053047/o5z0/) [Archived on WayBack Machine]
 - Work done on partial Facial Recognition was [mentionned at the INCYBER Forum 2024](https://github.com/C3n7ral051nt4g3ncy/C3n7ral051nt4g3ncy/assets/104733166/c858d586-06ef-434c-bb39-6d91ce78a743) by Sylvain Hajri (Navlys), founder of Epieos.
 - Facial Recognition work was presented at the [RootedCON 2022 in Madrid](https://user-images.githubusercontent.com/104733166/203194889-b04994b2-1357-4a2a-9f73-e2ba0c87b238.png)
+- Featured in [Indicator Media](https://indicator.media), [Tools and Tips](https://web.archive.org/web/20261025121338/https://indicator.media/p/briefing-preparing-for-us-election-disinformation)
 
 ---
 
