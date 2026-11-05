@@ -108,12 +108,8 @@
 
 <br>
 
-
 <p align="center"> 
 
-<img width="600px" src="https://github-readme-stats-lake-omega.vercel.app/api?username=C3n7ral051nt4g3ncy&show_icons=true&line&hide_border=true&title_color=a855f7&icon_color=22d3ee&text_color=c9c4e8&bg_color=0a0a0e" alt="C3n7ral051nt4g3ncy's GitHub Stats"/>
-   
-<br>
       
 <img width="600px" src="https://github-readme-stats-lake-omega.vercel.app/api/top-langs/?username=C3n7ral051nt4g3ncy&langs_count=6&layout=compact&hide_border=true&title_color=a855f7&text_color=c9c4e8&bg_color=0a0a0e" alt="C3n7ral051nt4g3ncy's Most Used Languages"/>
 
